@@ -259,8 +259,6 @@ Error message and password prompt
 
 <li>$:/DefaultTiddlers</li>
 
-<li>$:/Import</li>
-
 <li>$:/isEncrypted</li>
 
 <li>$:/language/Buttons/NewHere/Hint</li>
@@ -313,7 +311,11 @@ Error message and password prompt
 
 <li>$:/state/folded/GettingStarted</li>
 
+<li>$:/state/palettemanager/showexternal</li>
+
 <li>$:/state/plugin-info--270617185-$:/themes/jd/Mono</li>
+
+<li>$:/state/search-list/selected-item--874113614</li>
 
 <li>$:/state/ShowPaletteEditor</li>
 
@@ -374,6 +376,8 @@ Error message and password prompt
 <li>Home</li>
 
 <li>Starting a new poem</li>
+
+<li>Ways to edit a poem</li>
 
 </ul>
 </p>
@@ -10948,11 +10952,6 @@ $:/config/ViewToolbarButtons/Visibility/$(listItem)$
 
 </pre>
 </div>
-<div status="complete" title="$:/Import">
-<pre>The following tiddlers were imported:
-
-# [[$:/plugins/venomspinner/ghostwriter]]</pre>
-</div>
 <div bag="default" revision="0" title="$:/isEncrypted">
 <pre>no</pre>
 </div>
@@ -11013,8 +11012,8 @@ $:/config/ViewToolbarButtons/Visibility/$(listItem)$
 button.green-link {color:#00cc00;}
 </pre>
 </div>
-<div created="20190202142805411" creator="jd" modified="20210315143703001" modifier="jd" title="$:/palette">
-<pre>$:/palettes/Twilight</pre>
+<div created="20190202142805411" creator="jd" modified="20210316195411747" modifier="jd" title="$:/palette">
+<pre>$:/palettes/Twilight Modified</pre>
 </div>
 <div created="20210315093751612" description="A dark theme" modified="20210315094508946" name="Rocker" tags="$:/tags/Palette" title="$:/palettes/modified" type="application/x-tiddler-dictionary">
 <pre>alert-background: #ffe476
@@ -11124,7 +11123,7 @@ untagged-background: #999999
 very-muted-foreground: #888888
 </pre>
 </div>
-<div author="Thomas Elmiger" created="20210315094527975" description="Delightful, soft darkness." modified="20210315094548127" name="Twilight" tags="$:/tags/Palette" title="$:/palettes/Twilight Modified" type="application/x-tiddler-dictionary">
+<div author="Thomas Elmiger" created="20210315094527975" description="Delightful, soft darkness." modified="20210316200922974" name="Twilight" tags="$:/tags/Palette" title="$:/palettes/Twilight Modified" type="application/x-tiddler-dictionary">
 <pre>alert-background: rgb(255, 255, 102)
 alert-border: rgb(232, 232, 125)
 alert-highlight: rgb(255, 51, 51)
@@ -11155,9 +11154,9 @@ dropdown-border: rgb(255, 255, 255)
 dropdown-tab-background: rgba(0,0,0,.1)
 dropdown-tab-background-selected: rgba(255,255,255,1)
 dropzone-background: #9eebcf
-external-link-background: inherit
+external-link-background: #f7ec17
 external-link-background-hover: inherit
-external-link-background-visited: inherit
+external-link-background-visited: #ff8000
 external-link-foreground: rgb(179, 179, 255)
 external-link-foreground-hover: inherit
 external-link-foreground-visited: rgb(153, 153, 255)
@@ -11196,7 +11195,7 @@ sidebar-tab-foreground: rgb(179, 179, 179)
 sidebar-tab-foreground-selected: rgb(179, 179, 179)
 sidebar-tiddler-link-foreground: rgb(179, 179, 179)
 sidebar-tiddler-link-foreground-hover: rgb(115, 115, 115)
-site-title-foreground: rgb(255, 201, 102)
+site-title-foreground: #ff0000
 static-alert-foreground: rgba(0,0,0,.3)
 tab-background: rgba(0,0,0,0.125)
 tab-background-selected: rgb(38, 38, 38)
@@ -11210,8 +11209,8 @@ table-footer-background: rgba(0,0,0,.4)
 table-header-background: rgba(0,0,0,.1)
 tag-background: rgb(255, 201, 102)
 tag-foreground: rgb(25, 25, 25)
-tiddler-background: rgb(38, 38, 38)
-tiddler-border: rgba(240, 196, 117, 0.7)
+tiddler-background: #252525
+tiddler-border: #ff0000
 tiddler-controls-foreground: rgb(128, 128, 128)
 tiddler-controls-foreground-hover: rgba(255, 255, 255, 0.8)
 tiddler-controls-foreground-selected: rgba(255, 255, 255, 0.9)
@@ -11223,10 +11222,10 @@ tiddler-editor-fields-odd: rgb(28, 28, 28)
 tiddler-info-background: rgb(43, 43, 43)
 tiddler-info-border: rgb(25, 25, 25)
 tiddler-info-tab-background: rgb(43, 43, 43)
-tiddler-link-background: rgb(38, 38, 38)
-tiddler-link-foreground: rgb(204, 204, 255)
-tiddler-subtitle-foreground: rgb(255, 255, 255)
-tiddler-title-foreground: rgb(255, 192, 76)
+tiddler-link-background: #ff0000
+tiddler-link-foreground: #ff0000
+tiddler-subtitle-foreground: #ff8000
+tiddler-title-foreground: #ff0000
 toolbar-cancel-button: 
 toolbar-close-button: 
 toolbar-delete-button: 
@@ -11237,8 +11236,7 @@ toolbar-new-button:
 toolbar-options-button: 
 toolbar-save-button: 
 untagged-background: rgb(255, 255, 255)
-very-muted-foreground: rgba(240, 196, 117, 0.7)
-</pre>
+very-muted-foreground: rgba(240, 196, 117, 0.7)</pre>
 </div>
 <div created="20200808143350695" modified="20200808143350695" title="$:/palettes/Vanilla 1">
 <pre></pre>
@@ -13561,18 +13559,24 @@ exports.context = contextWidget;
 <div created="20210315093602814" modified="20210315093604250" title="$:/state/folded/GettingStarted">
 <pre>show</pre>
 </div>
+<div created="20210316195029855" modified="20210316195029855" title="$:/state/palettemanager/showexternal">
+<pre>yes</pre>
+</div>
 <div created="20210315094806115" modified="20210315094806115" title="$:/state/plugin-info--270617185-$:/themes/jd/Mono">
 <pre>yes</pre>
 </div>
-<div created="20210315093749548" modified="20210315093749548" title="$:/state/ShowPaletteEditor">
+<div created="20210316200147246" modified="20210316200147246" title="$:/state/search-list/selected-item--874113614">
+<pre>vanilla-userInput</pre>
+</div>
+<div created="20210315093749548" modified="20210316195108922" title="$:/state/ShowPaletteEditor">
 <pre>yes</pre>
 </div>
 <div created="20161122140345592" creator="Riz
-" modified="20210315163351456" modifier="Riz" title="$:/state/sidebar">
+" modified="20210316201138062" modifier="Riz" title="$:/state/sidebar">
 <pre>yes</pre>
 </div>
-<div created="20210314201126880" modified="20210315163242315" title="$:/state/tab--1963855381">
-<pre>$:/core/ui/ControlPanel/Theme</pre>
+<div created="20210314201126880" modified="20210316200212997" title="$:/state/tab--1963855381">
+<pre>$:/core/ui/ControlPanel/Palette</pre>
 </div>
 <div created="20210315094804347" modified="20210315143651736" title="$:/state/tab--86143343">
 <pre>$:/core/ui/ControlPanel/Plugins/Installed/Plugins</pre>
@@ -13583,8 +13587,8 @@ exports.context = contextWidget;
 <div created="20210315134258886" modified="20210315163417416" title="$:/state/tab/moresidebar-1850697562">
 <pre>$:/core/ui/MoreSideBar/All</pre>
 </div>
-<div created="20210314200650585" modified="20210315163346741" title="$:/state/tab/sidebar--595412856">
-<pre>$:/core/ui/SideBar/More</pre>
+<div created="20210314200650585" modified="20210316200024191" title="$:/state/tab/sidebar--595412856">
+<pre>$:/core/ui/SideBar/Tools</pre>
 </div>
 <div created="20210315093704901" modified="20210315093709406" title="$:/state/tabs/controlpanel/toolbars-1345989671">
 <pre>$:/core/ui/ControlPanel/Toolbars/PageControls</pre>
@@ -13604,7 +13608,7 @@ exports.context = contextWidget;
 <div bag="default" revision="1" title="$:/status/UserName">
 <pre></pre>
 </div>
-<div created="20210316161702198" list="[[Starting a new poem]] Home" modified="20210316161702198" title="$:/StoryList">
+<div created="20210316192443693" list="Home" modified="20210316200541197" title="$:/StoryList">
 <pre></pre>
 </div>
 <div created="20200519141000553" list="$:/.giffmex/Buttons/more-tiddler-edit-actions $:/core/ui/Buttons/delete $:/core/ui/Buttons/cancel $:/core/ui/Buttons/save" modified="20200521145647980" tags="$:/giffmex/bigeditarea $:/giffmex/stroll" title="$:/tags/EditToolbar">
@@ -13619,7 +13623,7 @@ exports.context = contextWidget;
 <div bag="default" created="20200127144249151" list="$:/core/ui/Buttons/fold $:/.giffmex/ViewToolbar/new-note-here $:/.giffmex/ViewToolbar/new-note-here-datetime $:/.giffmex/viewtemplate/viewrefs $:/jd/fullscreen-editor/EditButton $:/core/ui/Buttons/more-tiddler-actions $:/core/ui/Buttons/info $:/core/ui/Buttons/new-here $:/core/ui/Buttons/new-journal-here $:/core/ui/Buttons/clone $:/core/ui/Buttons/export-tiddler $:/core/ui/Buttons/edit $:/core/ui/Buttons/delete $:/core/ui/Buttons/permalink $:/core/ui/Buttons/permaview $:/core/ui/Buttons/open-window $:/core/ui/Buttons/close-others $:/core/ui/Buttons/close $:/core/ui/Buttons/fold-others" modified="20200808142339491" revision="0" tags="$:/giffmex/stroll" title="$:/tags/ViewToolbar" type="text/vnd.tiddlywiki">
 <pre></pre>
 </div>
-<div created="20190202142800922" creator="jd" modified="20210316161705184" modifier="jd" title="$:/theme">
+<div created="20190202142800922" creator="jd" modified="20210316200014120" modifier="jd" title="$:/theme">
 <pre>$:/themes/tiddlywiki/vanilla</pre>
 </div>
 <div author="JD" core-version="&gt;=5.1.19" created="20190202102252527" creator="jd" dependents="$:/themes/tiddlywiki/vanilla" description="For writing long texts" list="contents" modified="20190203163019606" modifier="jd" name="Mono" plugin-type="theme" source="http://j.d.mono.tiddlyspot.com" title="$:/themes/jd/Mono" type="application/json" version="1.0.32">
@@ -14019,12 +14023,36 @@ You can edit any pages but changes won't be saved. If you want to download a cop
 * Another pamphlet called 'Emergence' at the moment
 </pre>
 </div>
-<div created="20210316161722381" modified="20210316161905885" tags="" title="Starting a new poem" type="text/x-markdown">
+<div created="20210316161722381" modified="20210316194803373" tags="" title="Starting a new poem" type="text/x-markdown">
 <pre>Oh no, you want to write a poem but have no idea where to start. There's serious fear of the blank page going on.
 * Use a prompt
 * Free Write to a timer
 * Remove the pressure
-* How are you feeling?</pre>
+* How are you feeling?
+
+Then look at [[Ways to edit a poem]]</pre>
+</div>
+<div created="20210316192447417" modified="20210316194712705" tags="" title="Ways to edit a poem" type="text/x-markdown">
+<pre>
+Here are some ideas and techniques if you are stuck on rewriting a poem.
+
+Remember that the whole point of editing is to Edit through someone else's eyes. You need to not be in love with the poem.
+
+* Read your poem aloud to hear the sound of it.
+* Where does the poem surprise you? Make these accidents intentional. Build up to them or go in different directions.
+* What is the imagery doing? Is it coherent? Is it mostly Concrete or abstract? Are you showing or telling?
+* Does the form reflect the content? Is there a more appropriate form that would work? Can you build in rhyme or is the rhyme inapropriate?
+* Cut up the poem.
+* Transform the poem and create something new out of the ashes.
+*  Use a line as a new poem
+* Create a Negative of a poem
+* Combine three images from seperate poems or seperate sources.
+* Condense to a single sentence
+* Look at line breaks. What are they doing? Are they intentional?
+* Remove clichés
+* Remove joints of poem and common words. Look for vague, abstract concepts like 'love' 'beauty' etc Show don't tell!
+* Keep a slush pile
+</pre>
 </div>
 
 
