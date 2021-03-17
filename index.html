@@ -60,7 +60,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE." />
 
 <!--~~ Static styles ~~-->
 <div id="styleArea">
-<style data-tiddler-title="$:/boot/boot.css" data-tiddler-type="text/css" type="text/css">/*
+<style data-tiddler-created="20210316211609859" data-tiddler-modified="20210316211714955" data-tiddler-tags="blog-framework" data-tiddler-title="$:/boot/boot.css" data-tiddler-type="text/css" type="text/css">/*
 Basic styles used before we boot up the parsing engine
 */
 
@@ -207,6 +207,8 @@ Error message and password prompt
 
 <li>$:/config/PageControlButtons/Visibility/$:/_sq/Stories/Templates/StoryTogglePageControl</li>
 
+<li>$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/export-page</li>
+
 <li>$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/home</li>
 
 <li>$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/manager</li>
@@ -259,6 +261,8 @@ Error message and password prompt
 
 <li>$:/DefaultTiddlers</li>
 
+<li>$:/Import</li>
+
 <li>$:/isEncrypted</li>
 
 <li>$:/language/Buttons/NewHere/Hint</li>
@@ -303,11 +307,21 @@ Error message and password prompt
 
 <li>$:/plugins/venomspinner/ghostwriter</li>
 
+<li>$:/plugins/welford/twpin</li>
+
+<li>$:/plugins/welford/twstaticblog/helper</li>
+
+<li>$:/plugins/welford/twyt</li>
+
 <li>$:/plugins/wikilabs/link-to-tabs</li>
 
 <li>$:/SiteSubtitle</li>
 
 <li>$:/SiteTitle</li>
+
+<li>$:/state/advancedsearch/currentTab</li>
+
+<li>$:/state/advancedsearch/standard/currentTab</li>
 
 <li>$:/state/folded/GettingStarted</li>
 
@@ -315,11 +329,15 @@ Error message and password prompt
 
 <li>$:/state/plugin-info--270617185-$:/themes/jd/Mono</li>
 
-<li>$:/state/search-list/selected-item--874113614</li>
+<li>$:/state/plugin-info-1024715668-$:/plugins/welford/twstaticblog/helper---1861025739</li>
+
+<li>$:/state/plugin-info-2023614078-$:/themes/welford/phasersonkill</li>
 
 <li>$:/state/ShowPaletteEditor</li>
 
 <li>$:/state/sidebar</li>
+
+<li>$:/state/tab--1498284803</li>
 
 <li>$:/state/tab--1963855381</li>
 
@@ -328,6 +346,8 @@ Error message and password prompt
 <li>$:/state/tab-1749438307</li>
 
 <li>$:/state/tab/moresidebar-1850697562</li>
+
+<li>$:/state/tab/search-results/advancedsearch</li>
 
 <li>$:/state/tab/sidebar--595412856</li>
 
@@ -369,13 +389,21 @@ Error message and password prompt
 
 <li>$:/themes/tiddlywiki/vanilla/metrics/storytop</li>
 
+<li>$:/themes/welford/phasersonkill</li>
+
 <li>$:/view</li>
 
 <li>GettingStarted</li>
 
 <li>Home</li>
 
+<li>Read your writing aloud</li>
+
 <li>Starting a new poem</li>
+
+<li>Untitled</li>
+
+<li>Untitled 1</li>
 
 <li>Ways to edit a poem</li>
 
@@ -890,6 +918,9 @@ $:/config/ViewToolbarButtons/Visibility/$(listItem)$
 <div bag="default" created="20200416201744386" modified="20200808142342088" revision="0" tags="$:/giffmex/stroll" title="$:/config/PageControlButtons/Visibility/$:/_sq/Stories/Templates/StoryTogglePageControl" type="text/vnd.tiddlywiki">
 <pre>show</pre>
 </div>
+<div created="20210316205023126" modified="20210316205023126" title="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/export-page">
+<pre>show</pre>
+</div>
 <div created="20200502172232641" modified="20210315134357278" tags="$:/giffmex/stroll" title="$:/config/PageControlButtons/Visibility/$:/core/ui/Buttons/home">
 <pre>show</pre>
 </div>
@@ -944,7 +975,7 @@ $:/config/ViewToolbarButtons/Visibility/$(listItem)$
 <div created="20200521175658417" modified="20200521175658417" title="$:/ControlPanel 6">
 <pre></pre>
 </div>
-<div author="JeremyRuston" core-version="&gt;=5.0.0" dependents="" description="TiddlyWiki5 core" list="readme" name="Core" plugin-priority="0" plugin-type="plugin" title="$:/core" type="application/json" version="5.1.23">
+<div author="JeremyRuston" core-version="&gt;=5.0.0" created="20210316211741450" dependents="" description="TiddlyWiki5 core" list="readme" modified="20210316211743816" name="Core" plugin-priority="0" plugin-type="plugin" tags="blog-framework" title="$:/core" type="application/json" version="5.1.23">
 <pre>{
     &quot;tiddlers&quot;: {
         &quot;$:/Acknowledgements&quot;: {
@@ -10947,10 +10978,15 @@ $:/config/ViewToolbarButtons/Visibility/$(listItem)$
 &lt;/$reveal&gt;
 &lt;/div&gt;</pre>
 </div>
-<div bag="default" created="20200106211749103" modified="20210315093425864" revision="0" title="$:/DefaultTiddlers" type="text/vnd.tiddlywiki">
+<div bag="default" created="20200106211749103" list="" modified="20210316211845933" revision="0" tags="blog-framework" title="$:/DefaultTiddlers" type="text/vnd.tiddlywiki">
 <pre>[[Home]]
 
 </pre>
+</div>
+<div status="complete" title="$:/Import">
+<pre>The following tiddlers were imported:
+
+# [[$:/themes/welford/phasersonkill]]</pre>
 </div>
 <div bag="default" revision="0" title="$:/isEncrypted">
 <pre>no</pre>
@@ -13499,6 +13535,137 @@ exports.context = contextWidget;
     }
 }</pre>
 </div>
+<div author="James W. Anderson" bag="default" core-version="&gt;=5.0.0" dependents="" description="pin tiddlers to the default view" list="readme" plugin-type="plugin" revision="0" title="$:/plugins/welford/twpin" type="application/json" version="5.1.14-prerelease">
+<pre>{
+    &quot;tiddlers&quot;: {
+        &quot;$:/plugins/welford/twpin/caption&quot;: {
+            &quot;title&quot;: &quot;$:/plugins/welford/twpin/caption&quot;,
+            &quot;text&quot;: &quot;&lt;$fieldmangler tiddler=\&quot;$:/DefaultTiddlers\&quot;&gt;&lt;$list filter=\&quot;[all[current]]-[list[$:/DefaultTiddlers]]\&quot;&gt;pin tiddler&lt;/$list&gt;&lt;$list filter=\&quot;[list[$:/DefaultTiddlers]is[current]]\&quot;&gt;unpin tiddler&lt;/$list&gt;&lt;/$fieldmangler&gt;&quot;
+        },
+        &quot;$:/plugins/welford/twpin/settings/position&quot;: {
+            &quot;title&quot;: &quot;$:/plugins/welford/twpin/settings/position&quot;,
+            &quot;tags&quot;: &quot;&quot;,
+            &quot;text&quot;: &quot;&lt;$link to=\&quot;$:/config/twpin/position\&quot;&gt;Pinned Tiddlers  Display Position&lt;/$link&gt;\n\n&lt;$radio tiddler=\&quot;$:/config/twpin/position\&quot; value=\&quot;before\&quot;&gt; Before [[$:/DefaultTiddlers]] &lt;/$radio&gt;\n\n&lt;$radio tiddler=\&quot;$:/config/twpin/position\&quot; value=\&quot;after\&quot;&gt; After [[$:/DefaultTiddlers]] &lt;/$radio&gt;\r\n&quot;
+        },
+        &quot;$:/plugins/welford/twpin/fidget.js&quot;: {
+            &quot;text&quot;: &quot;/*\\\r\ntitle: $:/plugins/welford/twpin/fidget.js\r\ntype: application/javascript\r\nmodule-type: widget\r\n\r\nWidget which picks up messages to append values to list fields\r\n\r\n\\*/\r\n(function(){\r\n\r\n/*jslint node: true, browser: true */\r\n/*global $tw: false */\r\n\&quot;use strict\&quot;;\r\n\r\nvar Widget = require(\&quot;$:/core/modules/widgets/widget.js\&quot;).widget;\r\n\r\nvar Fidget = function(parseTreeNode,options) {\r\n\tthis.initialise(parseTreeNode,options);\r\n\tthis.addEventListeners([\r\n\t\t{type: \&quot;tm-append-to-list\&quot;, handler: \&quot;handleAppendToList\&quot;},\t\r\n\t\t{type: \&quot;tm-remove-from-list\&quot;, handler: \&quot;handleRemoveFromList\&quot;},\t\r\n\t]);\r\n};\r\n\r\n/*\r\nInherit from the base widget class\r\n*/\r\nFidget.prototype = new Widget();\r\n/*\r\nRender this widget into the DOM\r\n*/\r\nFidget.prototype.render = function(parent,nextSibling) {\r\n\tthis.parentDomNode = parent;\r\n\tthis.computeAttributes();\r\n\tthis.execute();\r\n\tthis.renderChildren(parent,nextSibling);\r\n};\r\n/*\r\nCompute the internal state of the widget\r\n*/\r\nFidget.prototype.execute = function() {\r\n\t// Get our parameters\r\n\tthis.field = this.getAttribute(\&quot;field\&quot;);\r\n\tthis.value = this.getAttribute(\&quot;value\&quot;);\r\n\t// Construct the child widgets\r\n\tthis.makeChildWidgets();\r\n};\r\n\r\n/*\r\nSelectively refreshes the widget if needed. Returns true if the widget or any of its children needed re-rendering\r\n*/\r\nFidget.prototype.refresh = function(changedTiddlers) {\r\n\tvar changedAttributes = this.computeAttributes();\r\n\tif(changedAttributes.field || changedAttributes.value) {\r\n\t\tthis.refreshSelf();\r\n\t\treturn true;\r\n\t}\r\n\treturn this.refreshChildren(changedTiddlers);\r\n};\r\n\r\nFidget.prototype.GetParameters = function(event) {\t\r\n\tif(typeof event.paramObject === \&quot;object\&quot;) {\r\n\t\t// If we got a hashmap use it as the template\r\n\t\tvar additionalFields = event.paramObject;\r\n\t\tif(additionalFields &amp;&amp; additionalFields.field) {\r\n\t\t\tthis.field = additionalFields.field;\r\n\t\t}\r\n\t\tif(additionalFields &amp;&amp; additionalFields.value) {\r\n\t\t\tthis.value = additionalFields.value;\r\n\t\t}\r\n\t}\r\n}\r\n\r\nFidget.prototype.handleAppendToList = function(event) {\t\r\n\tthis.GetParameters(event);\r\n\t//get field, add value to front and set it\r\n\tvar tr = $tw.utils.parseTextReference(this.field),\r\n\t\ttitle = tr.title || currTiddlerTitle;\r\n\tvar tiddler = this.wiki.getTiddler(title);\r\n\tif(tiddler) {\r\n\t\tvar original = tiddler.fields[\&quot;list\&quot;];\r\n\t\tvar updatedField;\r\n\t\tif(original){\r\n\t\t\tif(original.indexOf(this.value) == -1){\r\n\t\t\t\tupdatedField = original.slice(0);\r\n\t\t\t\tupdatedField.unshift(this.value);\r\n\t\t\t}\r\n\t\t}\r\n\t\telse{\r\n\t\t\tupdatedField = [this.value];\r\n\t\t}\r\n\t\tthis.wiki.setTextReference(this.field,updatedField,this.getVariable(\&quot;currentTiddler\&quot;));\t\t\t\t\t\t\t\r\n\t}\r\n\treturn false;\r\n};\r\n\r\nFidget.prototype.handleRemoveFromList = function(event) {\r\n\tthis.GetParameters(event);\r\n\tif(this.field &amp;&amp; this.value){\r\n\t\t//get field, add value to front and set it\r\n\t\tvar tr = $tw.utils.parseTextReference(this.field),\r\n\t\t\ttitle = tr.title || currTiddlerTitle;\r\n\t\tvar tiddler = this.wiki.getTiddler(title);\r\n\t\tif(tiddler){\t\t\r\n\t\t\tvar original = tiddler.fields[\&quot;list\&quot;];\r\n\t\t\tvar updatedField;\r\n\t\t\tif(original){\r\n\t\t\t\tvar index = original.indexOf(this.value);\r\n\t\t\t\tupdatedField = original.slice(0);\r\n\t\t\t\tif(index &gt; -1){\r\n\t\t\t\t\tupdatedField.splice(index, 1);\r\n\t\t\t\t\tthis.wiki.setTextReference(this.field,updatedField,this.getVariable(\&quot;currentTiddler\&quot;));\r\n\t\t\t\t}\r\n\t\t\t}\r\n\t\t}\r\n\t}\r\n\treturn false;\r\n};\r\n\r\nexports.fidget = Fidget;\r\n\r\n})();\r\n&quot;,
+            &quot;title&quot;: &quot;$:/plugins/welford/twpin/fidget.js&quot;,
+            &quot;type&quot;: &quot;application/javascript&quot;,
+            &quot;module-type&quot;: &quot;widget&quot;
+        },
+        &quot;$:/plugins/welford/twpin/pin.js&quot;: {
+            &quot;text&quot;: &quot;/*\\\r\ntitle: $:/plugins/welford/twpin/pin.js\r\ntype: application/javascript\r\nmodule-type: startup\r\n\r\nAppends hooks so that i can change the default tiddlers\r\n\r\n\\*/\r\n(function(){\r\n\r\n/*jslint node: true, browser: true */\r\n/*global $tw: false */\r\n\&quot;use strict\&quot;;\r\n\r\n// Export name and synchronous status\r\nexports.name = \&quot;addpinnedtiddlers\&quot;;\r\nexports.platforms = [\&quot;browser\&quot;];\r\nexports.after = [\&quot;startup\&quot;];\r\nexports.before = [\&quot;story\&quot;];\r\nexports.synchronous = true;\r\n\r\n// Default tiddlers\r\nvar DEFAULT_TIDDLERS_TITLE = \&quot;$:/DefaultTiddlers\&quot;;\r\nvar POSITION_TIDDLER_TITLE = \&quot;$:/config/twpin/position\&quot;;\r\n\r\nexports.startup = function() {\r\n\t$tw.hooks.addHook(\&quot;th-opening-default-tiddlers-list\&quot;,function(list) {\r\n\t\t//default to before DEFAULT_TIDDLERS_TITLE \r\n\t\tvar position_before = true;\r\n\t\tif($tw.wiki.getTiddlerText(POSITION_TIDDLER_TITLE,\&quot;before\&quot;) !== \&quot;before\&quot;) {\r\n\t\t\tposition_before = false;\r\n\t\t}\r\n\t\t// Add pinned tiddlers to the end of the list if they aren't already in it\r\n\t\tvar taggedList = $tw.wiki.getTiddler(DEFAULT_TIDDLERS_TITLE).fields[\&quot;list\&quot;];\r\n\t\tif(taggedList){\r\n\t\t\tvar new_list = [];\r\n\t\t\tfor (var i = 0; i &lt; taggedList.length; i++) {\r\n\t\t\t\tif(list.indexOf(taggedList[i]) === -1 &amp;&amp; new_list.indexOf(taggedList[i]) === -1) {\r\n\t\t\t\t\tnew_list.push(taggedList[i]);\r\n\t\t\t\t}\r\n\t\t\t}\r\n\t\t\tif(new_list.length == 0)\r\n\t\t\t\treturn list;\r\n\r\n\t\t\tif(position_before){\r\n\t\t\t\tlist = new_list.concat(list);\r\n\t\t\t}else{\r\n\t\t\t\tlist = list.concat(new_list);\r\n\t\t\t}\r\n\t\t}\r\n\t\treturn list;\r\n\t});\r\n};\r\n\r\n})();&quot;,
+            &quot;title&quot;: &quot;$:/plugins/welford/twpin/pin.js&quot;,
+            &quot;type&quot;: &quot;application/javascript&quot;,
+            &quot;module-type&quot;: &quot;startup&quot;
+        },
+        &quot;$:/plugins/welford/twpin/button&quot;: {
+            &quot;title&quot;: &quot;$:/plugins/welford/twpin/button&quot;,
+            &quot;tags&quot;: &quot;$:/tags/ViewToolbar&quot;,
+            &quot;caption&quot;: &quot;{{$:/plugins/welford/twpin/images/unpinned}} {{$:/plugins/welford/twpin/caption}}&quot;,
+            &quot;list-after&quot;: &quot;$:/core/ui/Buttons/info&quot;,
+            &quot;description&quot;: &quot;Pin a tiddler to the default page&quot;,
+            &quot;text&quot;: &quot;&lt;$fieldmangler tiddler=\&quot;$:/DefaultTiddlers\&quot;&gt;&lt;$fidget&gt;&lt;$list filter=\&quot;[all[current]]-[list[$:/DefaultTiddlers]]\&quot;&gt;&lt;$button class=&lt;&lt;tv-config-toolbar-class&gt;&gt; tooltip=\&quot;Pin this tiddler\&quot;&gt;&lt;$action-sendmessage $message=\&quot;tm-add-field\&quot; $param=\&quot;list\&quot;/&gt;&lt;$action-sendmessage $message=\&quot;tm-append-to-list\&quot; field=\&quot;$:/DefaultTiddlers!!list\&quot; value=&lt;&lt;currentTiddler&gt;&gt;/&gt;&lt;$action-sendmessage $message=\&quot;tm-save-wiki\&quot;/&gt;{{$:/plugins/welford/twpin/images/unpinned}}&lt;$list filter=\&quot;[&lt;tv-config-toolbar-text&gt;prefix[yes]]\&quot;&gt;&lt;span class=\&quot;tc-btn-text\&quot;&gt;&lt;$text text={{$:/plugins/welford/twpin/pincaption}}/&gt;&lt;/span&gt;&lt;/$list&gt;&lt;/$button&gt;&lt;/$list&gt;&lt;$list filter=\&quot;[list[$:/DefaultTiddlers]is[current]]\&quot;&gt;&lt;$button class=&lt;&lt;tv-config-toolbar-class&gt;&gt; tooltip=\&quot;Unpin this tiddler\&quot;&gt;&lt;$action-sendmessage $message=\&quot;tm-add-field\&quot; $param=\&quot;list\&quot;/&gt;&lt;$action-sendmessage $message=\&quot;tm-remove-from-list\&quot; field=\&quot;$:/DefaultTiddlers!!list\&quot; value=&lt;&lt;currentTiddler&gt;&gt;/&gt;&lt;$action-sendmessage $message=\&quot;tm-save-wiki\&quot;/&gt;{{$:/plugins/welford/twpin/images/pinned}}&lt;$list filter=\&quot;[&lt;tv-config-toolbar-text&gt;prefix[yes]]\&quot;&gt;&lt;span class=\&quot;tc-btn-text\&quot;&gt;&lt;$text text={{$:/plugins/welford/twpin/unpincaption}}/&gt;&lt;/span&gt;&lt;/$list&gt;&lt;/$button&gt;&lt;/$list&gt;&lt;/$fidget&gt;&lt;/$fieldmangler&gt;&quot;
+        },
+        &quot;$:/plugins/welford/twpin/pincaption&quot;: {
+            &quot;title&quot;: &quot;$:/plugins/welford/twpin/pincaption&quot;,
+            &quot;text&quot;: &quot;pin tiddler&quot;
+        },
+        &quot;$:/plugins/welford/twpin/images/pinned&quot;: {
+            &quot;title&quot;: &quot;$:/plugins/welford/twpin/images/pinned&quot;,
+            &quot;tags&quot;: &quot;$:/tags/Image&quot;,
+            &quot;text&quot;: &quot;&lt;svg class=\&quot;tc-image-pinned-button tc-image-button\&quot; viewBox=\&quot;83 81 50 50\&quot; width=\&quot;22pt\&quot; height=\&quot;22pt\&quot;&gt;\r\n&lt;path d=\&quot;m 83,112.60511 c 0,1.385 1.100795,2.4858 2.485795,2.4858 l 17.968755,0 0,15.90909 9.0909,0 0,-15.90909 17.96876,0 c 1.385,0 2.48579,-1.1008 2.48579,-2.4858 l 0,-4.11931 C 133,107.1008 131.89921,106 130.51421,106 l -6.60512,0 0,-20.099432 C 123.90909,83.185968 121.72312,81 119.00852,81 l -22.017043,0 c -2.7146,0 -4.900568,2.185968 -4.900568,4.900568 l 0,20.099432 -6.605114,0 C 84.100795,106 83,107.1008 83,108.4858 l 0,4.11931 z m 13.636364,-9.36168 0,-14.941405 c 0,-1.526895 1.229675,-2.75657 2.756569,-2.75657 l 7.013497,0 c 1.52689,0 2.75657,1.229675 2.75657,2.75657 l 0,14.941405 c 0,1.5269 -1.22968,2.75657 -2.75657,2.75657 l -7.013497,0 c -1.526894,0 -2.756569,-1.22967 -2.756569,-2.75657 z\&quot;/&gt;\r\n&lt;/svg&gt;&quot;
+        },
+        &quot;$:/plugins/welford/twpin/unpincaption&quot;: {
+            &quot;title&quot;: &quot;$:/plugins/welford/twpin/unpincaption&quot;,
+            &quot;text&quot;: &quot;unpin tiddler&quot;
+        },
+        &quot;$:/plugins/welford/twpin/images/unpinned&quot;: {
+            &quot;title&quot;: &quot;$:/plugins/welford/twpin/images/unpinned&quot;,
+            &quot;tags&quot;: &quot;$:/tags/Image&quot;,
+            &quot;text&quot;: &quot;&lt;svg class=\&quot;tc-image-unpinned-button tc-image-button\&quot; viewBox=\&quot;83 81 50 50\&quot; width=\&quot;22pt\&quot; height=\&quot;22pt\&quot;&gt;\r\n&lt;path d=\&quot;m 101.39489,81 c -1.385,0 -2.4858,1.100795 -2.4858,2.485795 l 0,17.968755 -15.90909,0 0,9.0909 15.90909,0 0,17.96876 c 0,1.385 1.1008,2.48579 2.4858,2.48579 l 4.11931,0 c 1.385,0 2.4858,-1.10079 2.4858,-2.48579 l 0,-6.60512 20.09943,0 c 2.7146,0 4.90057,-2.18597 4.90057,-4.90057 l 0,-22.017043 c 0,-2.7146 -2.18597,-4.900568 -4.90057,-4.900568 l -20.09943,0 0,-6.605114 C 108,82.100795 106.8992,81 105.5142,81 l -4.11931,0 z m 9.36168,13.636364 14.94141,0 c 1.52689,0 2.75656,1.229675 2.75656,2.756569 l 0,7.013497 c 0,1.52689 -1.22967,2.75657 -2.75656,2.75657 l -14.94141,0 c -1.5269,0 -2.75657,-1.22968 -2.75657,-2.75657 l 0,-7.013497 c 0,-1.526894 1.22967,-2.756569 2.75657,-2.756569 z\&quot; /&gt;\r\n&lt;/svg&gt;&quot;
+        }
+    }
+}</pre>
+</div>
+<div author="James.W.Anderson" bag="default" core-version="&gt;=5.0.0" dependents="" description="Files to help customize a blog before it is exported" list="README" plugin-type="plugin" revision="0" title="$:/plugins/welford/twstaticblog/helper" type="application/json" version="5.1.8-prerelease">
+<pre>{
+    &quot;tiddlers&quot;: {
+        &quot;A-Z&quot;: {
+            &quot;title&quot;: &quot;A-Z&quot;,
+            &quot;tags&quot;: &quot;blog-framework&quot;,
+            &quot;created&quot;: &quot;20150420093458978&quot;,
+            &quot;modified&quot;: &quot;20150423172340063&quot;,
+            &quot;text&quot;: &quot;&lt;$list filter=\&quot;[[$:/plugins/welford/twstaticblog/helper/blogentrytags]tags[]tagging[]sort[title]!has[draft.of]]-[[$:/plugins/welford/twstaticblog/helper/donotexport]tags[]tagging[]]-[[$:/plugins/welford/twstaticblog/helper/blogentrytags]]\&quot;&gt;\r\n&lt;div class=\&quot;tc-menu-list-item\&quot;&gt;\r\n\t&lt;div class=\&quot;tc-menu-list-subitem\&quot;&gt;\r\n\t\t&lt;$link class=\&quot;long-links\&quot; to={{!!title}}&gt;&lt;$view field=\&quot;title\&quot;/&gt;&lt;/$link&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;div class=\&quot;tc-tags-wrapper\&quot; style=\&quot;display:inline;font-size:0.7em;\&quot;&gt;\r\n&lt;$list filter=\&quot;[all[current]tags[]sort[title]]-[[$:/plugins/welford/twstaticblog/helper/hiddentags]tags[]]\&quot;&gt;&lt;$link to={{!!title}} taglink=\&quot;true\&quot;&gt;&lt;$transclude tiddler=\&quot;$:/core/ui/TagTemplate\&quot;/&gt;&lt;/$link&gt;&lt;/$list&gt;&lt;/div&gt;\r\n\t&lt;/div&gt;\r\n&lt;/div&gt;\r\n&lt;/$list&gt;&quot;
+        },
+        &quot;Archived Articles&quot;: {
+            &quot;title&quot;: &quot;Archived Articles&quot;,
+            &quot;tags&quot;: &quot;blog-framework&quot;,
+            &quot;created&quot;: &quot;20150420093458978&quot;,
+            &quot;modified&quot;: &quot;20150423172340063&quot;,
+            &quot;text&quot;: &quot;&lt;$list filter=\&quot;[[$:/plugins/welford/twstaticblog/helper/blogentrytags]tags[]tagging[]!has[draft.of]!sort[created]eachday[created]]-[[$:/plugins/welford/twstaticblog/helper/donotexport]tags[]tagging[]]\&quot;&gt;\r\n&lt;div class=\&quot;tc-menu-list-item\&quot;&gt;\r\n&lt;$view field=\&quot;created\&quot; format=\&quot;date\&quot; template=\&quot;YYYY/MM/DD\&quot;/&gt;\r\n&lt;$list filter=\&quot;[[$:/plugins/welford/twstaticblog/helper/blogentrytags]tags[]tagging[]sameday:created{!!created}!has[draft.of]]-[[$:/plugins/welford/twstaticblog/helper/donotexport]tags[]tagging[]]\&quot;&gt;\r\n&lt;div class=\&quot;tc-menu-list-subitem\&quot;&gt;\r\n&lt;$link class=\&quot;long-links\&quot; to={{!!title}}&gt;&lt;$view field=\&quot;title\&quot;/&gt;&lt;/$link&gt; \r\n&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;div class=\&quot;tc-tags-wrapper\&quot; style=\&quot;display:inline;font-size:0.7em;\&quot;&gt;\r\n&lt;$list filter=\&quot;[all[current]tags[]sort[title]]-[[$:/plugins/welford/twstaticblog/helper/hiddentags]tags[]]\&quot;&gt;&lt;$link to={{!!title}} taglink=\&quot;true\&quot;&gt;&lt;$transclude tiddler=\&quot;$:/core/ui/TagTemplate\&quot;/&gt;&lt;/$link&gt;&lt;/$list&gt;&lt;/div&gt;\r\n&lt;/div&gt;\r\n&lt;/$list&gt;\r\n&lt;/div&gt;\r\n&lt;/$list&gt;&quot;
+        },
+        &quot;$:/plugins/welford/twstaticblog/helper/staticbanner&quot;: {
+            &quot;title&quot;: &quot;$:/plugins/welford/twstaticblog/helper/staticbanner&quot;,
+            &quot;text&quot;: &quot;&lt;div&gt; \r\n[[Sample Static Blog|index]], [[Tags|Tags]]. A barebones header, replace me!\r\n&lt;/div&gt;\r\n&quot;
+        },
+        &quot;$:/plugins/welford/twstaticblog/helper/subtitle&quot;: {
+            &quot;title&quot;: &quot;$:/plugins/welford/twstaticblog/helper/subtitle&quot;,
+            &quot;text&quot;: &quot;&lt;div class=\&quot;tc-subtitle\&quot;&gt;\r\n&lt;$link to={{!!modifier}}&gt;\r\n&lt;$view field=\&quot;modifier\&quot;/&gt;\r\n&lt;/$link&gt; &lt;$view field=\&quot;created\&quot; format=\&quot;date\&quot; template=\&quot;YYYY/MM/DD 0hh:0mm\&quot;/&gt;\r\n&lt;/div&gt;\r\n&quot;
+        },
+        &quot;Tags&quot;: {
+            &quot;title&quot;: &quot;Tags&quot;,
+            &quot;tags&quot;: &quot;blog-framework&quot;,
+            &quot;created&quot;: &quot;20150420093458978&quot;,
+            &quot;modified&quot;: &quot;20150423172340063&quot;,
+            &quot;text&quot;: &quot;&lt;div style=\&quot;display:inline;font-size:1.6em;line-height:1.65em;\&quot;&gt;\r\n&lt;$list filter=\&quot;[[$:/plugins/welford/twstaticblog/helper/blogentrytags]tags[]tagging[]tags[]sort[title]]-[[$:/plugins/welford/twstaticblog/helper/hiddentags]tags[]]\&quot;&gt;\r\n&lt;$link to={{!!title}} class=\&quot;taglink\&quot; taglink=\&quot;true\&quot;&gt;&lt;$transclude tiddler=\&quot;$:/core/ui/TagTemplate\&quot;/&gt;&lt;/$link&gt;\r\n&lt;/$list&gt;\r\n&lt;/div&gt;\n\n!!All Posts\r\n!![[Ordered Alphabetically|A-Z]]\r\n!![[Ordered by Creation Date|Archived Articles]]\r\n!![[Ordered by Modified Date|Updated Articles]]\r\n&quot;
+        },
+        &quot;$:/plugins/welford/twstaticblog/helper/title&quot;: {
+            &quot;title&quot;: &quot;$:/plugins/welford/twstaticblog/helper/title&quot;,
+            &quot;text&quot;: &quot;Sample Static Blog\r\n&quot;
+        },
+        &quot;Updated Articles&quot;: {
+            &quot;title&quot;: &quot;Updated Articles&quot;,
+            &quot;tags&quot;: &quot;blog-framework&quot;,
+            &quot;created&quot;: &quot;20150420093458978&quot;,
+            &quot;modified&quot;: &quot;20150423172340063&quot;,
+            &quot;text&quot;: &quot;&lt;$list filter=\&quot;[[$:/plugins/welford/twstaticblog/helper/blogentrytags]tags[]tagging[]!has[draft.of]!sort[modified]eachday[modified]]-[[$:/plugins/welford/twstaticblog/helper/donotexport]tags[]tagging[]]\&quot;&gt;\r\n&lt;div class=\&quot;tc-menu-list-item\&quot;&gt;\r\n&lt;$view field=\&quot;modified\&quot; format=\&quot;date\&quot; template=\&quot;YYYY/MM/DD\&quot;/&gt;\r\n&lt;$list filter=\&quot;[[$:/plugins/welford/twstaticblog/helper/blogentrytags]tags[]tagging[]sameday{!!modified}!has[draft.of]]-[[$:/plugins/welford/twstaticblog/helper/donotexport]tags[]tagging[]]\&quot;&gt;\r\n&lt;div class=\&quot;tc-menu-list-subitem\&quot;&gt;\r\n&lt;$link class=\&quot;long-links\&quot; to={{!!title}}&gt;&lt;$view field=\&quot;title\&quot;/&gt;&lt;/$link&gt; \r\n&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;div class=\&quot;tc-tags-wrapper\&quot; style=\&quot;display:inline;font-size:0.7em;\&quot;&gt;\r\n&lt;$list filter=\&quot;[all[current]tags[]sort[title]]-[[$:/plugins/welford/twstaticblog/helper/hiddentags]tags[]]\&quot;&gt;&lt;$link to={{!!title}} taglink=\&quot;true\&quot;&gt;&lt;$transclude tiddler=\&quot;$:/core/ui/TagTemplate\&quot;/&gt;&lt;/$link&gt;&lt;/$list&gt;&lt;/div&gt;\r\n&lt;/div&gt;\r\n&lt;/$list&gt;\r\n&lt;/div&gt;\r\n&lt;/$list&gt;&quot;
+        },
+        &quot;$:/plugins/welford/twstaticblog/helper/blogentrytags&quot;: {
+            &quot;title&quot;: &quot;$:/plugins/welford/twstaticblog/helper/blogentrytags&quot;,
+            &quot;tags&quot;: &quot;blog&quot;,
+            &quot;text&quot;: &quot;!Add Tags to this tiddler and they be exported as blog posts\n\n!Filter\n\n``[[$:/plugins/welford/twstaticblog/helper/blogentrytags]tags[]tagging[]]``\n\nThis filter should catch all blog posts\n\n!Example List \n\n10 tiddlers that will be exported as blog entries\n\n&lt;$list filter=\&quot;[[$:/plugins/welford/twstaticblog/helper/blogentrytags]tags[]tagging[]]\&quot;&gt;\n\n&lt;$view field=\&quot;title\&quot;/&gt;&lt;br/&gt;\n\n&lt;/$list&gt;&quot;
+        },
+        &quot;$:/plugins/welford/twstaticblog/helper/blogframeworktags&quot;: {
+            &quot;title&quot;: &quot;$:/plugins/welford/twstaticblog/helper/blogframeworktags&quot;,
+            &quot;tags&quot;: &quot;blog-framework&quot;,
+            &quot;text&quot;: &quot;!Add Tags to this tiddler and they be exported as blog framework pages\n\n!Filter\n\n``[[$:/plugins/welford/twstaticblog/helper/blogframeworktags]tags[]tagging[]]``\n\nThis filter should catch all blog framework pages\n\n!Example List \n\nTiddlers that will be exported as blog framework pages\n\n&lt;$list filter=\&quot;[[$:/plugins/welford/twstaticblog/helper/blogframeworktags]tags[]tagging[]]\&quot;&gt;\n\n&lt;$view field=\&quot;title\&quot;/&gt;&lt;br/&gt;\n\n&lt;/$list&gt;&quot;
+        },
+        &quot;$:/plugins/welford/twstaticblog/helper/donotexport&quot;: {
+            &quot;title&quot;: &quot;$:/plugins/welford/twstaticblog/helper/donotexport&quot;,
+            &quot;tags&quot;: &quot;blog-draft blog-donotexport&quot;,
+            &quot;text&quot;: &quot;!Add Tags to this tiddler and they will not be exported\n\n!Filter\n\n``-[[$:/plugins/welford/twstaticblog/helper/donotexport]tags[]tagging[]]``\n\nAdd this to your custom filters to make sure stuff intended to be hidden is kept hidden\n\n!Example List \n\nThese are tagged such that they will not be exported.\n\n&lt;$list filter=\&quot;[[$:/plugins/welford/twstaticblog/helper/donotexport]tags[]tagging[]]\&quot;&gt;\n\n&lt;$view field=\&quot;title\&quot;/&gt;&lt;br/&gt;\n\n&lt;/$list&gt;&quot;
+        },
+        &quot;$:/plugins/welford/twstaticblog/helper/donotindex&quot;: {
+            &quot;title&quot;: &quot;$:/plugins/welford/twstaticblog/helper/donotindex&quot;,
+            &quot;tags&quot;: &quot;archive unindex&quot;,
+            &quot;text&quot;: &quot;!Add Tags to this tiddler and they will not be included on the main page (index.html by default)\n\n!Filter\n\n``-[[$:/plugins/welford/twstaticblog/helper/donotindex]tags[]tagging[]]``\n\nAdd this to your custom filters to make sure stuff intended to be hidden is kept hidden\n\n!Example List \n\nThese are tagged such that they will not be exported.\n\n&lt;$list filter=\&quot;[[$:/plugins/welford/twstaticblog/helper/donotindex]tags[]tagging[]]\&quot;&gt;\n\n&lt;$view field=\&quot;title\&quot;/&gt;&lt;br/&gt;\n\n&lt;/$list&gt;&quot;
+        },
+        &quot;$:/plugins/welford/twstaticblog/helper/hiddentags&quot;: {
+            &quot;title&quot;: &quot;$:/plugins/welford/twstaticblog/helper/hiddentags&quot;,
+            &quot;tags&quot;: &quot;blog blog-framework unindex blog-draft blog-donotexport&quot;,
+            &quot;text&quot;: &quot;!Add Tags to this tiddler and they will be hidden when statically exporting using the twstaticblog plugin.&quot;
+        },
+        &quot;$:/plugins/welford/twstaticblog/helper/linktopost&quot;: {
+            &quot;title&quot;: &quot;$:/plugins/welford/twstaticblog/helper/linktopost&quot;,
+            &quot;text&quot;: &quot;&lt;!-- \r\nThis is the link to the isolated post which appears at the bottom of every article in the main index\r\n--&gt;\r\n&lt;$link to={{!!title}}&gt;View As Single Post &gt;&gt;&lt;/$link&gt;\r\n&lt;br/&gt;\r\n&lt;br/&gt;\r\n&quot;
+        }
+    }
+}</pre>
+</div>
+<div title="$:/plugins/welford/twyt">
+<pre></pre>
+</div>
 <div author="Mario Pietsch" core-version="&gt;=5.1.15" dependents="" description="Internal links are added to tabs if selected" list="readme license history" name="Link to Tabs" plugin-type="plugin" title="$:/plugins/wikilabs/link-to-tabs" type="application/json" version="2.0.1">
 <pre>{
     &quot;tiddlers&quot;: {
@@ -13556,39 +13723,54 @@ exports.context = contextWidget;
 <div bag="default" created="20200414222832782" modified="20210314195510939" revision="0" title="$:/SiteTitle" type="text/vnd.tiddlywiki">
 <pre>David Ralph Lewis</pre>
 </div>
+<div created="20210316205540958" modified="20210316205908189" title="$:/state/advancedsearch/currentTab">
+<pre>$:/core/ui/AdvancedSearch/Filter</pre>
+</div>
+<div created="20210316205543390" modified="20210316205854995" title="$:/state/advancedsearch/standard/currentTab">
+<pre>$:/core/ui/DefaultSearchResultList</pre>
+</div>
 <div created="20210315093602814" modified="20210315093604250" title="$:/state/folded/GettingStarted">
 <pre>show</pre>
 </div>
 <div created="20210316195029855" modified="20210316195029855" title="$:/state/palettemanager/showexternal">
 <pre>yes</pre>
 </div>
-<div created="20210315094806115" modified="20210315094806115" title="$:/state/plugin-info--270617185-$:/themes/jd/Mono">
-<pre>yes</pre>
+<div created="20210315094806115" modified="20210316214235679" title="$:/state/plugin-info--270617185-$:/themes/jd/Mono">
+<pre>no</pre>
 </div>
-<div created="20210316200147246" modified="20210316200147246" title="$:/state/search-list/selected-item--874113614">
-<pre>vanilla-userInput</pre>
+<div created="20210316204830330" modified="20210316212149315" title="$:/state/plugin-info-1024715668-$:/plugins/welford/twstaticblog/helper---1861025739">
+<pre>contents</pre>
+</div>
+<div created="20210316214240731" modified="20210316214240731" title="$:/state/plugin-info-2023614078-$:/themes/welford/phasersonkill">
+<pre>no</pre>
 </div>
 <div created="20210315093749548" modified="20210316195108922" title="$:/state/ShowPaletteEditor">
 <pre>yes</pre>
 </div>
 <div created="20161122140345592" creator="Riz
-" modified="20210316201138062" modifier="Riz" title="$:/state/sidebar">
+" modified="20210316214433560" modifier="Riz" tags="blog-framework" title="$:/state/sidebar">
 <pre>yes</pre>
 </div>
-<div created="20210314201126880" modified="20210316200212997" title="$:/state/tab--1963855381">
-<pre>$:/core/ui/ControlPanel/Palette</pre>
+<div created="20210316205540958" modified="20210316205908189" title="$:/state/tab--1498284803">
+<pre>$:/core/ui/AdvancedSearch/Filter</pre>
 </div>
-<div created="20210315094804347" modified="20210315143651736" title="$:/state/tab--86143343">
-<pre>$:/core/ui/ControlPanel/Plugins/Installed/Plugins</pre>
+<div created="20210314201126880" modified="20210316214244616" title="$:/state/tab--1963855381">
+<pre>$:/core/ui/ControlPanel/Theme</pre>
 </div>
-<div created="20210314201103725" modified="20210315143656376" title="$:/state/tab-1749438307">
+<div created="20210315094804347" modified="20210316214231882" title="$:/state/tab--86143343">
+<pre>$:/core/ui/ControlPanel/Plugins/Installed/Themes</pre>
+</div>
+<div created="20210314201103725" modified="20210316214242579" title="$:/state/tab-1749438307">
 <pre>$:/core/ui/ControlPanel/Appearance</pre>
 </div>
-<div created="20210315134258886" modified="20210315163417416" title="$:/state/tab/moresidebar-1850697562">
-<pre>$:/core/ui/MoreSideBar/All</pre>
+<div created="20210315134258886" modified="20210316214418924" title="$:/state/tab/moresidebar-1850697562">
+<pre>$:/core/ui/MoreSideBar/Recent</pre>
 </div>
-<div created="20210314200650585" modified="20210316200024191" title="$:/state/tab/sidebar--595412856">
-<pre>$:/core/ui/SideBar/Tools</pre>
+<div created="20210316205543392" modified="20210316205854996" title="$:/state/tab/search-results/advancedsearch">
+<pre>$:/core/ui/DefaultSearchResultList</pre>
+</div>
+<div created="20210314200650585" modified="20210316214422137" title="$:/state/tab/sidebar--595412856">
+<pre>$:/core/ui/SideBar/Recent</pre>
 </div>
 <div created="20210315093704901" modified="20210315093709406" title="$:/state/tabs/controlpanel/toolbars-1345989671">
 <pre>$:/core/ui/ControlPanel/Toolbars/PageControls</pre>
@@ -13608,13 +13790,13 @@ exports.context = contextWidget;
 <div bag="default" revision="1" title="$:/status/UserName">
 <pre></pre>
 </div>
-<div created="20210316192443693" list="Home" modified="20210316200541197" title="$:/StoryList">
+<div created="20210316214229583" list="$:/ControlPanel Home" modified="20210316214319809" title="$:/StoryList">
 <pre></pre>
 </div>
 <div created="20200519141000553" list="$:/.giffmex/Buttons/more-tiddler-edit-actions $:/core/ui/Buttons/delete $:/core/ui/Buttons/cancel $:/core/ui/Buttons/save" modified="20200521145647980" tags="$:/giffmex/bigeditarea $:/giffmex/stroll" title="$:/tags/EditToolbar">
 <pre></pre>
 </div>
-<div bag="default" created="20200127183739219" list="$:/core/ui/Buttons/home $:/core/ui/Buttons/close-all $:/core/ui/Buttons/fold-all $:/core/ui/Buttons/unfold-all $:/core/ui/Buttons/permaview $:/core/ui/Buttons/new-tiddler $:/.giffmex/buttons/newnote-datetime $:/core/ui/Buttons/new-journal $:/core/ui/Buttons/new-image $:/core/ui/Buttons/import $:/core/ui/Buttons/export-page $:/core/ui/Buttons/control-panel $:/core/ui/Buttons/advanced-search $:/core/ui/Buttons/manager $:/core/ui/Buttons/tag-manager $:/core/ui/Buttons/language $:/core/ui/Buttons/palette $:/core/ui/Buttons/theme $:/core/ui/Buttons/storyview $:/core/ui/Buttons/encryption $:/core/ui/Buttons/timestamp $:/core/ui/Buttons/full-screen $:/core/ui/Buttons/print $:/core/ui/Buttons/save-wiki $:/core/ui/Buttons/refresh $:/core/ui/Buttons/more-page-actions" modified="20200808142340298" revision="0" tags="$:/giffmex/stroll" title="$:/tags/PageControls" type="text/vnd.tiddlywiki">
+<div bag="default" created="20200127183739219" list="$:/core/ui/Buttons/home $:/core/ui/Buttons/close-all $:/core/ui/Buttons/fold-all $:/core/ui/Buttons/unfold-all $:/core/ui/Buttons/permaview $:/core/ui/Buttons/new-tiddler $:/.giffmex/buttons/newnote-datetime $:/core/ui/Buttons/new-journal $:/core/ui/Buttons/new-image $:/core/ui/Buttons/import $:/core/ui/Buttons/export-page $:/core/ui/Buttons/control-panel $:/core/ui/Buttons/advanced-search $:/core/ui/Buttons/manager $:/core/ui/Buttons/tag-manager $:/core/ui/Buttons/language $:/core/ui/Buttons/palette $:/core/ui/Buttons/theme $:/core/ui/Buttons/storyview $:/core/ui/Buttons/encryption $:/core/ui/Buttons/timestamp $:/core/ui/Buttons/full-screen $:/core/ui/Buttons/print $:/core/ui/Buttons/save-wiki $:/core/ui/Buttons/refresh $:/core/ui/Buttons/more-page-actions" modified="20210316212017107" revision="0" tags="$:/giffmex/stroll blog-framework" title="$:/tags/PageControls" type="text/vnd.tiddlywiki">
 <pre></pre>
 </div>
 <div bag="default" created="20200128153730498" list="$:/.giffmex/ViewTemplate/title $:/core/ui/ViewTemplate/title $:/core/ui/ViewTemplate/unfold $:/core/ui/ViewTemplate/subtitle $:/core/ui/ViewTemplate/tags $:/core/ui/ViewTemplate/classic $:/core/ui/ViewTemplate/body $:/.giffmex/ViewTemplate/viewfullnotes $:/.giffmex/ViewTemplate/refscontext $:/.giffmex/ViewTemplate/refslinks $:/.giffmex/ViewTemplate/refstranscludecollapse" modified="20200808142340653" revision="0" tags="$:/giffmex/stroll" title="$:/tags/ViewTemplate" type="text/vnd.tiddlywiki">
@@ -13623,7 +13805,7 @@ exports.context = contextWidget;
 <div bag="default" created="20200127144249151" list="$:/core/ui/Buttons/fold $:/.giffmex/ViewToolbar/new-note-here $:/.giffmex/ViewToolbar/new-note-here-datetime $:/.giffmex/viewtemplate/viewrefs $:/jd/fullscreen-editor/EditButton $:/core/ui/Buttons/more-tiddler-actions $:/core/ui/Buttons/info $:/core/ui/Buttons/new-here $:/core/ui/Buttons/new-journal-here $:/core/ui/Buttons/clone $:/core/ui/Buttons/export-tiddler $:/core/ui/Buttons/edit $:/core/ui/Buttons/delete $:/core/ui/Buttons/permalink $:/core/ui/Buttons/permaview $:/core/ui/Buttons/open-window $:/core/ui/Buttons/close-others $:/core/ui/Buttons/close $:/core/ui/Buttons/fold-others" modified="20200808142339491" revision="0" tags="$:/giffmex/stroll" title="$:/tags/ViewToolbar" type="text/vnd.tiddlywiki">
 <pre></pre>
 </div>
-<div created="20190202142800922" creator="jd" modified="20210316200014120" modifier="jd" title="$:/theme">
+<div created="20190202142800922" creator="jd" modified="20210316214350611" modifier="jd" title="$:/theme">
 <pre>$:/themes/tiddlywiki/vanilla</pre>
 </div>
 <div author="JD" core-version="&gt;=5.1.19" created="20190202102252527" creator="jd" dependents="$:/themes/tiddlywiki/vanilla" description="For writing long texts" list="contents" modified="20190203163019606" modifier="jd" name="Mono" plugin-type="theme" source="http://j.d.mono.tiddlyspot.com" title="$:/themes/jd/Mono" type="application/json" version="1.0.32">
@@ -13874,7 +14056,7 @@ exports.context = contextWidget;
     }
 }</pre>
 </div>
-<div author="JeremyRuston" core-version="&gt;=5.0.0" dependents="" description="Basic theme" name="Vanilla" plugin-priority="0" plugin-type="theme" title="$:/themes/tiddlywiki/vanilla" type="application/json" version="5.1.23">
+<div author="JeremyRuston" core-version="&gt;=5.0.0" created="20210316212052985" dependents="" description="Basic theme" modified="20210316212110507" name="Vanilla" plugin-priority="0" plugin-type="theme" tags="blog-framework" title="$:/themes/tiddlywiki/vanilla" type="application/json" version="5.1.23">
 <pre>{
     &quot;tiddlers&quot;: {
         &quot;$:/themes/tiddlywiki/vanilla/themetweaks&quot;: {
@@ -13984,6 +14166,161 @@ exports.context = contextWidget;
 <div bag="default" created="20200414145420217" modified="20200414145441106" revision="0" title="$:/themes/tiddlywiki/vanilla/metrics/storytop" type="text/vnd.tiddlywiki">
 <pre>0px</pre>
 </div>
+<div author="James.W.Anderson" bag="default" core-version="&gt;=5.0.0" dependents="$:/themes/tiddlywiki/vanilla" description="custom theme based on Seamless" name="PhasersOnKill" plugin-type="theme" revision="0" title="$:/themes/welford/phasersonkill" type="application/json" version="5.1.14-prerelease">
+<pre>{
+    &quot;tiddlers&quot;: {
+        &quot;$:/config/AnimationDuration&quot;: {
+            &quot;created&quot;: &quot;20140710201328155&quot;,
+            &quot;modified&quot;: &quot;20140710204315791&quot;,
+            &quot;title&quot;: &quot;$:/config/AnimationDuration&quot;,
+            &quot;type&quot;: &quot;text/vnd.tiddlywiki&quot;,
+            &quot;text&quot;: &quot;100&quot;
+        },
+        &quot;$:/themes/tiddlywiki/vanilla/metrics/fontsize&quot;: {
+            &quot;created&quot;: &quot;20140710194455567&quot;,
+            &quot;modified&quot;: &quot;20140710204321575&quot;,
+            &quot;title&quot;: &quot;$:/themes/tiddlywiki/vanilla/metrics/fontsize&quot;,
+            &quot;type&quot;: &quot;text/vnd.tiddlywiki&quot;,
+            &quot;text&quot;: &quot;14px&quot;
+        },
+        &quot;$:/themes/tiddlywiki/vanilla/metrics/lineheight&quot;: {
+            &quot;created&quot;: &quot;20140710194440895&quot;,
+            &quot;modified&quot;: &quot;20140710204323543&quot;,
+            &quot;title&quot;: &quot;$:/themes/tiddlywiki/vanilla/metrics/lineheight&quot;,
+            &quot;type&quot;: &quot;text/vnd.tiddlywiki&quot;,
+            &quot;text&quot;: &quot;16px&quot;
+        },
+        &quot;$:/themes/welford/phasersonkill/base&quot;: {
+            &quot;title&quot;: &quot;$:/themes/welford/phasersonkill/base&quot;,
+            &quot;tags&quot;: &quot;[[$:/tags/Stylesheet]]&quot;,
+            &quot;text&quot;: &quot;\\rules only filteredtranscludeinline transcludeinline macrodef macrocallinline\n\n/*********************************************************************\r\nRules copied from Snow White\r\n**********************************************************************/\n\n.tc-page-controls button svg, .tc-tiddler-controls button svg, .tc-topbar button svg {\r\n\t&lt;&lt;transition \&quot;fill 150ms ease-in-out\&quot;&gt;&gt;\r\n}\n\n.tc-tiddler-controls button.tc-selected svg {\r\n\t&lt;&lt;filter \&quot;drop-shadow(0px -1px 2px rgba(0,0,0,0.25))\&quot;&gt;&gt;\r\n}\n\n.tc-drop-down {\r\n\tborder-radius: 4px;\r\n\t&lt;&lt;box-shadow \&quot;2px 2px 10px rgba(0, 0, 0, 0.5)\&quot;&gt;&gt;\r\n}\n\n.tc-block-dropdown {\r\n\tborder-radius: 4px;\r\n\t&lt;&lt;box-shadow \&quot;2px 2px 10px rgba(0, 0, 0, 0.5)\&quot;&gt;&gt;\r\n}\n\n.tc-modal-displayed {\r\n\t-webkit-filter: blur(4px);\r\n}\n\n.tc-modal {\r\n\tborder-radius: 6px;\r\n\t&lt;&lt;box-shadow \&quot;0 3px 7px rgba(0,0,0,0.3)\&quot;&gt;&gt;\r\n}\n\n.tc-modal-footer {\r\n\tborder-radius: 0 0 6px 6px;\r\n\t&lt;&lt;box-shadow \&quot;inset 0 1px 0 #fff\&quot;&gt;&gt;;\r\n}\n\n.tc-alert {\r\n\tborder-radius: 6px;\r\n\t&lt;&lt;box-shadow \&quot;0 3px 7px rgba(0,0,0,0.6)\&quot;&gt;&gt;\r\n}\n\n.tc-notification {\r\n\tborder-radius: 6px;\r\n\t&lt;&lt;box-shadow \&quot;0 3px 7px rgba(0,0,0,0.3)\&quot;&gt;&gt;\r\n\ttext-shadow: 0 1px 0 rgba(255,255,255, 0.8);\r\n}\n\n.tc-message-box img {\r\n\t&lt;&lt;box-shadow \&quot;1px 1px 3px rgba(0,0,0,0.5)\&quot;&gt;&gt;\r\n}\n\n/*********************************************************************\r\nPhasersonkill stuff LIVE\r\n**********************************************************************/\n\ninput, textarea {\r\n\tborder: 2px solid #292929;\r\n}\n\nhr {\r\n\tborder-bottom: none;\r\n\tborder-right: none;\r\n\tborder-left: none;\r\n\tborder-top: 1px solid #999999;\r\n}\n\n.tc-more-sidebar &gt; .tc-tab-set &gt; .tc-tab-buttons &gt; button {\r\n\tborder:\tnone;\r\n}\n\n.tc-btn-dropdown{\r\n\tcolor: red;\r\n}\n\nblockquote { border-left:2px dashed #DDD; margin-left:12px; }\n\n.block-indent { border:none; margin-left:0px; padding-left:15px; }\n\n/* page header */\r\ndiv.tc-pagetop { \r\n\tposition:\t\t\tfixed;\r\n\tmax-height:\t\t\t{{$:/themes/welford/phasersonkill/metrics/headerheight}};\r\n\twidth:\t\t\t\t100%;\r\n\ttop :\t\t\t\t0px;\r\n\tleft :\t\t\t\t0px;\r\n\tpadding-left:\t\t5px;  \r\n\tz-index:\t\t\t98;\r\n\tbackground :\t\t&lt;&lt;colour pagetop-background&gt;&gt; !important; /* as background */\r\n\toverflow:\t\t\thidden;\r\n\tvertical-align:\t\tmiddle;\r\n\tline-height:\t\t{{$:/themes/welford/phasersonkill/metrics/headerheight}}; \r\n\topacity:\t\t\t0.93;\r\n\t&lt;&lt;box-shadow \&quot;0 1px 5px #151515\&quot;&gt;&gt;\r\n}\n\ndiv.tc-pagetop &gt; span\r\n{\r\n\tfill:\t\t\t\tred;\r\n}\n\n.tc-pagetop b { color:&lt;&lt;colour headerclr&gt;&gt;; font-size:1.1em;}\n\n.tc-story-river {\r\n\twidth:\t\t\t\tauto;\r\n\theight:\t\t\t\t100%;\r\n\tleft:\t\t\t\t0px;\r\n\ttop:\t\t\t\t{{$:/themes/welford/phasersonkill/metrics/headerheight}};\r\n\tpadding:\t\t\t0px 10px 0px 10px;\r\n\tmargin:\t\t\t\t0;\r\n\tbackground-color:\t&lt;&lt;color background&gt;&gt;;\r\n}\n\n.tc-tiddler-frame .tc-tiddler-body {\r\n\tfont-size:\t\t\t{{$:/themes/tiddlywiki/vanilla/metrics/fontsize}};\r\n\tline-height:\t\t{{$:/themes/tiddlywiki/vanilla/metrics/lineheight}};\r\n}\n\n.tc-tiddler-frame {\r\n\twidth:\t\t\t\t100%; \r\n}\n\n\r\n/* Use the tiddler background colour for the page background */\r\nhtml {}\n\nhtml body.tc-body {\r\n\tbackground-color:\t&lt;&lt;colour background&gt;&gt;;\t\r\n}\n\nhtml:-webkit-full-screen {\r\n\tbackground-color:\t&lt;&lt;colour background&gt;&gt;;\r\n}\n\n/* tiddler titles  */\r\n.tc-tiddler-title {\r\n\tborder-bottom:\t\t\t1px solid &lt;&lt;colour linesclr&gt;&gt;;\r\n}\n\n/* stop the p tags form adding unwanted padding at the stop of the story river */\n\n.tc-dropzone &gt; p,  {\tmargin:0px; padding:0px; }\n\n/* hide the reveal stuff for the sidebar*/\r\nspan.tc-topbar {\t\tdisplay:none;\t}\n\n/* color and size of controls in topbar for smallscreen version */\r\n.tc-pagetop svg.tc-image-button {\r\n\tpadding:\t\t\t0;\r\n\tmargin:\t\t\t\t0; \r\n\twidth:\t\t\t\t{{$:/themes/welford/phasersonkill/metrics/headerheight}};\r\n\theight:\t\t\t\t{{$:/themes/welford/phasersonkill/metrics/headerheight}};\r\n\tvertical-align:\t\tmiddle;\r\n}\n\n/* color and size of controls in topbar for smallscreen version */\r\n.tc-search-results svg.tc-image-button {\r\n\tpadding:\t\t\t0;\r\n\tmargin:\t\t\t\t0; \r\n\twidth:\t\t\t\t50px;\r\n\theight:\t\t\t\t{{$:/themes/welford/phasersonkill/metrics/headerheight}};\r\n\tvertical-align:\t\tmiddle;\r\n}\n\n.special-search .tc-reveal .tc-search-results, .hacky-buffer .tc-reveal .tc-search-results { \r\n\tposition:\t\t\tfixed;\r\n\ttop :\t\t\t\t{{$:/themes/welford/phasersonkill/metrics/headerheight}};\r\n\tleft :\t\t\t\t0px;\t\r\n\tpadding:\t\t\t0px 10px 0px 10px;\r\n\tmargin:\t\t\t\t0;\r\n\tbackground:\t\t\t&lt;&lt;color pagetop-background&gt;&gt;;\r\n\tz-index:\t\t\t99;\r\n\tbox-shadow:\t\t\t0px 10px 30px  transparent;\r\n\tborder-top:\t\t\t1px dashed #ddd;\r\n}\n\n.hacky-buffer .tc-reveal{ display: block; }\r\n.hacky-buffer .tc-reveal .tc-search-results { position : static;}\n\n.topbar-hack { \r\n\theight : {{$:/themes/welford/phasersonkill/metrics/headerheight}};\r\n\tposition : static;\r\n}\n\n.tc-pagetop-close-search  svg { \r\n\tposition:\t\t\tfixed;\r\n\ttop :\t\t\t\t{{$:/themes/welford/phasersonkill/metrics/headerheight}};\r\n\twidth:\t\t\t\t{{$:/themes/welford/phasersonkill/metrics/headerheight}};\r\n\theight:\t\t\t\t{{$:/themes/welford/phasersonkill/metrics/headerheight}};\r\n\tz-index:\t\t\t99;\r\n\t/* close search button */\r\n\tright:\t\t\t\t{{$:/themes/welford/phasersonkill/metrics/border}};\r\n\tmargin-top:\t\t\t5px;\r\n}\n\n.smallscreen-only .tc-reveal\t{display : block;}\r\n.displayblock\t\t\t\t\t{display : block;}\n\n\r\n.tc-scrollable {\t\r\n\tmax-height: {{$:/themes/welford/phasersonkill/metrics/searchheight}};\r\n}\n\n.topsearchform  { display:inline; padding:0; margin:0;}\n\n/* \r\nsmall screen differences \r\n*/\n\n@media (max-width: {{$:/themes/welford/phasersonkill/metrics/sidebarbreakpoint}} ) \r\n{\r\n\t.tc-sidebar-header{ display:none;\t}\r\n\t.largescreen-only{\tdisplay:none;\t}\r\n\t.special-search .tc-reveal .tc-search-results, .hacky-buffer .tc-reveal .tc-search-results { \r\n\t\t\t\t\t\twidth: 100%;\r\n\t\t\t\t\t\tright: {{$:/themes/welford/phasersonkill/metrics/menuwidth}}; \r\n\t\t\t\t\t\topacity:0.93;\r\n\t}\t\t\r\n\t/* width with sidebar no shown */\r\n\tbody.tc-body .tc-tiddler-frame{\r\n\t\t\t\t\t\tpadding: 0; \r\n\t}\t\r\n}\n\n/* \r\nlarger screen differences \r\n*/\n\n@media (min-width: {{$:/themes/welford/phasersonkill/metrics/sidebarbreakpoint}}) {\n\n\t/* Move the sidebar up so that the title lines up */\r\n\tbody.tc-body .tc-sidebar-scrollable {\r\n\t\tposition:\t\t\tfixed;\r\n\t\tleft :\t\t\t\tauto;\r\n\t\tmargin:\t\t\t\t0;\r\n\t\ttop:\t\t\t\t{{$:/themes/welford/phasersonkill/metrics/headerheight}};\r\n\t\twidth:\t\t\t\t{{$:/themes/welford/phasersonkill/metrics/menuwidth}};\r\n\t\tpadding:\t\t\t0 0 0 20px;\r\n\t\tbackground-color:\t{{$:/themes/welford/phasersonkill/metrics/sidebarcolour}};\r\n\t}\n\n\t.tc-pagetop { \r\n\t}\n\n\t.tc-story-river { \r\n\t\tright:\t\t\t\t{{$:/themes/welford/phasersonkill/metrics/menuwidth}}; \r\n\t\tposition:\t\t\tabsolute;\r\n\t}\t\n\n\t.special-search .tc-reveal .tc-search-results, .hacky-buffer .tc-reveal .tc-search-results { \r\n\t width:\t\t\t\t\t100%;\r\n\t right:\t\t\t\t\t{{$:/themes/welford/phasersonkill/metrics/menuwidth}}; \r\n\t opacity:\t\t\t\t0.93;\r\n\t}\n\n\t/* Stop the tiddler info panel from bleeding into the tiddler frame padding */\r\n\tbody.tc-body .tc-tiddler-info { margin: 0; }\n\n\t/* Stop message boxes from bleeding into the tiddler frame padding */\r\n\tbody.tc-body .tc-message-box { margin: 21px 0 21px 0; }\n\n\t/* Hide smallscreen only stuff */\r\n\t.smallscreen-only\t{ display:none;}\t\n\n\t/* width with sidebar shown */\r\n\tbody.tc-body .tc-tiddler-frame\t{ padding: 0 20px 0 0; }\n\n\t/* Hide icons when the screen is large enough */\r\n\tdiv.search-buttons\t{ display: none; }\r\n}\n\nbutton.tc-tag-label, span.tc-tag-label{border-radius:3px;}\n\n/* stop the p tags form adding unwanted padding at the stop of the story river */\n\n.ytif &gt; p,  { margin:0px; padding:0px; width:100%;}\n\n.tc-tag-list-item { margin-right: 0; }\n\n/* the search on the right, it's hover thing */\r\n.tc-block-dropdown a:hover {\r\n\tcolor: &lt;&lt;colour tiddler-link-background&gt;&gt;;\r\n\tbackground-color: &lt;&lt;colour background&gt;&gt;;\r\n\ttext-decoration: none;\r\n}&quot;
+        },
+        &quot;$:/themes/welford/phasersonkill/ButtonTemplate&quot;: {
+            &quot;created&quot;: &quot;20140629173226803&quot;,
+            &quot;modified&quot;: &quot;20140629173456183&quot;,
+            &quot;title&quot;: &quot;$:/themes/welford/phasersonkill/ButtonTemplate&quot;,
+            &quot;type&quot;: &quot;text/vnd.tiddlywiki&quot;,
+            &quot;text&quot;: &quot;&lt;div&gt;\r\n&lt;$transclude  mode=\&quot;inline\&quot;/&gt;\r\n&lt;/div&gt;&quot;
+        },
+        &quot;$:/core/images/cancel-button&quot;: {
+            &quot;title&quot;: &quot;$:/core/images/cancel-button&quot;,
+            &quot;tags&quot;: &quot;$:/tags/Image&quot;,
+            &quot;text&quot;: &quot;&lt;svg class=\&quot;tc-image-cancel-button tc-image-button\&quot; viewBox=\&quot;366 150 58 58\&quot; width=\&quot;22pt\&quot; height=\&quot;22pt\&quot;&gt;&lt;path d=\&quot;M 414.76236 158.98764 C 403.77887 148.0041 385.97113 148.0041 374.98764 158.98764 C 364.0041 169.97113 364.0041 187.77887 374.98764 198.76236 C 385.97113 209.7459 403.77887 209.7459 414.76236 198.76236 C 425.7459 187.77887 425.7459 169.97113 414.76236 158.98764 M 385.3967 165.32954 L 385.3967 165.32954 L 394.77674 174.7096 L 404.3533 165.13303 C 405.53068 163.95566 407.4396 163.95566 408.61697 165.13303 C 409.79434 166.31041 409.79434 168.21932 408.61697 169.39669 L 399.0404 178.97325 L 408.42046 188.35331 C 409.59783 189.53068 409.59783 191.43959 408.42046 192.61697 L 408.42046 192.61697 C 407.24308 193.79434 405.33417 193.79434 404.1568 192.61697 L 394.77675 183.23692 L 385.5932 192.42046 C 384.41583 193.59783 382.50692 193.59783 381.32954 192.42046 L 381.32954 192.42046 C 380.15217 191.24308 380.15217 189.33417 381.32954 188.1568 C 381.32954 188.1568 381.32954 188.1568 381.32954 188.1568 L 381.32954 188.1568 L 381.32954 188.1568 L 390.51309 178.97326 L 381.13303 169.5932 C 379.95566 168.41583 379.95566 166.50692 381.13303 165.32954 L 381.13303 165.32954 C 382.3104 164.15217 384.21932 164.15217 385.3967 165.32954 C 385.3967 165.32954 385.3967 165.32954 385.3967 165.32954 Z\&quot;/&gt;&lt;/svg&gt;&quot;
+        },
+        &quot;$:/core/images/close-button&quot;: {
+            &quot;title&quot;: &quot;$:/core/images/close-button&quot;,
+            &quot;tags&quot;: &quot;$:/tags/Image&quot;,
+            &quot;text&quot;: &quot;&lt;svg class=\&quot;tc-image-close-button tc-image-button\&quot; viewBox=\&quot;222 150 56 56\&quot; width=\&quot;22pt\&quot; height=\&quot;22pt\&quot;&gt;&lt;path d=\&quot;M 249.56668 185.88827 L 267.06757 203.38916 C 269.26427 205.58586 272.82582 205.58586 275.02252 203.38916 L 275.02252 203.38916 C 277.21922 201.19246 277.21922 197.63091 275.02252 195.43421 L 257.52163 177.93332 L 275.38916 160.06579 C 277.58586 157.86909 277.58586 154.30754 275.38916 152.11084 C 273.19246 149.91414 269.63091 149.91414 267.43421 152.11084 L 249.56668 169.97837 L 232.06579 152.47748 L 232.06579 152.47748 C 232.06579 152.47748 232.06579 152.47748 232.06579 152.47748 C 229.86909 150.28078 226.30754 150.28078 224.11084 152.47748 L 224.11084 152.47748 C 221.91414 154.674175 221.91414 158.23573 224.11084 160.43243 L 241.61173 177.93332 L 224.47748 195.06757 L 224.47748 195.06757 L 224.47748 195.06757 C 224.47748 195.06757 224.47748 195.06757 224.47748 195.06757 C 222.28078 197.26427 222.28078 200.82583 224.47748 203.02252 L 224.47748 203.02252 C 226.67418 205.21922 230.23573 205.21922 232.43243 203.02252 Z\&quot;/&gt;&lt;/svg&gt;&quot;
+        },
+        &quot;$:/core/images/done-button&quot;: {
+            &quot;title&quot;: &quot;$:/core/images/done-button&quot;,
+            &quot;tags&quot;: &quot;$:/tags/Image&quot;,
+            &quot;text&quot;: &quot;&lt;svg class=\&quot;tc-image-done-button tc-image-button\&quot; viewBox=\&quot;434 150 68 55\&quot; width=\&quot;22pt\&quot; height=\&quot;18pt\&quot;&gt;&lt;path d=\&quot;M 438.49266 178.00797 L 439.00744 177.49319 C 441.35054 175.15008 445.14946 175.15004 447.49262 177.49309 L 452.50734 182.50757 C 454.8505 184.85063 458.6494 184.85058 460.99252 182.50748 L 488.50747 154.99255 C 490.85058 152.64944 494.6495 152.6494 496.99266 154.99246 L 497.50722 155.506995 C 499.8504 157.85009 499.8505 161.64908 497.5074 163.99228 C 497.50738 163.99229 497.50736 163.99231 497.50734 163.99233 L 460.9926 200.5077 C 458.64947 202.85087 454.85048 202.8509 452.50732 200.50778 C 452.5073 200.50777 452.5073 200.50777 452.5073 200.50776 L 438.49268 186.49327 C 436.14952 184.15013 436.1495 180.35114 438.49264 178.00799 C 438.49265 178.00798 438.49265 178.00797 438.49266 178.00797 Z\&quot;/&gt;&lt;/svg&gt;&quot;
+        },
+        &quot;$:/core/images/edit-button&quot;: {
+            &quot;title&quot;: &quot;$:/core/images/edit-button&quot;,
+            &quot;tags&quot;: &quot;$:/tags/Image&quot;,
+            &quot;text&quot;: &quot;&lt;svg class=\&quot;tc-image-edit-button tc-image-button\&quot; viewBox=\&quot;244 193 20 22\&quot; width=\&quot;20pt\&quot; height=\&quot;22pt\&quot;&gt;&lt;path d=\&quot;M 257.33334 196.80951 L 245.90476 207.2857 L 244 212.0476 L 248.7619 210.14284 L 260.19048 199.66665 Z M 259.2381 194.90475 L 258.28566 195.85716 L 261.14284 198.71428 L 262.09522 197.76187 Z M 261.14286 193 L 260.19042 193.95241 L 263.04762 196.80953 L 264 195.85714 Z M 244 213.72882 C 244 213.72882 247.4281 215.43353 250.8572 213.7288 C 254.28599 212.02405 261.14284 214.86531 261.14284 214.86531 L 261.14284 213.72884 C 261.14284 213.72884 254.28577 210.88755 250.8572 212.5923 C 247.42858 214.29712 244 212.59228 244 212.59228 Z\&quot;/&gt;&lt;/svg&gt;&quot;
+        },
+        &quot;$:/core/images/new-button&quot;: {
+            &quot;title&quot;: &quot;$:/core/images/new-button&quot;,
+            &quot;tags&quot;: &quot;$:/tags/Image&quot;,
+            &quot;text&quot;: &quot;&lt;svg class=\&quot;tc-image-new-button tc-image-button\&quot; viewBox=\&quot;83 81 50 50\&quot; width=\&quot;22pt\&quot; height=\&quot;22pt\&quot;&gt;&lt;path d=\&quot;M 101.25 112.5 L 101.25 127.5 C 101.25 127.5 101.25 127.5 101.25 127.5 L 101.25 127.5 C 101.25 129.156855 102.593146 130.5 104.25 130.5 L 111.75 130.5 C 113.406854 130.5 114.75 129.156854 114.75 127.5 L 114.75 112.5 L 129.75 112.5 C 131.406854 112.5 132.75 111.156854 132.75 109.5 L 132.75 102 C 132.75 100.343146 131.406854 99 129.75 99 L 114.75 99 L 114.75 84 C 114.75 82.343146 113.406854 81 111.75 81 L 104.25 81 C 104.25 81 104.25 81 104.25 81 C 102.593146 81 101.25 82.343146 101.25 84 L 101.25 99 L 86.25 99 C 86.25 99 86.25 99 86.25 99 C 84.593146 99 83.25 100.343146 83.25 102 L 83.25 109.5 C 83.25 109.5 83.25 109.5 83.25 109.5 L 83.25 109.5 C 83.25 111.156855 84.593146 112.5 86.25 112.5 Z\&quot;/&gt;&lt;/svg&gt;&quot;
+        },
+        &quot;$:/core/images/options-button&quot;: {
+            &quot;title&quot;: &quot;$:/core/images/options-button&quot;,
+            &quot;tags&quot;: &quot;$:/tags/Image&quot;,
+            &quot;text&quot;: &quot;&lt;svg class=\&quot;tc-image-options-button tc-image-button\&quot; viewBox=\&quot;434 218 68 68\&quot; width=\&quot;22pt\&quot; height=\&quot;22pt\&quot;&gt;&lt;path d=\&quot;M 478.39696 232.53705 L 478.39696 232.53705 C 477.11453 231.85132 475.77877 231.30146 474.4106 230.88735 L 474.4106 218.24993 L 461.58944 218.24993 L 461.58944 230.88735 C 460.22126 231.30146 458.8855 231.85132 457.60308 232.53705 L 448.66825 223.60214 L 439.6022 232.66814 L 448.53716 241.60304 C 447.8515 242.88541 447.30158 244.22116 446.88747 245.58935 L 434.25 245.58935 L 434.25 258.41052 L 446.88747 258.41052 C 447.30158 259.7787 447.8515 261.11446 448.53716 262.39689 L 439.6022 271.33173 L 448.66825 280.39779 L 457.60308 271.46281 C 458.8855 272.14862 460.22126 272.69847 461.58944 273.11251 L 461.58944 285.74986 L 474.4106 285.74986 L 474.4106 273.11251 C 475.77877 272.69847 477.11453 272.14862 478.39696 271.46281 L 487.3318 280.39779 L 496.3977 271.33173 L 487.46287 262.39689 C 488.14854 261.11446 488.6984 259.7787 489.11257 258.41052 L 501.7499 258.41052 L 501.7499 245.58935 L 489.11257 245.58935 C 488.6984 244.22116 488.14854 242.88541 487.46287 241.60304 L 496.3977 232.66814 L 487.3318 223.60214 Z M 475.3328 244.66714 C 479.38253 248.71698 479.38253 255.2829 475.3328 259.33273 C 471.28297 263.3826 464.71706 263.3826 460.66723 259.33273 C 456.61737 255.2829 456.61737 248.71698 460.66723 244.66714 C 464.71706 240.61734 471.28297 240.61734 475.3328 244.66714\&quot;/&gt;&lt;/svg&gt;&quot;
+        },
+        &quot;$:/core/images/save-button&quot;: {
+            &quot;title&quot;: &quot;$:/core/images/save-button&quot;,
+            &quot;tags&quot;: &quot;$:/tags/Image&quot;,
+            &quot;text&quot;: &quot;&lt;svg class=\&quot;tc-image-save-button tc-image-button\&quot; viewBox=\&quot;4 512 64 60\&quot; width=\&quot;22pt\&quot; height=\&quot;21pt\&quot;&gt;&lt;path d=\&quot;M 13.5 537.75 L 11.5 537.75 C 11.5 537.75 11.5 537.75 11.5 537.75 C 7.6340064 537.75 4.4999994 540.884 4.5 544.75 L 4.5 564.5 L 4.5 564.5 C 4.5 564.5 4.5 564.5 4.5 564.5 L 4.5 564.5 C 4.5000006 568.366 7.634007 571.5 11.5 571.5 L 60.5 571.5 C 64.365993 571.5 67.5 568.366 67.5 564.5 L 67.5 544.75 C 67.5 540.884 64.365993 537.75 60.5 537.75 L 58.5 537.75 L 49.5 546.75 L 50 546.75 C 52.20914 546.75 54 548.54086 54 550.75 L 54 556.25 C 54 558.45914 52.20914 560.25 50 560.25 L 36 560.25 L 22 560.25 C 19.790861 560.25 18 558.45914 18 556.25 L 18 556.25 C 18 556.25 18 556.25 18 556.25 L 18 550.75 C 18 548.54086 19.790861 546.75 22 546.75 C 22 546.75 22 546.75 22 546.75 L 22.5 546.75 Z\&quot;/&gt;&lt;path d=\&quot;M 16.37132 533.87132 L 33.87868 551.37868 C 35.050253 552.55025 36.949747 552.55025 38.12132 551.37868 L 55.62868 533.87132 C 56.800252 532.69975 56.800252 530.80025 55.62868 529.62868 C 55.06607 529.06607 54.30301 528.75 53.50736 528.75 L 48 528.75 C 46.343146 528.75 45 527.40685 45 525.75 L 45 516 C 45 514.34315 43.656854 513 42 513 L 30 513 C 28.343146 513 27 514.34315 27 516 L 27 525.75 C 27 527.40685 25.656854 528.75 24 528.75 L 18.492641 528.75 C 16.835786 528.75 15.492641 530.09315 15.492641 531.75 C 15.492641 532.54565 15.808711 533.3087 16.37132 533.87132 Z\&quot;/&gt;&lt;/svg&gt;&quot;
+        },
+        &quot;$:/themes/welford/phasersonkill/metrics/headerheight&quot;: {
+            &quot;title&quot;: &quot;$:/themes/welford/phasersonkill/metrics/headerheight&quot;,
+            &quot;text&quot;: &quot;30px&quot;
+        },
+        &quot;$:/themes/welford/phasersonkill/metrics/menuwidth&quot;: {
+            &quot;title&quot;: &quot;$:/themes/welford/phasersonkill/metrics/menuwidth&quot;,
+            &quot;text&quot;: &quot;450px&quot;
+        },
+        &quot;$:/themes/welford/phasersonkill/metrics/border&quot;: {
+            &quot;title&quot;: &quot;$:/themes/welford/phasersonkill/metrics/border&quot;,
+            &quot;text&quot;: &quot;20px&quot;
+        },
+        &quot;$:/themes/welford/phasersonkill/metrics/searchheight&quot;: {
+            &quot;title&quot;: &quot;$:/themes/welford/phasersonkill/metrics/searchheight&quot;,
+            &quot;text&quot;: &quot;200px&quot;
+        },
+        &quot;$:/themes/welford/phasersonkill/metrics/sidebarcolour&quot;: {
+            &quot;title&quot;: &quot;$:/themes/welford/phasersonkill/metrics/sidebarcolour&quot;,
+            &quot;text&quot;: &quot;transparent&quot;
+        },
+        &quot;$:/themes/welford/phasersonkill/metrics/sidebarbreakpoint&quot;: {
+            &quot;title&quot;: &quot;$:/themes/welford/phasersonkill/metrics/sidebarbreakpoint&quot;,
+            &quot;text&quot;: &quot;1180px&quot;
+        },
+        &quot;$:/themes/welford/phasersonkill/metrics/maxwidth&quot;: {
+            &quot;title&quot;: &quot;$:/themes/welford/phasersonkill/metrics/maxwidth&quot;,
+            &quot;text&quot;: &quot;1681px&quot;
+        },
+        &quot;$:/themes/welford/phasersonkill/PageTop&quot;: {
+            &quot;created&quot;: &quot;20140629173226803&quot;,
+            &quot;modified&quot;: &quot;20140629173456183&quot;,
+            &quot;tags&quot;: &quot;$:/tags/PageTemplate&quot;,
+            &quot;title&quot;: &quot;$:/themes/welford/phasersonkill/PageTop&quot;,
+            &quot;type&quot;: &quot;text/vnd.tiddlywiki&quot;,
+            &quot;text&quot;: &quot;\\define config-title()\r\n$:/config/PageControlButtons/Visibility/$(listItem)$\r\n\\end\r\n&lt;div class=\&quot;tc-pagetop\&quot;&gt;\r\n\t&lt;b&gt;{{$:/SiteTitle}}&lt;/b&gt; \r\n\t&lt;$edit-text tiddler=\&quot;$:/temp/topsearch\&quot; type=\&quot;search\&quot; tag=\&quot;input\&quot; id=\&quot;topsearch\&quot; /&gt;\r\n\t&lt;$list filter=\&quot;[all[shadows+tiddlers]tag[$:/tags/PageControls]!has[draft.of]]\&quot; variable=\&quot;listItem\&quot;&gt;\r\n\t\t&lt;$reveal type=\&quot;nomatch\&quot; state=&lt;&lt;config-title&gt;&gt; text=\&quot;hide\&quot;&gt;\r\n\t\t\t&lt;$transclude tiddler=&lt;&lt;listItem&gt;&gt; mode=\&quot;inline\&quot;/&gt;\r\n\t\t&lt;/$reveal&gt;\r\n\t&lt;/$list&gt;\r\n&lt;/div&gt;\n\n&lt;div class=\&quot;special-search\&quot;&gt;\r\n{{$:/themes/welford/phasersonkill/SearchResults}}\r\n&lt;/div&gt;&quot;
+        },
+        &quot;$:/palettes/phasersonkill&quot;: {
+            &quot;created&quot;: &quot;20170408195245421&quot;,
+            &quot;description&quot;: &quot;dark custom&quot;,
+            &quot;modified&quot;: &quot;20170408195248508&quot;,
+            &quot;name&quot;: &quot;phasersonkill&quot;,
+            &quot;tags&quot;: &quot;$:/tags/Palette&quot;,
+            &quot;title&quot;: &quot;$:/palettes/phasersonkill&quot;,
+            &quot;type&quot;: &quot;application/x-tiddler-dictionary&quot;,
+            &quot;text&quot;: &quot;linkclr:\t\t\t\t\t\t\t\t#7aa0e6\r\nlinkclrhover:\t\t\t\t\t\t\t#ff2222\r\nheaderclr:\t\t\t\t\t\t\t\t#ee1111\r\nlinesclr:\t\t\t\t\t\t\t\t#dddddd\r\nbackground:\t\t\t\t\t\t\t\t#222222\r\npagetop-background:\t\t\t\t\t\t#424242\n\ntiddler-editor-background:\t\t\t\t#181818\r\ntiddler-editor-border-image:\t\t\t#ffffff\r\ntiddler-editor-border:\t\t\t\t\t#505050\r\ntiddler-editor-fields-even:\t\t\t\ttransparent\r\ntiddler-editor-fields-odd:\t\t\t\ttransparent\n\npage-background:\t\t\t\t\t\t#090909\n\nsite-title-foreground:\t\t\t\t\t#ee1111\n\ntiddler-title-foreground:\t\t\t\t#dddddd\r\ntiddler-subtitle-foreground:\t\t\t#ff0000\n\nalert-background:\t\t\t\t\t\t#ffe476\r\nalert-border:\t\t\t\t\t\t\t#b99e2f\r\nalert-highlight:\t\t\t\t\t\t#881122\r\nalert-muted-foreground:\t\t\t\t\t#b99e2f\n\nblockquote-bar:\t\t\t\t\t\t\t&lt;&lt;color muted-foreground&gt;&gt;\n\nbutton-background:\t\t\t\t\t\t#d3d3d3\r\nbutton-foreground:\t\t\t\t\t\t#222222\r\nbutton-border:\t\t\t\t\t\t\ttransparent\r\nbutton-foreground-hover:\t\t\t\t&lt;&lt;color linkclrhover&gt;&gt;\n\ncode-background:\t\t\t\t\t\t#e9e9e9\r\ncode-border:\t\t\t\t\t\t\ttransparent\r\ncode-foreground:\t\t\t\t\t\t#dd1144\r\ndirty-indicator:\t\t\t\t\t\t#ff0000\r\ndownload-background:\t\t\t\t\t#34c734\r\ndownload-foreground:\t\t\t\t\t&lt;&lt;color background&gt;&gt;\r\ndragger-background:\t\t\t\t\t\t&lt;&lt;color foreground&gt;&gt;\r\ndragger-foreground:\t\t\t\t\t\t&lt;&lt;color background&gt;&gt;\n\ndropdown-background:\t\t\t\t\t&lt;&lt;color pagetop-background&gt;&gt;\r\ndropdown-border:\t\t\t\t\t\t#5d5d5d\r\ndropdown-tab-background-selected:\t\t#ffffff\r\ndropdown-tab-background:\t\t\t\t#ececec\r\ndropzone-background:\t\t\t\t\trgba(0,200,0,0.7)\n\nexternal-link-background-hover:\t\t\tinherit\r\nexternal-link-background-visited:\t\tinherit\r\nexternal-link-background:\t\t\t\tinherit\n\nexternal-link-foreground-hover:\t\t\t#7aa0e6\r\nexternal-link-foreground-visited:\t\t#7aa0e6\r\nexternal-link-foreground:\t\t\t\t#7aa0e6\n\nforeground:\t\t\t\t\t\t\t\t#cccccc\r\nmessage-background:\t\t\t\t\t\t#ecf2ff\r\nmessage-border:\t\t\t\t\t\t\t#cfd6e6\r\nmessage-foreground:\t\t\t\t\t\t#547599\n\nmodal-backdrop:\t\t\t\t\t\t\t&lt;&lt;color foreground&gt;&gt;\r\nmodal-background:\t\t\t\t\t\t&lt;&lt;color background&gt;&gt;\n\nmodal-border:\t\t\t\t\t\t\t#999999\r\nmodal-footer-background:\t\t\t\t#424242\r\nmodal-footer-border:\t\t\t\t\t#dddddd\r\nmodal-header-border:\t\t\t\t\t#eeeeee\r\nmuted-foreground:\t\t\t\t\t\t&lt;&lt;color foreground&gt;&gt;\n\nsidebar-muted-foreground-hover:\t\t\t&lt;&lt;color linkclrhover&gt;&gt;\r\nsidebar-muted-foreground:\t\t\t\t&lt;&lt;color linkclrhover&gt;&gt;\n\nnotification-background:\t\t\t\t#ffffdd\r\nnotification-border:\t\t\t\t\t#999999\r\npre-background:\t\t\t\t\t\t\t#424242\r\npre-border:\t\t\t\t\t\t\t\ttransparent\r\nprimary:\t\t\t\t\t\t\t\t#c00\n\nsidebar-button-foreground:\t\t\t\t#222222\r\nsidebar-controls-foreground-hover:\t\t&lt;&lt;color linkclrhover&gt;&gt;\n\nsidebar-controls-foreground:\t\t\t#aaaaaa\r\nsidebar-foreground-shadow:\t\t\t\trgba(255,255,255, 0.8)\r\nsidebar-foreground:\t\t\t\t\t\t#acacac\r\nsidebar-tab-button-border:\t\t\t\tred\r\nsidebar-tab-foreground:\t\t\t\t\t#aaaaaa\r\nsidebar-tab-background:\t\t\t\t\t#333333\r\nsidebar-tab-border:\t\t\t\t\t\t#444444\r\nsidebar-tab-foreground-selected:\t\t&lt;&lt;color sidebar-tab-background&gt;&gt;\r\nsidebar-tab-background-selected:\t\t&lt;&lt;color sidebar-tab-foreground&gt;&gt;\r\nsidebar-tab-border-selected:\t\t\t&lt;&lt;color sidebar-tab-border&gt;&gt;\r\nsidebar-tab-divider:\t\t\t\t\t&lt;&lt;color sidebar-tab-border&gt;&gt;\n\ntab-foreground:\t\t\t\t\t\t\t&lt;&lt;color sidebar-tab-foreground&gt;&gt;\r\ntab-background:\t\t\t\t\t\t\t&lt;&lt;color sidebar-tab-background&gt;&gt;\r\ntab-border:\t\t\t\t\t\t\t\t&lt;&lt;color sidebar-tab-border&gt;&gt;\n\ntab-foreground-selected:\t\t\t\t&lt;&lt;color sidebar-tab-foreground-selected&gt;&gt;\r\ntab-background-selected:\t\t\t\t&lt;&lt;color sidebar-tab-background-selected&gt;&gt;\r\ntab-border-selected:\t\t\t\t\t&lt;&lt;color sidebar-tab-border-selected&gt;&gt;\n\ntab-divider:\t\t\t\t\t\t\t&lt;&lt;color sidebar-tab-divider&gt;&gt;\n\nsidebar-tiddler-link-foreground-hover:\t&lt;&lt;color linkclrhover&gt;&gt;\r\nsidebar-tiddler-link-foreground:\t\t#999999\n\nstatic-alert-foreground:\t\t\t\t#aaaaaa\n\ntable-border:\t\t\t\t\t\t\t#dddddd\r\ntable-footer-background:\t\t\t\t#a8a8a8\r\ntable-header-background:\t\t\t\t#424242\r\ntable-header-foreground:\t\t\t\t#bbbbbb\r\ntag-background:\t\t\t\t\t\t\t#ec6\r\ntag-foreground:\t\t\t\t\t\t\t#ffffff\n\ntiddler-background:\t\t\t\t\t\t&lt;&lt;color background&gt;&gt;\r\ntiddler-border:\t\t\t\t\t\t\t&lt;&lt;color background&gt;&gt;\n\ntiddler-controls-foreground-hover:\t\t&lt;&lt;color linkclrhover&gt;&gt;\r\ntiddler-controls-foreground-selected:\t&lt;&lt;color linkclrhover&gt;&gt;\r\ntiddler-controls-foreground:\t\t\t#cdcdcd\n\ntiddler-info-background:\t\t\t\t#f8f8f8\r\ntiddler-info-border:\t\t\t\t\t#dddddd\r\ntiddler-info-tab-background:\t\t\t#f8f8f8\r\ntiddler-link-background:\t\t\t\t&lt;&lt;color background&gt;&gt;\r\ntiddler-link-foreground:\t\t\t\t&lt;&lt;color linkclrhover&gt;&gt;\n\ntoolbar-new-button:\r\ntoolbar-options-button:\r\ntoolbar-save-button:\r\ntoolbar-info-button:\r\ntoolbar-edit-button:\r\ntoolbar-close-button:\r\ntoolbar-delete-button:\r\ntoolbar-cancel-button:\r\ntoolbar-done-button:\n\nuntagged-background: #999999\r\nvery-muted-foreground: #888888&quot;
+        },
+        &quot;$:/themes/welford/phasersonkill/SearchPadding&quot;: {
+            &quot;created&quot;: &quot;20140629173226803&quot;,
+            &quot;modified&quot;: &quot;20140629173456183&quot;,
+            &quot;tags&quot;: &quot;$:/tags/StoryBackdrop&quot;,
+            &quot;title&quot;: &quot;$:/themes/welford/phasersonkill/SearchPadding&quot;,
+            &quot;type&quot;: &quot;text/vnd.tiddlywiki&quot;,
+            &quot;text&quot;: &quot;&lt;div class=\&quot;hacky-buffer\&quot;&gt;{{$:/themes/welford/phasersonkill/SearchResults}}&lt;/div&gt;&quot;
+        },
+        &quot;$:/themes/welford/phasersonkill/SearchResults&quot;: {
+            &quot;created&quot;: &quot;20140629173226803&quot;,
+            &quot;modified&quot;: &quot;20140629173456183&quot;,
+            &quot;title&quot;: &quot;$:/themes/welford/phasersonkill/SearchResults&quot;,
+            &quot;type&quot;: &quot;text/vnd.tiddlywiki&quot;,
+            &quot;text&quot;: &quot;&lt;$reveal state=\&quot;$:/temp/topsearch\&quot; type=\&quot;nomatch\&quot; text=\&quot;\&quot;&gt;\r\n&lt;$scrollable class='tc-scrollable tc-search-results'&gt;\r\n&lt;small&gt;&lt;$count filter=\&quot;[!is[system]search{$:/temp/topsearch}]\&quot;/&gt; matches&lt;/small&gt;\r\n&lt;!-- TWexe stuff first --&gt;\r\n&lt;$list filter=\&quot;[!is[system]search{$:/temp/topsearch}tag[$:/tags/twexe]sort[title]limit[20]]\&quot; template=\&quot;$:/themes/welford/phasersonkill/TWexeTemplate\&quot;/&gt;\n\n&lt;!-- buttons next --&gt;\r\n&lt;div class=\&quot;search-buttons\&quot;&gt;\r\n&lt;$list filter=\&quot;[all[shadows]search{$:/temp/topsearch}tag[$:/tags/PageControls]sort[title]limit[3]]\&quot; template=\&quot;$:/themes/welford/phasersonkill/ButtonTemplate\&quot;/&gt;\r\n&lt;/div&gt;\n\n&lt;!-- Normal search third stuff first --&gt;\r\n&lt;$list filter=\&quot;[!is[system]search{$:/temp/topsearch}sort[title]limit[250]]\&quot; template=\&quot;$:/core/ui/ListItemTemplate\&quot;/&gt;\r\n&lt;small class=\&quot;displayblock\&quot;&gt;&lt;$linkcatcher to=\&quot;$:/temp/topsearch\&quot;&gt;&lt;$link to=\&quot;\&quot;&gt;close search results&lt;/$link&gt;&lt;/$linkcatcher&gt;&lt;/small&gt;\r\n&lt;/$scrollable&gt;\r\n&lt;span class=\&quot;tc-pagetop-close-search\&quot;&gt;&lt;$linkcatcher to=\&quot;$:/temp/topsearch\&quot;&gt;&lt;$link to=\&quot;\&quot; class=\&quot;btn-invisible\&quot;&gt;{{$:/core/images/close-button}}&lt;/$link&gt;&lt;/$linkcatcher&gt;&lt;/span&gt;\r\n&lt;/$reveal&gt;&quot;
+        },
+        &quot;$:/themes/welford/phasersonkill/ThemeTweaks&quot;: {
+            &quot;title&quot;: &quot;$:/themes/welford/phasersonkill/ThemeTweaks&quot;,
+            &quot;tags&quot;: &quot;$:/tags/ControlPanel/Appearance&quot;,
+            &quot;caption&quot;: &quot;PhasersOnKill Tweaks&quot;,
+            &quot;text&quot;: &quot;You can tweak certain aspects of the ''PhasersOnKill'' theme.\n\n//Take care to preserve any backticks (&amp;#96;) in the settings//\n\n! Sizes\n\n* Header Height: &lt;$edit-text tiddler=\&quot;$:/themes/welford/phasersonkill/metrics/headerheight\&quot; default=\&quot;\&quot; tag=\&quot;input\&quot;/&gt;\r\n* Menu Width: &lt;$edit-text tiddler=\&quot;$:/themes/welford/phasersonkill/metrics/menuwidth\&quot; default=\&quot;\&quot; tag=\&quot;input\&quot;/&gt;\r\n* Header Colour: &lt;$edit-text tiddler=\&quot;$:/themes/welford/phasersonkill/metrics/headerbgcolour\&quot; default=\&quot;\&quot; tag=\&quot;input\&quot;/&gt;\r\n* Header Font Colour: &lt;$edit-text tiddler=\&quot;$:/themes/welford/phasersonkill/metrics/headerfontcolour\&quot; default=\&quot;\&quot; tag=\&quot;input\&quot;/&gt;\r\n* Border: &lt;$edit-text tiddler=\&quot;$:/themes/welford/phasersonkill/metrics/border\&quot; default=\&quot;\&quot; tag=\&quot;input\&quot;/&gt;\r\n* Search height: &lt;$edit-text tiddler=\&quot;$:/themes/welford/phasersonkill/metrics/searchheight\&quot; default=\&quot;\&quot; tag=\&quot;input\&quot;/&gt;\r\n* Side Bar Colour: &lt;$edit-text tiddler=\&quot;$:/themes/welford/phasersonkill/metrics/sidebarcolour\&quot; default=\&quot;\&quot; tag=\&quot;input\&quot;/&gt;\r\n* Title Border Colour: &lt;$edit-text tiddler=\&quot;$:/themes/welford/phasersonkill/metrics/titlebordercolour\&quot; default=\&quot;\&quot; tag=\&quot;input\&quot;/&gt;\r\n* Sidebar Break Point: &lt;$edit-text tiddler=\&quot;$:/themes/welford/phasersonkill/metrics/sidebarbreakpoint\&quot; default=\&quot;\&quot; tag=\&quot;input\&quot;/&gt;&quot;
+        },
+        &quot;$:/temp/topsearch&quot;: {
+            &quot;created&quot;: &quot;20140629173226803&quot;,
+            &quot;modified&quot;: &quot;20140629173456183&quot;,
+            &quot;title&quot;: &quot;$:/temp/topsearch&quot;,
+            &quot;type&quot;: &quot;text/vnd.tiddlywiki&quot;,
+            &quot;text&quot;: &quot;&quot;
+        },
+        &quot;$:/themes/welford/phasersonkill/TWexeTemplate&quot;: {
+            &quot;created&quot;: &quot;20140629173226803&quot;,
+            &quot;modified&quot;: &quot;20140629173456183&quot;,
+            &quot;title&quot;: &quot;$:/themes/welford/phasersonkill/TWexeTemplate&quot;,
+            &quot;type&quot;: &quot;text/vnd.tiddlywiki&quot;,
+            &quot;text&quot;: &quot;&lt;div class=\&quot;tc-menu-list-item\&quot;&gt;\r\n&lt;$twexe/&gt;\r\n&lt;/div&gt;&quot;
+        }
+    }
+}</pre>
+</div>
 <div bag="default" created="20200127165334843" modified="20210315093728046" revision="0" tags="$:/giffmex/stroll" title="$:/view" type="text/vnd.tiddlywiki">
 <pre>classic</pre>
 </div>
@@ -14007,7 +14344,7 @@ Before you start storing important information in Stroll, it is vital to make su
 See the [[control panel|$:/ControlPanel]] for more options.
 </pre>
 </div>
-<div created="20210314200959536" modified="20210315134229250" tags="" title="Home" type="text/x-markdown">
+<div created="20210314200959536" modified="20210316210451968" tags="blog" title="Home" type="text/x-markdown">
 <pre>This is the place where I keep useful notes and other miscellaneous snippets. It's a digital garden, a place where ideas compost. Ideas are half sketched or incomplete. It's a constantly evolving notebook open to all.
 
 My main site and blog [is here ](www.davidralphlewis.co.uk) if you want something a bit more coherent. 
@@ -14016,6 +14353,7 @@ You can edit any pages but changes won't be saved. If you want to download a cop
 
 ## Currently reading
 * The Craft- edited by Rishi Dastidar
+* Mrs Death Misses Death- Salena Godden
 
 ## Working on
 
@@ -14023,7 +14361,12 @@ You can edit any pages but changes won't be saved. If you want to download a cop
 * Another pamphlet called 'Emergence' at the moment
 </pre>
 </div>
-<div created="20210316161722381" modified="20210316194803373" tags="" title="Starting a new poem" type="text/x-markdown">
+<div created="20210316203914707" modified="20210316205626686" tags="editing blog poetry" title="Read your writing aloud">
+<pre>When you are writing, read the poem or words out loud. Writing is a translation of an oral medium so you are trying to make the work sound natural. Reading a poem out loud will show where you stumble, where the writing is forced and unnatural. Of course, you might want to keep it like this, but if you read it out loud it highlights those parts. It also shows you the sound and rythym of the words.
+
+* Aiysha Humphries suggested recording it and listening back to it as an evolution of this idea.</pre>
+</div>
+<div created="20210316161722381" modified="20210316205653596" tags="blog writing editing" title="Starting a new poem" type="text/x-markdown">
 <pre>Oh no, you want to write a poem but have no idea where to start. There's serious fear of the blank page going on.
 * Use a prompt
 * Free Write to a timer
@@ -14032,13 +14375,18 @@ You can edit any pages but changes won't be saved. If you want to download a cop
 
 Then look at [[Ways to edit a poem]]</pre>
 </div>
-<div created="20210316192447417" modified="20210316194712705" tags="" title="Ways to edit a poem" type="text/x-markdown">
-<pre>
-Here are some ideas and techniques if you are stuck on rewriting a poem.
+<div title="Untitled">
+<pre>blog</pre>
+</div>
+<div title="Untitled 1">
+<pre>https://github.com/welford/phasersonkill-static/blob/master/base.tid</pre>
+</div>
+<div created="20210316192447417" modified="20210316205635766" tags="blog poetry editing" title="Ways to edit a poem" type="text/x-markdown">
+<pre>Here are some ideas and techniques if you are stuck on rewriting a poem.
 
 Remember that the whole point of editing is to Edit through someone else's eyes. You need to not be in love with the poem.
 
-* Read your poem aloud to hear the sound of it.
+* [[Read your poem out loud|Read your writing aloud]] to hear the sound of it.
 * Where does the poem surprise you? Make these accidents intentional. Build up to them or go in different directions.
 * What is the imagery doing? Is it coherent? Is it mostly Concrete or abstract? Are you showing or telling?
 * Does the form reflect the content? Is there a more appropriate form that would work? Can you build in rhyme or is the rhyme inapropriate?
@@ -14061,7 +14409,7 @@ Remember that the whole point of editing is to Edit through someone else's eyes.
 
 <!--~~ Library modules ~~-->
 <div id="libraryModules" style="display:none;">
-<script data-tiddler-library="yes" data-tiddler-title="$:/library/sjcl.js" data-tiddler-type="application/javascript" type="text/javascript">"use strict";var sjcl={cipher:{},hash:{},keyexchange:{},mode:{},misc:{},codec:{},exception:{corrupt:function(a){this.toString=function(){return"CORRUPT: "+this.message};this.message=a},invalid:function(a){this.toString=function(){return"INVALID: "+this.message};this.message=a},bug:function(a){this.toString=function(){return"BUG: "+this.message};this.message=a},notReady:function(a){this.toString=function(){return"NOT READY: "+this.message};this.message=a}}};
+<script data-tiddler-created="20210316211914531" data-tiddler-library="yes" data-tiddler-modified="20210316211916237" data-tiddler-tags="blog-framework" data-tiddler-title="$:/library/sjcl.js" data-tiddler-type="application/javascript" type="text/javascript">"use strict";var sjcl={cipher:{},hash:{},keyexchange:{},mode:{},misc:{},codec:{},exception:{corrupt:function(a){this.toString=function(){return"CORRUPT: "+this.message};this.message=a},invalid:function(a){this.toString=function(){return"INVALID: "+this.message};this.message=a},bug:function(a){this.toString=function(){return"BUG: "+this.message};this.message=a},notReady:function(a){this.toString=function(){return"NOT READY: "+this.message};this.message=a}}};
 sjcl.cipher.aes=function(a){this.s[0][0][0]||this.O();var b,c,d,e,f=this.s[0][4],g=this.s[1];b=a.length;var h=1;if(4!==b&&6!==b&&8!==b)throw new sjcl.exception.invalid("invalid aes key size");this.b=[d=a.slice(0),e=[]];for(a=b;a<4*b+28;a++){c=d[a-1];if(0===a%b||8===b&&4===a%b)c=f[c>>>24]<<24^f[c>>16&255]<<16^f[c>>8&255]<<8^f[c&255],0===a%b&&(c=c<<8^c>>>24^h<<24,h=h<<1^283*(h>>7));d[a]=d[a-b]^c}for(b=0;a;b++,a--)c=d[b&3?a:a-4],e[b]=4>=a||4>b?c:g[0][f[c>>>24]]^g[1][f[c>>16&255]]^g[2][f[c>>8&255]]^g[3][f[c&
 255]]};
 sjcl.cipher.aes.prototype={encrypt:function(a){return t(this,a,0)},decrypt:function(a){return t(this,a,1)},s:[[[],[],[],[],[]],[[],[],[],[],[]]],O:function(){var a=this.s[0],b=this.s[1],c=a[4],d=b[4],e,f,g,h=[],k=[],l,n,m,p;for(e=0;0x100>e;e++)k[(h[e]=e<<1^283*(e>>7))^e]=e;for(f=g=0;!c[f];f^=l||1,g=k[g]||1)for(m=g^g<<1^g<<2^g<<3^g<<4,m=m>>8^m&255^99,c[f]=m,d[m]=f,n=h[e=h[l=h[f]]],p=0x1010101*n^0x10001*e^0x101*l^0x1010100*f,n=0x101*h[m]^0x1010100*m,e=0;4>e;e++)a[e][f]=n=n<<24^n>>>8,b[e][m]=p=p<<24^p>>>8;for(e=
@@ -14125,7 +14473,7 @@ b){var c={},d;for(d=0;d<b.length;d++)void 0!==a[b[d]]&&(c[b[d]]=a[b[d]]);return 
 </div>
 <!--~~ Boot kernel prologue ~~-->
 <div id="bootKernelPrefix" style="display:none;">
-<script data-tiddler-title="$:/boot/bootprefix.js" data-tiddler-type="application/javascript" type="text/javascript">/*\
+<script data-tiddler-created="20210316211727048" data-tiddler-modified="20210316211730030" data-tiddler-tags="blog-framework" data-tiddler-title="$:/boot/bootprefix.js" data-tiddler-type="application/javascript" type="text/javascript">/*\
 title: $:/boot/bootprefix.js
 type: application/javascript
 
@@ -14248,7 +14596,7 @@ if(typeof(exports) === "undefined") {
 </div>
 <!--~~ Boot kernel ~~-->
 <div id="bootKernel" style="display:none;">
-<script data-tiddler-title="$:/boot/boot.js" data-tiddler-type="application/javascript" type="text/javascript">/*\
+<script data-tiddler-created="20210316211706044" data-tiddler-modified="20210316211708824" data-tiddler-tags="blog-framework" data-tiddler-title="$:/boot/boot.js" data-tiddler-type="application/javascript" type="text/javascript">/*\
 title: $:/boot/boot.js
 type: application/javascript
 
