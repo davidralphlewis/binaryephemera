@@ -47,47 +47,19 @@ a:hover {
   text-decoration: none;
 }
 
-h1 {
-        border-bottom: 1px solid var(--divider-color);
-        padding-top: 50px;
-        max-width: 700px;
-          margin-left: auto;
-        margin-right: auto;
-        font-family: 'Amethysta';
-        text-align: center;
-    }
-
-    h1, h2, h3, h4, h5, h6 {
-        padding-bottom: .5rem;
-        max-width: 700px;
-        margin-left: auto;
-        margin-right: auto;
-        font-family: 'Amethysta';
-        text-align: center;
-    }
-
-    hr {
-        margin: 75px 0 75px 0;
-        max-width: 20%;
-        margin-left: auto;
-        margin-right: auto;
-        border: 2px solid;
-        border-color: red !important;
-    }
-
-
 .footer {
   width: 100%;
   margin-left: auto;
   margin-right: auto;
   min-height: 100px;
   color: #673599;
-  background-color: #161716;
+  background-color: #f5eff7;
   text-align: center;
 }
 
 .footer .container-fluid {
-  background-color: #161716;
+  background-color: #f5eff7;
+  background: linear-gradient(135deg, #f1e7f7, #ba99cf);
 }
 
 /* dropdown menu tweaks */
