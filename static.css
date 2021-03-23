@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Work+Sans:wght@200&display=swap);
+
 :root {
     --background-color: #3b3b3b;
-    --font-color: #c7c7c7;
+    --font-color: #e6e6e6;
     --navbar-dark-link-color: white;
     --navbar-light-link-color: white;
     --divider-color: #red
@@ -24,12 +26,12 @@ body {
 padding: 10px;
 }
 a:link {
-  color: red;
+  color: orange;
 }
 
 /* visited link */
 a:visited {
-  color: orange;
+  color: #e873ff;
 }
 
 a:hover {
@@ -55,6 +57,7 @@ line-height: 1.6;
         border-bottom: 1px solid var(--divider-color);
         max-width: 700px;
         margin-left: auto;
+margin-top: 2px;
         margin-right: auto;
 margin-bottom: 17px;
         font-family: 'Montserrat', serif;
@@ -77,15 +80,15 @@ margin-bottom: 17px;
         margin-left: auto;
         margin-right: auto;
         border: 2px solid;
-        border-color: red !important;
+        border-color: orange !important;
     }
 
     blockquote {
       border-left:  4px solid;
-      border-color: red !important;
+      border-color: orange !important;
       padding-left: 20px;
       margin: 2em;
-      font-family: 'Amethysta';
+      font-family: 'Montserrat', sans-serif;
       font-style: italic;
       max-width: 700px;
       margin-left: auto;
@@ -107,14 +110,6 @@ margin-bottom: 17px;
             vertical-align: top;
         }
     }
-    ul {
-    margin: 3em;
-    max-width: 700px;
-    margin-left: auto;
-    margin-right: auto;
-    font-family: 'Open Sans', sans-serif;
-    font-size: 17px;
-  }
    .responsive {
    max-width: 90%;
    height: auto;
@@ -165,7 +160,7 @@ margin-bottom: 17px;
       margin-right: auto;
     }
 
-   ol {
+   ol,ul {
    display: block;
    max-width: 700px;
    margin-left: auto;
@@ -224,18 +219,19 @@ margin-bottom: 17px;
 /* Footer */
 
 footer {
+font-size: 10px;
+}
     .container {
         .content {
             border-top: 1px solid var(--divider-color);
         }
     }
-}
 hr {
     max-width: 20%;
     margin-left: auto;
     margin-right: auto;
     border: 2px solid;
-    border-color: red !important;
+    border-color: orange !important;
 }
 /* Menu */
 
