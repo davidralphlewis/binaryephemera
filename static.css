@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Work+Sans:wght@200&display=swap);
+@import url(https://fonts.googleapis.com/css2?family=Montserrat:wght@300,600&family=Work+Sans:wght@200&display=swap);
 
 :root {
     --background-color: #3b3b3b;
@@ -66,7 +66,7 @@ line-height: 2;
 
     h1, h2, h3, h4, h5, h6 {
         max-width: 700px;
-font-weight: 300;
+font-weight: 600;
         margin-left: auto;
         margin-right: auto;
 margin-bottom: 17px;
