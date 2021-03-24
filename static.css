@@ -21,7 +21,8 @@ body {
     font-size: 17px;
 line-weight: 300;
     text-align: left;
-padding: 10px;
+padding: 15px;
+text-indent: 30px;
 }
 a:link {
   color: orange;
@@ -163,8 +164,9 @@ margin-bottom: 17px;
    max-width: 700px;
    margin-left: auto;
    margin-right: auto;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
     font-size: 17px;
+line-weight: 300;
     }
 
     .featured-image {
