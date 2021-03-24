@@ -3,16 +3,13 @@
 :root {
     --background-color: #3b3b3b;
     --font-color: #e6e6e6;
-    --navbar-dark-link-color: white;
-    --navbar-light-link-color: white;
-    --divider-color: #red
     --code-background-color: #0f140f;
 }
 
 html {
   min-height: 100%;
   max-width: 700px;
-  margin: auto
+  margin: auto;
 }
 body {
     background-color: var(--background-color);
@@ -22,6 +19,7 @@ body {
     margin-right: auto;
     font-family: 'Work Sans', sans-serif;
     font-size: 17px;
+line-weight: 300;
     text-align: left;
 padding: 10px;
 }
