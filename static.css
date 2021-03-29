@@ -139,7 +139,11 @@ line-height: 1.6;
  float: right;
  margin: 20px;
  }
-
+.twcontent {
+max-wdith: 900px;
+margin-left: auto;
+margin-right: auto;
+}
 .column {
   float: left;
   padding: 10px;
@@ -149,6 +153,10 @@ line-height: 1.6;
   width: 70%;
 }
 
+p left {
+max-width: 650px;
+margin-left: auto;
+}
 .right {
   width: 25%;
 }
