@@ -151,17 +151,19 @@ margin-right: auto;
 }
 
 .left {
-  width: 22.5%;
+  width: 15%;
 }
 .middle {
-  width: 50%;
+  width: 60%;
 }
 .right {
-  width: 22.5%;
+  width: 20%;
 }
 @media screen and (max-width: 600px) {
   .column {
-    width: 100%;
+    width: 92%;
+padding-left: 10px;
+padding-right: 5px;
   }
 }
 /* Clear floats after the columns */
