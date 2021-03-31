@@ -225,10 +225,20 @@ list-style-position: inside;
 
 /* Style the header */
 .header {
-  background-color: #3b3b3b;
-  padding: 20px;
+ padding: 50px;
   text-align: center;
+  background: #3b3b3b;
+  color: white;
+  font-size: 30px;
 }
+
+div.header p{
+text-align: center;
+  font-family: 'Merriweather', serif;
+font-weight: 400;
+font-size: 20px;
+}
+
 .navbar {
   width: 100%;
   background-color: #555;
@@ -244,7 +254,7 @@ list-style-position: inside;
 }
 
 .navbar a:hover {
-  background-color: #000;
+  background-color: orange;
 }
 
 .active {
@@ -324,11 +334,16 @@ list-style-position: inside;
   border-color: red;
 }
 
+@media screen and (max-width: 600px) {
+  .header {
+padding: 10px;
+font-size: 20px;
+  }
 
 /* Footer */
 
 footer {
-font-size: 10px;
+font-size: 12px;
 }
     .container {
         .content {
