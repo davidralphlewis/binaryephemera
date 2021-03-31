@@ -8,6 +8,7 @@
 
 html {
   min-height: 100%;
+background-color: #3b3b3b;
 }
 body {
     background-color: var(--background-color);
@@ -15,6 +16,10 @@ body {
     font-family: 'Work Sans', sans-serif;
     font-size: 17px;
     text-align: left;
+}
+div {
+background-color: #3b3b3b;
+font-color: #ffffff;
 }
 a:link {
   color: orange;
