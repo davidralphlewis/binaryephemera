@@ -250,13 +250,12 @@ font-size: 20px;
     padding: 0px;
     text-align: center;
 font-family:' Montserrat', sans-serif;
-font-weight: 200;
 }
 
 .navbar li{
     display: inline-block;
     padding: 2px;
-    width: 150px;
+    width: 200px;
 }
 
 .navbar-custom {
@@ -266,13 +265,13 @@ font-weight: 200;
 /* change the brand and text color */
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-text {
-    color: #fc6d00;
-font-size: 18 px;
+    color: #ce8a0e;
+font-size: 20px;
 }
 
 /* change the link color */
 .navbar-custom .navbar-nav .nav-link {
-    color: #fc6d00;
+    color: #ce8a0e;
 }
 
 /* change the color of active or hovered links */
@@ -285,19 +284,28 @@ font-size: 18 px;
 background-color: #4d4d4d;
 }
 
-
 .custom-toggler .navbar-toggler-icon {
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(252, 160, 48, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(252,186,3, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }
 
 .custom-toggler.navbar-toggler {
-  border-color: rgb(252, 160, 48);
+  border-color: rgb(252,186,3);
 } 
 
-    button.navbar-toggler.collapsed {
-        background-color: f29a2e;
-        border-color: black;
+.navbar-toggler{
+width: 47px;
+height: 34px;
+background-color: #f29a2e;
 }
+
+.navbar-toggler .line{
+width: 100%;
+float: left;
+height: 2px;
+background-color: #fff;
+margin-bottom: 5px;
+}
+
 .active {
   background-color: #4CAF50;
 }
