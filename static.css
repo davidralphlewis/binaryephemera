@@ -244,18 +244,17 @@ font-weight: 400;
 font-size: 20px;
 }
 
-.navbar ul {
-    list-style-type: none;
-    margin: 0px;
-    padding: 0px;
-    text-align: center;
-font-family:' Montserrat', sans-serif;
+.navbar {
+background-color: #3b3b3b;
+}
+ 
+navbar a:hover {
+background-color: orange;
 }
 
-.navbar li{
-    display: inline-block;
-    padding: 2px;
-    width: 200px;
+.hamburger {
+font-size: 20px;
+color: #fff;
 }
 
 .navbar-nav .nav-item .nav-link {
