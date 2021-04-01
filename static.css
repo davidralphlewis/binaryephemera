@@ -66,6 +66,7 @@ margin-bottom: 17px;
         font-family: 'Merriweather', serif;
 font-weight: 400;
         text-align: center;
+color: orange;
     }
 
     hr {
@@ -244,11 +245,12 @@ font-weight: 400;
 font-size: 20px;
 }
 
-.navbar {
-background-color: #3b3b3b;
+nav.navbar {
+background-color: #1c1c1c;
+flex: justify-content-between;
 }
  
-navbar a:hover {
+nav.navbar a:hover {
 background-color: orange;
 }
 
@@ -257,6 +259,7 @@ font-size: 20px;
 color: #fff;
 }
 
+}
 .navbar-nav .nav-item .nav-link {
     color: white;
 }
@@ -266,25 +269,27 @@ color: #fff;
 }
 
 .navbar-custom {
-    background-color: #4d4d4d;
+    background-color: #1c1c1c;
 }
 
 /* change the brand and text color */
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-text {
-    color: #ce8a0e;
+    color: #fca121;
 font-size: 20px;
 }
 
 /* change the link color */
 .navbar-custom .navbar-nav .nav-link {
-    color: #ce8a0e;
+    color: #fca121;
+background-color: #1c1c1c;
+font-weight: 400px
 }
 
 /* change the color of active or hovered links */
 .navbar-custom .nav-item.active .nav-link,
 .navbar-custom .nav-item:hover .nav-link {
-    background-color: #262626;
+    background-color: #949494;
 }
 
 .active {
