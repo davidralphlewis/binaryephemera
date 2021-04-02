@@ -246,7 +246,7 @@ font-size: 20px;
 }
 
 nav.navbar {
-background-color: #1c1c1c;
+background-color: #5c5c5c;
 flex: justify-content-between;
 }
  
@@ -269,7 +269,7 @@ color: #fff;
 }
 
 .navbar-custom {
-    background-color: #1c1c1c;
+    background-color: #5c5c5c;
 }
 
 /* change the brand and text color */
