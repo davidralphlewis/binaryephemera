@@ -22,7 +22,8 @@ background-color: #3b3b3b;
 font-color: #ffffff;
 }
 a:link {
-  color: orange;
+  color: #58f4fc;
+text-decoration: underline;
 }
 
 /* visited link */
@@ -246,7 +247,7 @@ font-size: 20px;
 }
 
 nav.navbar {
-background-color: #5c5c5c;
+background-color: #1a1a1a;
 flex: justify-content-between;
 }
  
@@ -269,7 +270,7 @@ color: #fff;
 }
 
 .navbar-custom {
-    background-color: #5c5c5c;
+    background-color: #1a1a1a;
 }
 
 /* change the brand and text color */
@@ -282,8 +283,9 @@ font-size: 20px;
 /* change the link color */
 .navbar-custom .navbar-nav .nav-link {
     color: #fca121;
-background-color: #5c5c5c;
-font-weight: 400px
+background-color: #1a1a1a;
+font-weight: 400px;
+text-decoration: none;
 }
 
 /* change the color of active or hovered links */
