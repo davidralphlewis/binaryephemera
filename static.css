@@ -15,7 +15,7 @@ scroll-behavior: smooth;
 body {
     background-color: var(--background-color);
     color: var(--font-color);
-    font-family: 'Merriweather', serif;
+    font-family: 'Work Sans', sans-serif;
     font-size: 18px;
     text-align: left;
 }
