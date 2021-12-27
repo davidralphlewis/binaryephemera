@@ -159,7 +159,7 @@ margin-bottom: 17px;
         font-family: 'Orbitron', sans-serif;
         text-align: center;
 	color: var(--highlight-color-dark); 
-
+`
     }
 
 
@@ -351,11 +351,11 @@ margin-right: auto;
   display: table;
   clear: both;
 }
-   ol,ul {
+   ol,ul,li {
    display: block;
-    font-family: 'Work Sans', sans-serif;
-    font-size: 18px;
-line-weight: 500;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 19px;
+font-weight: 500;
 line-height: 1.6;
 padding: 20px;
     }
