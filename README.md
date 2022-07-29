@@ -1,36 +1,101 @@
-# Jekyll Garden v 0.4!
-![Slide 4_3 - 1 (1)](https://user-images.githubusercontent.com/1788677/169704768-65c32d93-7884-47fa-b98c-bc8329acc6a7.png)
+# Notenote.link
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7b37d412-1240-44dd-8539-a7001465b57a/deploy-status)](https://app.netlify.com/sites/notenotelink/deploys)
 
-Jekyll Garden theme lets you publish your [Obsidian](https://obsidian.md/) vault (or a subset of it) as a Jekyll static website. The theme is markdown and Obsidian setup friendly. You can use your own server or Github page to set up your SSG. Check out the demo.
+## Update !
 
-## Documents and links
--  [Demo website](https://jekyll-garden.github.io/)
--  [Personal Website](https://hiran.in/)
--  [Feature List](https://jekyll-garden.github.io/post/features)
--  [How to Setup](https://jekyll-garden.github.io/post/how-to)
+Hi everyone ! I've been very busy lately, so I didn't check all of the issues and the PR, but as I have more free time now I'll restart working on the project. Thanks for all the kind messages by the way!
 
-## Credits & Thanks
--  See [Credits page](https://jekyll-garden.github.io/credits)
+## What is this?
 
-## Contribution
+A digital garden using a custom version of `simply-jekyll`, optimised for integration with [Obsidian](https://obsidian.md). It is more oriented on note-taking and aims to help you build a nice knowledge base that can scale with time. 
 
-To set up your environment to develop this theme, run `bundle install` after cloning this repository in your local machine.
+**Demo is here: [notenote.link](https://notenote.link)**
 
-Your theme is set up just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. `_notes` contain all atomic notes. If you want to use this for blog, add posts inside `_posts` folder, following standard Jekyll frontamtter.
+If you want to see a more refined example, you can check my notes (in french) at [arboretum.link](https://www.arboretum.link/). Build time is approx. 15 seconds, FYI.
 
-### Hosting in a Docker Container
-For hosting on your local network, inside a docker container, install `docker` and `docker-compose` and run,
-```Terminal
-$ docker-compose up -d
-```
-> **Note**:-
-> 
-> This container is built upon on alpine based ruby image. There's an official Jekyll image available in docker hub which only support `amd64` images. You can opt to use that if you are running the container on an 64bit PC. If you want to run this on an ARM based system like Raspberry Pi, this would be a better option.
->
-> The directories which will be frequently modified, are mapped as local volumes so that any changes made to those will be immediately picked up by the server and built. If you fancy changing content in other folders regularly, feel free to add them to the `volumes` section in `docker-compose.yml` before deploying.
+Issues are welcome, including feedback ! Don't hesitate to ask if you can't find a solution. 💫
 
+![screenshot](/assets/img/screenshot.png)
 
-## License
+## What is different?
 
-The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+- Markdown is fully-compatible with Obsidian (including Latex delimiters!)
+- There are now only notes (no blog posts).
+- There are cosmetic changes (ADHD-friendly code highlighting, larger font, larger page)
+- Code is now correctly indented
+- Wikilinks, but also alt-text wikilinks (with transclusion!) are usable.
+
+## How do I use this?
+
+You can click on this link and let the deploy-to-netlify-for-free-script do the rest !
+
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Maxence-L/notenote.link)
+
+Follow the [How to setup this site](https://notenote.link/notes/how-to-setup-this-site) guide, written by [raghuveerdotnet](https://github.com/raghuveerdotnet) and then adapted for this fork.
+
+If you want to use it with Github Pages, it is possible, [please read this](https://github.com/Maxence-L/notenote.link/issues/5#issuecomment-762508069).
+
+## How can I participate?
+
+Open an issue to share feedback or propose features. Star the repo if you like it! 🌟
+
+## How do I customize this for my needs?
+
+Things to modify to make it yours:
+
+- Meta content in [\_layouts/post.html](_layouts/post.html):
+    ```html
+    <meta content="My linked notebook" property="og:site_name"/>
+    ```
+- The favicon and profile are here: [assets/img/](assets/img/)
+- The main stuff is in [\_config.yml](_config.yml):
+    ```yaml
+    title: notenotelink.netlify.com
+    name: notenote.link
+    user_description: My linked notebook
+
+    notes_url: "https://notenotelink.netlify.com/"
+    profile_pic: /assets/img/profile.png
+    favicon: /assets/img/favicon.png
+    copyright_name: MIT
+
+    baseurl: "/" # the subpath of your site, e.g. /blog
+    url: "https://notenotelink.netlify.com/" # the base hostname & protocol for your site, e.g. http://example.com
+    encoding: utf-8
+    ```
+- You may want to change the copyright in [\_includes/footer.html](_includes/footer.html):
+   ```html
+   <p id="copyright-notice">Licence MIT</p>
+   ```
+
+## How do I remove the "seasons" feature for the notes?
+
+Delete what's inside [\_includes/feed.html](_includes/feed.html) and replace it with:
+
+```liquid
+{%- if page.permalink == "/" -%}
+    {%- for item in site.notes -%}
+        <div class="feed-title-excerpt-block disable-select" data-url="{{site.url}}{{item.url}}">
+            <a href="{{ item.url }}" style="text-decoration: none; color: #555555;">
+            {%- if item.status == "Ongoing" or item.status == "ongoing" -%}
+                <ul style="padding-left: 20px; margin-top: 20px;" class="tags">
+                    <li style="padding: 0 5px; border-radius: 10px;" class="tag"><b>Status: </b>{{item.status | capitalize }}</li>
+                </ul>
+                <p style="margin-top: 0px;" class="feed-title">{{ item.title }}</p>
+            {%- else -%}
+                <p class="feed-title">{{ item.title }}</p>
+            {%- endif -%}
+                <p class="feed-excerpt">{{ item.content | strip_html | strip | escape | truncate: 200}}</p>
+            </a>
+        </div>
+    {%- endfor -%}
+{%- endif -%}
+````
+
+On command-line, you can run `bundle exec jekyll serve` then go to `localhost:4000` to check the result.
+
+## What's coming?
+
+- [Open-transclude](https://subpixel.space/entries/open-transclude/) integration in the template, if possible.
+- Different themes! - Please tell me which you'd like to have!
