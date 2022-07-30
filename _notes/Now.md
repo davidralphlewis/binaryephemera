@@ -1,6 +1,7 @@
 ---
 title: "Now"
 feed: hide
+layout: post
 date: 29-07-2022
 permalink: /now
 ---
@@ -18,7 +19,7 @@ permalink: /now
 
 -   This One Sky Day- Leone Ross
 
-[[Books Read 2022]]  all the books I've read this year and [[Books Read 2021]] 
+[[Books Read 2022]]  all the books I've read this year and [[Books Read 2021]]
 
 ## Watching
 

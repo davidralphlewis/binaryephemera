@@ -1,6 +1,7 @@
 ---
 title: "0th draft"
 feed: show
+layout: post
 date: 29-07-2022
 permalink: /0draft
 ---
