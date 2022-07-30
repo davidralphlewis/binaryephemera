@@ -1,7 +1,7 @@
 ---
 title: "Now"
 feed: hide
-layout: post
+layout: default
 date: 29-07-2022
 permalink: /now
 ---
