@@ -1,8 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: post
-permalink: /
+layout: page
+title: Welcome! 🥬
+id: home
 ---
 
+<section class="callout">
+	Take a look at <a href="/your-first-note.html" class="internal-link">Your First Note</a> to get started on your exploration.
+</section>
+
+{% include_relative README.md %}
