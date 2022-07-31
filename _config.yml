@@ -1,44 +1,36 @@
-title:               Green Web Template
-url:                 
-
-# https://jekyllrb.com/docs/configuration/options/
-timezone: America/Los_Angeles
-
-
-# Remove obsidian-templates and delete the folder if you aren't using Obsidian Templates plugin
-exclude:             ['_includes/notes_graph.json','obsidian-templates']
+title:               My digital garden
+include:             ['_pages']
+exclude:             ['_includes/notes_graph.json']
+# You may need to change the base URL depending on your deploy configuration.
+# Specifically, when using GitHub Pages, the baseurl should point to where GitHub
+# Pages deploys your repository (which is usually the repository name).
+baseurl:             ''
 
 # If you are using a host that cannot resolve URLs that do
-# not end with .html (such as Neocities or Dreamhost), set this to 'true'.
-use_html_extension:  true
-
-# 'True' displays notes graph at bottom of each note
-show_notes_graph: false
+# not end with .html (such as Neocities), set this to 'true'.
+use_html_extension:  false
 
 # Set to `true` to open non-internal links in new tabs, or
 # set to `false` to open non-internal links in current tab.
 open_external_links_in_new_tab: true
 
-permalink:           slug
+# Set to `true` to replace tweet URLs with Twitter embeds.
+# Note that doing so will negatively the reader's privacy
+# as their browser will communicate with Twitter's servers.
+embed_tweets: false
 
-# Set to 'true' to generate excerpts for pages. Notes are technically pages.
-page_excerpts:      true
-
-# Enabled CommonMark instead of default kramdown. All extensions are enabled, but you can choose to remove some by referencing https://github.github.com/gfm/ and https://github.com/gjtorikian/commonmarker#options
-markdown: CommonMarkGhPages
-commonmark:
-  options: ["SMART", "FOOTNOTES", "VALIDATE_UTF8", "GITHUB_PRE_LANG", "TABLE_PREFER_STYLE_ATTRIBUTES"]
-  extensions: ["strikethrough", "autolink", "table", "tagfilter"]
+permalink:           pretty
+relative_permalinks: false
 
 plugins:
   - jekyll-last-modified-at
 
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
 collections:
   notes:
-    output: true
-    permalink: /:slug
-
-  pages:
     output: true
     permalink: /:slug
 
