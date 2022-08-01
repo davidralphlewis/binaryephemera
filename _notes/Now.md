@@ -1,12 +1,9 @@
 ---
 title: "Now"
-feed: hide
 layout: default
 date: 29-07-2022
 permalink: /now
 ---
-
-# What I'm doing now
 
 ## Life
 
@@ -17,16 +14,16 @@ permalink: /now
 
 ## Reading
 
--   This One Sky Day- Leone Ross
+-   *This One Sky Day*- Leone Ross
 
-[[Books Read 2022]]  all the books I've read this year and [[Books Read 2021]]
+[[Books Read 2022]]  all the books I've read this year and [[Books Read 2021]] 
 
 ## Watching
 
 -   *Buffy the Vampire Slayer* - Season 6
 
 
-(Here's the films [[Films Watched 2022]]I watched in 2022.</a>)
+(Here's [[Films Watched 2022]])
 
 ## Playing
 

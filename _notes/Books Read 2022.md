@@ -1,11 +1,10 @@
 ---
 title: "Books Read 2022"
+layout: note
 feed: hide
 date: 29-07-2022
 permalink: /books2022
 ---
-
-# Books Read in 2022
 
 1.  *How to Do Nothing*- Jenny Odell
 2.  *[[gideon-the-ninth]] Tamsyn Muir
@@ -39,3 +38,4 @@ permalink: /books2022
 30. *Paper Girls: Volume 2*- Brian K. Vaughan, Cliff Chiang, Matt Wilson (re-read) 
 31. *Paper Girls: Volume 3* - Brian K. Vaughan, Cliff Chiang, Matt Wilson (re-read) 
 32. *Paper Girls: Volume 4* - Brian K. Vaughan, Cliff Chiang, Matt Wilson (re-read) 
+33. *Paper Girls: Volume 5* - Brian K. Vaughan, Cliff Chiang, Matt Wilson (re-read) 

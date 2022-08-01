@@ -1,11 +1,10 @@
 ---
 title: "Films Watched 2022"
-feed: show
+layout: note
 date: 29-07-2022
 permalink: /films2022
 ---
 
-# Films Watched 2022
 
 1.  Remains of the Day (A+)
 2.  Ready Player One (D-)
