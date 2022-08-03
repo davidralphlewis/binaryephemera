@@ -26,7 +26,7 @@ permalink: /books2022
 18. *Swamp Thing: The Root of All Evil*- Mark Millar, Grant Morrison, Phil Hester, Kim DeMulder and Tatjana Wood
 19. *Livestock*- Hannah Berry
 20. *The Sandman: Dream Country*- Neil Gaiman (re-read)
-21. [[Parable of the Sower- Octavia E. Butler]]
+21. [[Parable of the Sower- Octavia E Butler]]
 22. [[The Unbeatable Squirrel Girl Vol 1 -Ryan North]]
 23. *Mort* - Terry Pratchett
 24. *Eve* - Una
@@ -38,4 +38,5 @@ permalink: /books2022
 30. *Paper Girls: Volume 2*- Brian K. Vaughan, Cliff Chiang, Matt Wilson (re-read) 
 31. *Paper Girls: Volume 3* - Brian K. Vaughan, Cliff Chiang, Matt Wilson (re-read) 
 32. *Paper Girls: Volume 4* - Brian K. Vaughan, Cliff Chiang, Matt Wilson (re-read) 
-33. *Paper Girls: Volume 5* - Brian K. Vaughan, Cliff Chiang, Matt Wilson (re-read) 
+33. *Paper Girls: Volume 5* - Brian K. Vaughan, Cliff Chiang, Matt Wilson 
+34. *Paper Girls: Volume 6*- Brian K. Vaughan, Cliff Chiang, Matt Wilson

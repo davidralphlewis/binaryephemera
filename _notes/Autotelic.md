@@ -1,0 +1,17 @@
+---
+title: "Autotelic"
+layout: note
+date: 02-08-2022
+---
+
+Doing something just for the sake of it.
+
+Making art works better when you aren't seeking external validation. It becomes more like [[Art is Play| play.]]
+
+
+> I feel that the most intrinsically rewarding types of activities are “autotelic” activities
+>
+> Meaning, if you photograph for photography sake; you don’t care about getting fame, popularity, or lots of social media “likes”. You make photos because it is intrinsically rewarding– you love the process of making photos.
+>
+
+– Eric Kim, <a href="https://petapixel.com/2016/04/12/photography-photographys-sake/" >Petapixel</a>

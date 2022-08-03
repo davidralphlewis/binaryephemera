@@ -5,15 +5,18 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Incomplete thoughts, rambles, ideas and notes
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+This is the place where I keep useful notes and other miscellaneous snippets. It's a digital garden, a place where ideas compost. Ideas are half sketched or incomplete. It's a constantly evolving notebook, powered by Obisidian. Things might be wrong or inaccurate. Email me to let me know if anything's really incorrect.
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+My main site and blog is [here](https://www.davidralphlewis.co.uk) if you want something a bit more coherent.
+Suggested starting places
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+    Writing
+    Perception Problems
+
+What I'm Up to [[Now]]
+What this site is made with
 
 <style>
   .wrapper {
