@@ -78,8 +78,9 @@ h6 {
 a {
   transition: background 300ms;
   padding: 0 0.1em;
+  font-weight: 600;
   text-decoration: none;
-  border-bottom: 1px solid $color-border;
+  border-bottom: 2px solid $color-border;
   color: $color-primary;
   &:hover {
     color: black !important;
@@ -100,7 +101,7 @@ a {
 }
 
 *:focus {
-  background: #ffe8bc !important;
+  background: #f77c08 !important;
   color: black !important;
 }
 
@@ -141,6 +142,6 @@ code {
 }
 
 .invalid-link-brackets {
-  color: #ccc;
+  color: #cf221f;
   cursor: help;
 }
