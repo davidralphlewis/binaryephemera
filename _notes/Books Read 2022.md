@@ -12,7 +12,7 @@ permalink: /books2022
 4.  *The Bible II* - Sam J. Grudgings
 5.  *Drive Your Plow Over the Bones of the Dead*-Olga Tokarczuk
 6.  *52 ways of looking at a poem*- Ruth Padel
-7.  *[[Entangled-Life-Merlin-Sheldrake]]
+7.  *[[Entangled Life Merlin Sheldrake]]
 8.  *American Sonnets for My Past and Future Assassin*- Terrance Hayes
 9.  *Wolf in White Van*- John Darnielle
 10. *The Narrow Road to the Deep North and Other Travel Sketches*- Basho translated by Nobuyuki Yuasa
