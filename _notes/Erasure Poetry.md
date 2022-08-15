@@ -1,11 +1,9 @@
 ---
-title: "erasure-poetry"
+title: "Erasure Poetry"
 layout: note
 date: 09-08-2022
-
 ---
 
-# Erasure Poetry
 
 Take a text and remove most of it to create something new. Also known as blackout poems.
 

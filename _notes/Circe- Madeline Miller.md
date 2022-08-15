@@ -4,8 +4,7 @@ layout: note
 date: 02-08-2022
 permalink: /circe
 ---
-
-# *Circe*- Madeline Miller
+#BookNotes 
 
 -   Retelling myths from female, outsider perspective. Similiar in this way to *The Penelopiad* by Margaret Atwood or *The Silence of the Girls* by Pat Barker.
 -   Power of empathy instead of seeking fame or political power.

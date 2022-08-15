@@ -5,7 +5,6 @@ date: 29-07-2022
 permalink: /films2022
 ---
 
-
 1.  Remains of the Day (A+)
 2.  Ready Player One (D-)
 3.  Matrix: Resurrections (C+)
@@ -23,3 +22,4 @@ permalink: /films2022
 15. Sound of Metal (A-)
 16. 20 Feet from Stardom (B)
 17. Thor: Love and Thunder (C-)
+18. [[Terminator 2 Judgement Day]] (rewatch) (A)

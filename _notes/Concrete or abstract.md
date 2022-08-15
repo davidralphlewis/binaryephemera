@@ -8,8 +8,8 @@ When you are writing, there's broadly two types of imagery- abstract and concret
 
 Abstract is conceptual, so thing like love, victory, kindness- ideas that aren't necessarily grounded in the real world.
 
-Concrete is things you can physically feel, touch and experience. So a rose is a concrete image when love isn't. (although maybe you can[[Twist a ClichTwist a Cliché￼￼ by finding a new aspect of the rose.)
-é￼￼ by finding a new aspect of the rose.)
+Concrete is things you can physically feel, touch and experience. So a rose is a concrete image when love isn't. (although maybe you can[[Twist a Cliché]] by finding a new aspect of the rose.)
+
 
 Concrete imagery tends to be better  if you use more [[specific-detail]] you use. 
 

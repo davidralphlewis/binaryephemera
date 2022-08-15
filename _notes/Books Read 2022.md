@@ -7,7 +7,7 @@ permalink: /books2022
 ---
 
 1.  *How to Do Nothing*- Jenny Odell
-2.  *[[gideon-the-ninth]] Tamsyn Muir
+2.  *[[Gideon the Ninth Tamsyn Muir]] Tamsyn Muir
 3.  *[[humour-stanley-donward]]*
 4.  *The Bible II* - Sam J. Grudgings
 5.  *Drive Your Plow Over the Bones of the Dead*-Olga Tokarczuk
