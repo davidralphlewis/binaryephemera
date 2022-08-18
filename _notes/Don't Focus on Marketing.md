@@ -5,7 +5,7 @@ date: 09-08-2022
 permalink: /no-marketing
 ---
 
-When you start [[keeping-a-blog]] you will find hundreds of articles that say how to optimise SEO or reach the widest audience. Ignore them.
+When you start [[Blogging]] you will find hundreds of articles that say how to optimise SEO or reach the widest audience. Ignore them.
 
 Focus instead on writing. [[Focus on Process not the end goal]] Learn and develop as an artist, make connections with cool people and [[share-your-work]].
 

@@ -1,10 +1,11 @@
 ---
-title: "Entangled Life Merlin Sheldrake"
+title: "Entangled Life-Merlin Sheldrake"
 layout: note
 date: 09-08-2022
 permalink: /entangled-life
 ---
 #BookNotes 
+
 A book all about fungi and how this largely overlooked branch of life is strange and unique
 
 ## Key ideas

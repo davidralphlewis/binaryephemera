@@ -52,7 +52,7 @@ Here's all the books I read in 2021:
 43. *Reckless Paper Birds* - John McCullough
 44. *Low*- Chrissy Williams
 45. *Where Rockets Burn Through- Contemporary Science Fiction Poetry From the UK*- editor Russell Jones
-46. *[[Circe- Madeline Miller]]
+46. *[[Circe-Madeline Miller]]
 47. *[[wanderlust-rebecca-solnit]]
 48. *On Earth We Are Briefly Gorgeous*- Ocean Vuong
 49. *The Light Fantastic*- Terry Pratchett

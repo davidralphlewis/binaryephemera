@@ -8,5 +8,5 @@ This is the idea that more stuff is better than small amounts of quality stuff. 
 
 It is better instead to focus on small areas or notes and work with the text.
 
-(This is almost a [[meta-notes|meta note. ]]) 
+(This is almost a [[Meta Notes|meta note. ]]) 
 

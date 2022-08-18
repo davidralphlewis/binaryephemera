@@ -10,7 +10,7 @@ Whenever you start [[Writing Index|writing]] a new poem, it is like you have nev
 > Last poem and the next poem. I try to focus on that. I hope that I’m changing all the time. Constantly asking myself, how can it be different from the last? I like having something to work on. That’s how my head is. I have to do something new. Something different each time.
 > – Terrance Hayes
 
-It can lead to [[imposter-syndrome]] as you assume everyone else knows what they are doing every time.
+It can lead to [[Imposter Syndrome]] as you assume everyone else knows what they are doing every time.
 
 [[Writing-Every-Day]] helps to challenge this. It also means you are growing as an artist.
 

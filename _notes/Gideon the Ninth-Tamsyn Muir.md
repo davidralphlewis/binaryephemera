@@ -1,5 +1,5 @@
 ---
-title: "Gideon the Ninth Tamsyn Muir"
+title: "Gideon the Ninth-Tamsyn Muir"
 layout: note
 date: 15-08-2022
 permalink: /gideon-the-ninth
