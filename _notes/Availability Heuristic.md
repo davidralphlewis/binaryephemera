@@ -11,7 +11,7 @@ We are scared of things we are most aware of. For example, we are more scared of
 
 As such we overestimate the risk for things that are vivid and intense.
 
-Kind of twisted version of the [[negativity-bias]], this is a way our brain makes shortcuts by focusing the immediate and the emotional.
+Kind of twisted version of the [[Negativity Bias]], this is a way our brain makes shortcuts by focusing the immediate and the emotional.
 
 A way to combat this is to use [[Red Teaming]]  although it is often difficult to completely overcome it.
 

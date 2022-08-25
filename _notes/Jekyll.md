@@ -4,4 +4,4 @@ It's both easy and frustrating to use. The setup requires some html and css codi
 
 You can view the code in my <a href="https://github.com/davidralphlewis/davidralphlewis.github.io/tree/master/" >github repo</a>. 
 
-One of the reasons I switched these notes to [[obsidian]] is to use Jekyll as a site generator
+One of the reasons I switched these notes to [[Obsidian]] is to use Jekyll as a site generator

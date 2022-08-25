@@ -8,4 +8,4 @@ Humans like to see everything as a story, with a beginning middle and end. Or we
 
 [[History is Always Edited]] for example, to fit whatever narrative is dominant. 
 
-Another one of our [[perception-problems]].
+Another one of our [[Perception Problems]].

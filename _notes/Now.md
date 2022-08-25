@@ -7,8 +7,8 @@ permalink: /now
 
 ## Life
 
--   Wedding planning!
--   Growing lots of flowers for the wedding
+-   Wedding planning! (In a month!)
+-   Trying to arrange flowers into bouquets.
 -   Taking on more responsibility at work.
 -   Switching to Obsidian for notes
 

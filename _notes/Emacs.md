@@ -4,7 +4,7 @@ layout: note
 date: 09-08-2022
 ---
 
-<a href="https://www.gnu.org/software/emacs/" >Emacs</a> is ancient bit of software that is the fanciest text editor around. It's like a shark in that it hasn't evolved in years but is perfectly suited to what it does. I use it a lot, mainly for [[org-mode]].
+<a href="https://www.gnu.org/software/emacs/" >Emacs</a> is ancient bit of software that is the fanciest text editor around. It's like a shark in that it hasn't evolved in years but is perfectly suited to what it does. I use it a lot, mainly for [[Org-Mode]].
 
 I wouldn't necessarily recommend it to anyone unless you are prepared for a fairly steep learning curve. Because it's a thirty year old piece of software, it has interesting quirks that are difficult to learn. You may find you fall into the [[system-maintenance-trap]] when the [[Tools-Don't-Matter]] as much as the words. I took a long time messing around with irrelevant setups before I focused on what matters.
 

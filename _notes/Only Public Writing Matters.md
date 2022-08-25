@@ -9,4 +9,4 @@ Increasingly,  I’ve come to realise all the poems and half baked stories in my
 
 The idle thoughts in my notebook will die with me so therefore the goal is to publish as much as possible. Its why I made these notes public. 
 
-[[open-mics]] are another way of making writing public. 
+[[Open Mics]] are another way of making writing public. 

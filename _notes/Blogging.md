@@ -13,10 +13,6 @@ It is liberating to have your own corner of the web to update and tinker with as
 ## Quotes
 
 > This blog, Scribtotum, is for getting to know my own head.
-
-> </div>
->
-> <div>
 >
 > It’s notes in the margins of my synaptic commonplace book.
 >
@@ -26,6 +22,4 @@ It is liberating to have your own corner of the web to update and tinker with as
 > 
 > <a href="https://www.mattselznick.com/why-you-should-blog"> Why do I Blog?</a> - Matthew Wayne Selznick
 >
-> </div>
-
 -   <a href="https://24ways.org/2019/its-time-to-get-personal/" >Laura Kalbag</a> on the power of a personal site.

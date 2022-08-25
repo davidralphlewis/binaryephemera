@@ -11,4 +11,4 @@ For example, if you look at a clock it doesn't appear to tick when you first fix
 
 It also works for sound and touch, as there is a disconnect between sensation and perception.
 
-Another reason [[perception-problems |our peception is flawed]] 
+Another reason [[Perception Problems |our peception is flawed]] 

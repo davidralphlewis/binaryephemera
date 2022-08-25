@@ -17,4 +17,4 @@ Animals display this behaviour as well in an example of [[Everything is Consciou
 — Joshua Sokol- <a href="https://getpocket.com/explore/item/the-thoughts-of-a-spiderweb?utm_source=pocket-newtab-global-en-GB" >The Thoughts of a Spiderweb</a>
 
 
-[[Network-better-than-linear]] perhaps? (Sorry.)
+[[Network Better Than Linear]] perhaps? (Sorry.)

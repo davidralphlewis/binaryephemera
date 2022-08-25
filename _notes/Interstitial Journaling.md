@@ -12,6 +12,6 @@ A form of [[Journaling]]. Instead of sitting down and reflecting after the event
 
 It's useful to [[Be Present]] and think about what you need to do.
 
-I occasionally use this at work, but it can be a distraction from actually [[Getting Things Done]]. It's especially useful in [[org-mode]] in [[Emacs]], where a shortcut can quickly add an entry with a timestamp.
+I occasionally use this at work, but it can be a distraction from actually [[Getting Things Done]]. It's especially useful in [[Org-Mode]] in [[Emacs]], where a shortcut can quickly add an entry with a timestamp.
 
 I learnt this from <a href="https://nesslabs.com/interstitial-journaling" >Anne-Laure le Cuff.</a>

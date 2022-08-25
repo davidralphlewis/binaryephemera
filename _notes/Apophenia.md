@@ -12,4 +12,4 @@ It can be a normal process or an abnormal one. Everyone finds patterns that aren
 
 This phenomena is closely linked to [[pareidolia]], but is more concerned with all iinformation, not just faces. 
 
-It's another reason why we [[perception-problems|our perception]] cannot be trusted.
+It's another reason why we [[Perception Problems|our perception]] cannot be trusted.

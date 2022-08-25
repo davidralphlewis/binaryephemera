@@ -5,7 +5,7 @@ date: 02-08-2022
 permalink: /anxiety-questions
 ---
 
-Here are some questions to ask yourself to analyse your anxiety, taken from the Blindboy Podcast. Go listen to the <a href="https://play.acast.com/s/blindboy/13stepsiusetomanageanxiety" >full episode</a>, which explains these in more detail.
+Here are some questions to ask yourself to analyse your anxiety, taken from [[The Blindboy Podcast]]. Go listen to the <a href="https://play.acast.com/s/blindboy/13stepsiusetomanageanxiety" >full episode</a>, which explains these in more detail.
 
 1.  Am I jumping to the worst possible conclusion?
 2.  Am I thinking in extreme black and white terms?
