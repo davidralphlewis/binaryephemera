@@ -17,7 +17,7 @@ Here's all the books I read in 2021:
 8.  *Brave Faces & Other Smiles* - Beth Calverley
 9.  *Lanny* - Max Porter
 10. *The Last Wish (The Witcher, \#0.5)* - Andrzej Sapkowski
-11. *[[Purple-Hibiscus-Chimamanda-Ngozi-Adichie]]
+11. *[[Purple Hibiscus-Chimamanda Ngozi Adichie]]
 12. *[[the-order-of-time-Carlo-rovelli]]* 
 13. *The Lithium Codex* - Oz Hardwickp0
 14. *Night Sky with Exit Wounds* - Ocean Vuong

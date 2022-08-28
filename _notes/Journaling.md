@@ -17,7 +17,7 @@ I've also added in questions I found from Struthless:
 
 (It's worth checking out his videos, especially <a href="https://youtu.be/dArgOrm98Bk" >this one</a> which highlights some of the reasons and ways to approach journaling)
 
-I might ask myself some [[questions-for-self-reflection]] in order to prompt a response.
+I might ask myself some [[Questions for Self Reflection]] in order to prompt a response.
 
 > I love the diary because it knows itself to be a minor form; it isn’t trying to be anything but. It isn’t constructed, like a memoir; it is life as it happens.
 > - <a href="https://granta.com/notes-on-craft-elkin/" >Notes on craft-- Lauren Elkin</a>

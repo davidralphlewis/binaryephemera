@@ -10,7 +10,7 @@ Here's a few techniques they used:
 -   [[n7]]
 -   [[Lipogram]]
 -   [[Snowball]]
--   [[prisoners-constraint]]
+-   [[Prisoners Constraint]]
 
 ## Examples
 

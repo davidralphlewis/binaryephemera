@@ -15,4 +15,4 @@ Kind of twisted version of the [[Negativity Bias]], this is a way our brain make
 
 A way to combat this is to use [[Red Teaming]]  although it is often difficult to completely overcome it.
 
-It's similar to [[proximity-bias]] but more focused on the outcome rather than the inciting incident.
+It's similar to [[Proximity Bias]] but more focused on the outcome rather than the inciting incident.

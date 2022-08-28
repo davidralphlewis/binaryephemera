@@ -10,7 +10,7 @@ Remember that the whole point of editing is to edit through someone else's eyes.
 
 Also remember [[all art is subjective￼￼and [[Each poem Is New]]. [[Focus on Process not the end goal]]
 
--   [[Read-Writing-Aloud]] to hear the sound of it.
+-   [[Read Writing Aloud]] to hear the sound of it.
 -   Where does the poem surprise you? Make these accidents intentional. Build up to them or go in different directions.
 -   What is the imagery doing? Is it coherent? Is it mostly [[Concrete or abstract]]? Are you following [[show-dont-tell]]? Should you?
 -   Does the form reflect the content? Look at other [[Poetic Forms]] to find one that might work. Can you build in rhyme or is the rhyme inappropriate?

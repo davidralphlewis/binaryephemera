@@ -18,4 +18,4 @@ You can build haiku into sequences, but typically they will be one off, dealing 
 
 I often use haiku as a warm-up before writing something else.
 
-- Malika Booker suggests keeping a haiku journal to improve your writing.
+- Malika Booker suggests keeping a haiku journal to improve your writing (In [[Red Sky Session 1]]])

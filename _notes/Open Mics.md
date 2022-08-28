@@ -8,4 +8,4 @@ Open mics do what they say. There is a microphone (usually) and it is open to an
 
 Most poetry nights are five minutes or so, but this can vary. They may have headliners which do a longer set, usually about 20 minutes.
 
-They are great places to try performing your work. Poetry audiences are typically very welcoming and supportive so it's a lovely place to experiment with reading things out.
+They are great places to try [[Performing Poetry]] your work. Poetry audiences are typically very welcoming and supportive so it's a lovely place to experiment with reading things out.
