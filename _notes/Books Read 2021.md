@@ -10,7 +10,7 @@ Here's all the books I read in 2021:
 1.  *Saudade*- Nigel Kent
 2.  *Solutions and Other Problems* - Allie Brosh
 3.  *thicker than water* - Jane Dougherty
-4.  *[[The Testaments- Margaret Atwood]]*
+4.  *[[The Testaments-Margaret Atwood]]*
 5.  *Grandville Force Majeure (Grandville, \#5)* - Bryan Talbot
 6.  *Apple Water: Povel Panni* - Raine Geoghegan
 7.  *Aubade After a French Movie* - Zoe Brigley
@@ -18,7 +18,7 @@ Here's all the books I read in 2021:
 9.  *Lanny* - Max Porter
 10. *The Last Wish (The Witcher, \#0.5)* - Andrzej Sapkowski
 11. *[[Purple Hibiscus-Chimamanda Ngozi Adichie]]
-12. *[[the-order-of-time-Carlo-rovelli]]* 
+12. *[[The Order of Time-Carlo Rovelli]]* 
 13. *The Lithium Codex* - Oz Hardwickp0
 14. *Night Sky with Exit Wounds* - Ocean Vuong
 15. *The Underside of Things* - Jenna Plewes
@@ -59,7 +59,7 @@ Here's all the books I read in 2021:
 50. *Flèche*- Mary Jean Chan
 51. *[[When-the-Coffee-Gets-Cold]]
 52. *Notes from a Defeatist*- Joe Sacco
-53. *[[The-Word-for-World-is-Forest]]
+53. *[[The Word for World is Forest-Ursula K LeGuin]]
 54. *What if Stars*- Beth Hartley
 55. *Earthlings*- Sayaka Murata
 56. *The Sandman Vol. 1: Preludes & Nocturnes*- Neil Gaiman, Sam Kieth, Mike Dringenberg & Malcolm Jones III (re-read)

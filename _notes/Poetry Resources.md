@@ -14,7 +14,7 @@ Here's a list of things that have helped me with poetry (as opposed to more gene
 
 ## Books
 
--   *<a href="https://ninearchespress.com/publications/poetry-collections/the-craft.html" >The Craft</a>* edited by Rishi Dastidar is a good collection of essays looking at poetry, featuring different ways to approach writing. It includes lots of essays on [[Why use poetry form]]form</a> as well as [[Starting-a-Poem]]starting a poem</a> and [[Editing A Poem]]editing it.</a>
+-   *<a href="https://ninearchespress.com/publications/poetry-collections/the-craft.html" >The Craft</a>* edited by Rishi Dastidar is a good collection of essays looking at poetry, featuring different ways to approach writing. It includes lots of essays on [[Why use poetry form]]form</a> as well as [[Starting a Poem]]starting a poem</a> and [[Editing A Poem]]editing it.</a>
 
 ## Podcasts
 

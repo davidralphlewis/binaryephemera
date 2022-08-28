@@ -6,7 +6,7 @@ date: 28-08-2022
 
 #WritingWorkshop 
 
-## Voice and performance.
+# Voice and performance.
 
 ## Page and stage is a false dichotomy
 

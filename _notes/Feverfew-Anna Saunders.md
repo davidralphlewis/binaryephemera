@@ -9,5 +9,5 @@ permalink: /feverfew
 
 * Myth living in the present day.
 * The stories of our lives retold in different contexts. ([[Everything is a Story]]))
-* Vivid strange images that sustain single poems- the power of [[specific-detail]]
+* Vivid strange images that sustain single poems- the power of [[Specific Detail]]
 * Allows images to speak for themselves.

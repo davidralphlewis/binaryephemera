@@ -7,6 +7,6 @@ permalink: /no-marketing
 
 When you start [[Blogging]] you will find hundreds of articles that say how to optimise SEO or reach the widest audience. Ignore them.
 
-Focus instead on writing. [[Focus on Process not the end goal]] Learn and develop as an artist, make connections with cool people and [[share-your-work]].
+Focus instead on writing. [[Focus on Process not the end goal]] Learn and develop as an artist, make connections with cool people and [[Share Your  Work]].
 
 This is to say- internal rewards are better than external. 

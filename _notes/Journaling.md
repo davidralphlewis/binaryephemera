@@ -8,7 +8,7 @@ I've kept a journal/ diary throughout my life, but consistently since I was 25. 
 
 Recently, I've been using Lynda Barry's observation journal method, suggested by Kathleen Jennings.
 
-I've also added in questions I found from Struthless:
+I've also added in questions I found from [[Struthless]]:
 
 > 1\. What excited me?
 > 2. What drained me of energy?

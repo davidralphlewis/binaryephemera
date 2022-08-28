@@ -18,6 +18,6 @@ permalink: /gtd
 
 This is fine by itself. Writing every task down in a [[brain dump]] helps clear your mind, and is a good example of the [[Extended Mind]] theory. Checking on them regularly is also a good idea. I do both all the time.
 
-What I dislike about the process is a certain amount of jargon and [[tool-fundamentalism]] People argue endlessly about the right way to implement the process, when they should just take what works for them. For me, the multiple lists and lack of prioritisation don't really work, so I ditched them.
+What I dislike about the process is a certain amount of jargon and [[Tool Fundamentalism]] People argue endlessly about the right way to implement the process, when they should just take what works for them. For me, the multiple lists and lack of prioritisation don't really work, so I ditched them.
 
 Also it doesn't tackle the fundamental problem of systemic issues at work, where [[Productivity is a Plaster]].

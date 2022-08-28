@@ -18,7 +18,7 @@ permalink: /films2022
 11. Doctor Strange in the Multiverse of Madness (B-)
 12. Star Wars: The Force Awakens (rewatch) (B)
 13. Everything, Everywhere, All at Once (A++)
-14. [[top-gun-maverick]] (A-)
+14. [[Top Gun Maverick]] (A-)
 15. Sound of Metal (A-)
 16. 20 Feet from Stardom (B)
 17. Thor: Love and Thunder (C-)

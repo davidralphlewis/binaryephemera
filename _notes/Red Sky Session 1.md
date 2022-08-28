@@ -30,7 +30,7 @@ Notes from the first [[Red Sky Sessions]] run by <a href="https://applesandsnake
 
 ## Keep a [[Haiku]] journal
 
--   Encourages us to look for [[specific-detail]].
+-   Encourages us to look for [[Specific Detail]].
 -   Asks us to observe.
 
 ## Strategies to mess up the blank page

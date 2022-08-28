@@ -14,8 +14,8 @@ Our memories are flawed because [[Everything is a Story]]. Look at the [[The Man
 
 We have a strong [[Negativity Bias]]. We are more sensitive to losses than gains. We overestimate the risks of that which is vivid and immediate in the[[Availability Heuristic]]
 
-We forget where we found information and experiernce [[Source-amnesia]]
+We forget where we found information and experiernce [[Source Amnesia]]
 
 Still though, because of the [[Dunning Kruger Effect]]we might not know what we don't know.
 
-The flip side of this is due to [[the-flynn-effect]], people are getting smarter all the time.
+The flip side of this is due to [[The Flynn Effect]], people are getting smarter all the time.
