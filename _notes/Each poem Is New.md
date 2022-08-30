@@ -12,7 +12,7 @@ Whenever you start [[Writing Index|writing]] a new poem, it is like you have nev
 
 It can lead to [[Imposter Syndrome]] as you assume everyone else knows what they are doing every time.
 
-[[Writing-Every-Day]] helps to challenge this. It also means you are growing as an artist.
+[[Writing Every Day]] helps to challenge this. It also means you are growing as an artist.
 
 It’s important to remember this and [[Focus on Process not the end goal]].
 

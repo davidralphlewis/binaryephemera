@@ -4,7 +4,7 @@ layout: note
 date: 28-08-2022
 ---
 
-Even less in writing than other disciplines, the tools don't really matter. Fancy [[writers-notebook]]s are nice but not essential. Getting the words down is more important than the way you write them. Digital, analogue, it's all mostly the same.
+Even less in writing than other disciplines, the tools don't really matter. Fancy [[Writers Notebook]]s are nice but not essential. Getting the words down is more important than the way you write them. Digital, analogue, it's all mostly the same.
 
 What is important is the methods you use, rather than the tools you use. Avoid [[Tool Fetishism]].
 

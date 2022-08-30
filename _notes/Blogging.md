@@ -8,7 +8,7 @@ Because [[Only Public Writing Matters]], one great way of getting it into the wo
 
 I use [[Jekyll]] because it is lightweight, but it is a little techy and may not be for everyone. A better alternative might be Wordpress, which is pretty each to use. Or you can post from a <a href="https://sheet-posting.glitch.me/" >google spreadsheet</a>.
 
-It is liberating to have your own corner of the web to update and tinker with as you see fit, away from the noise of social networks. Don't bother with SEO because it's a fools errand. Instead focus on writing and publishing regularly. And remember publish to your [[website-first]]
+It is liberating to have your own corner of the web to update and tinker with as you see fit, away from the noise of social networks. Don't bother with SEO because it's a fools errand. Instead focus on writing and publishing regularly. And remember publish to your [[Website First]]
 
 ## Quotes
 

@@ -15,7 +15,7 @@ Notes from the first [[Red Sky Sessions]] run by <a href="https://applesandsnake
 -   Where do you write?
 -   How do you maximise your time?
 -   Try different spaces in house, different times.
--   No need to always be [[Writing-Every-Day]], but have a regular routine.
+-   No need to always be [[Writing Every Day]], but have a regular routine.
 
 ## If you aren't reading, you aren't writing.
 

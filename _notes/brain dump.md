@@ -5,7 +5,7 @@ date: 02-08-2022
 permalink: /brain-dump
 ---
 
-Sit down with a [[writers-notebook]]. [[write-to-a-timer]] for 5 or 10 minutes and put down anything that comes to mind. 
+Sit down with a [[Writers Notebook]]. [[Write to a Timer]] for 5 or 10 minutes and put down anything that comes to mind. 
 
 Unlike [[Free Writing]], the aim is to add anything that comes to mind. So to dos and rqndom thoughts all get jotted down. 
 

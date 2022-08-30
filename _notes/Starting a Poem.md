@@ -9,7 +9,7 @@ date: 28-08-2022
 Here's some ways I've found to [[Just Start]]a poem.
 
 -   Use [[Prompts]].
--   [[Free Writing]] and [[write-to-a-timer]]
+-   [[Free Writing]] and [[Write to a Timer]]
 -   Write from a picture prompt ([[Ekphrastic Writing]])
 -   [[Writing Exercises]]
 -   [[Embrace Randomness]]

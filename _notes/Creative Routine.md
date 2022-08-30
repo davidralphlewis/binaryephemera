@@ -4,7 +4,7 @@ layout: note
 date: 09-08-2022
 ---
 
-You don't necessarily need to be [[Writing-Every-Day]], but having a regular creative routine helps you to create more. It also helps with [[Writers Block]] as it puts less pressure on you to create something great.
+You don't necessarily need to be [[Writing Every Day]], but having a regular creative routine helps you to create more. It also helps with [[Writers Block]] as it puts less pressure on you to create something great.
 
 Malika Booker described it as having a ritual you can return to.
 

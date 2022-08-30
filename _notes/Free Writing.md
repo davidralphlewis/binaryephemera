@@ -5,7 +5,7 @@ date: 15-08-2022
 permalink:
 ---
 
-One of the most useful tools when starting to write something and one of the simplest. You  [[write-to-a-timer]], usually for 10 to 15 minutes and try not to lift your pen off the page. You don't edit or censor yourself but write fast, following any tangent you want to.
+One of the most useful tools when starting to write something and one of the simplest. You  [[Write to a Timer]], usually for 10 to 15 minutes and try not to lift your pen off the page. You don't edit or censor yourself but write fast, following any tangent you want to.
 
 You could also try [[bibliomancy]] as a way of generating new ideas.
 

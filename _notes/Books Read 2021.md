@@ -53,11 +53,11 @@ Here's all the books I read in 2021:
 44. *Low*- Chrissy Williams
 45. *Where Rockets Burn Through- Contemporary Science Fiction Poetry From the UK*- editor Russell Jones
 46. *[[Circe-Madeline Miller]]
-47. *[[wanderlust-rebecca-solnit]]
+47. *[[Wanderlust-Rebecca Solnit]]
 48. *On Earth We Are Briefly Gorgeous*- Ocean Vuong
 49. *The Light Fantastic*- Terry Pratchett
 50. *Flèche*- Mary Jean Chan
-51. *[[When-the-Coffee-Gets-Cold]]
+51. *[[When the Coffee Gets Cold- Toshikazu Kawaguchi]]
 52. *Notes from a Defeatist*- Joe Sacco
 53. *[[The Word for World is Forest-Ursula K LeGuin]]
 54. *What if Stars*- Beth Hartley

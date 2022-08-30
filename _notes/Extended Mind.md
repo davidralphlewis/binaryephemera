@@ -4,7 +4,7 @@ layout: note
 date: 11-08-2022
 ---
 
-This refers to the theory that your mind extends beyond your body, that actually we store memories in physical places as well. These physical places (such as this [[Digital Garden]], or a [[writers-notebook]], then become extensions of our thinking.
+This refers to the theory that your mind extends beyond your body, that actually we store memories in physical places as well. These physical places (such as this [[Digital Garden]], or a [[Writers Notebook]], then become extensions of our thinking.
 
 > In these cases, the human organism is linked with an external entity in a two-way interaction, creating a coupled system that can be seen as a cognitive system in its own right. All the components in the system play an active causal role, and they jointly govern behavior in the same sort of way that cognition usually does.
 

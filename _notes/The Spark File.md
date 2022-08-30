@@ -4,7 +4,7 @@ layout: note
 date: 28-08-2022
 ---
 
-Store every failed poem, writing line and idea in one big file to sort through later. Comb through it regularly when uninspired and see what jumps out at you. Similar to a [[writers-notebook]], but digital and searchable.
+Store every failed poem, writing line and idea in one big file to sort through later. Comb through it regularly when uninspired and see what jumps out at you. Similar to a [[Writers Notebook]], but digital and searchable.
 
 Ideas compost. The spark file is the compost pile where things break down and combine in new ways.
 

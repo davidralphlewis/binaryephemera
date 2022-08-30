@@ -23,4 +23,4 @@ Tom Deinbgh suggests picking three words that are related to your subject and th
 
 ## My attempts
 
--   I wrote a sestina for Bristol Tonic called <a href="https://www.davidralphlewis.co.uk/count-down-to-infinity/" >Count Down to Infinity</a>. I thought the looping form would match the infinite corridors. I didn't try and put it in iambic pentameter, as it was more playing with the end words. It was a way of [[ways-of-approaching-form]]approaching an intimidating form.</a>
+-   I wrote a sestina for Bristol Tonic called <a href="https://www.davidralphlewis.co.uk/count-down-to-infinity/" >Count Down to Infinity</a>. I thought the looping form would match the infinite corridors. I didn't try and put it in iambic pentameter, as it was more playing with the end words. It was a way of [[Ways of Approaching Form]]approaching an intimidating form.</a>

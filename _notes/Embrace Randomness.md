@@ -4,7 +4,7 @@ layout: note
 date: 09-08-2022
 ---
 
-If you are looking for to use [[Prompts]], try using random words and images to generate thoughts. Lots of these work best if you [[write-to-a-timer]], even if it’s arbitrary. 
+If you are looking for to use [[Prompts]], try using random words and images to generate thoughts. Lots of these work best if you [[Write to a Timer]], even if it’s arbitrary. 
 
 -   Use a <a href="https://randomwordgenerator.com/" >random word generator</a> and work off two or three of the generated words.
 -   Generate a random image and do some [[Ekphrastic Writing]]. (<a href="https://unsplash.com/s/photos/random" >Unsplash</a> is good for this)
