@@ -7,19 +7,18 @@ permalink: /now
 
 ## Life
 
--   Wedding planning! (In a month!)
--   Trying to arrange flowers into bouquets.
--   Taking on more responsibility at work.
--   Switching to Obsidian for notes
-
+-  Switching to [[Obsidian]] for notes
+-  Slowing down with the seasons
 ## Reading
 
+- *The Waves*- Virginia Woolf
+- *Uncreative Writing*- Kenneth Goldstone
 
 [[Books Read 2022]]  all the books I've read this year and [[Books Read 2021]] 
 
 ## Watching
 
--   *Buffy the Vampire Slayer* - Season 6
+-   *Buffy the Vampire Slayer* - Season 7
 
 
 (Here's [[Films Watched 2022]])
@@ -32,7 +31,6 @@ permalink: /now
 ## Working on
 
 -   Planning [[Dungeons and Dragons]] sessions as a beginner GM.
--   Editing a concrete poetry pamphlet
 -   Adding and updating these notes.
 -   Investing heavily in the magic that is [[Emacs]]
 

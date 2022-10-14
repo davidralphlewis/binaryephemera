@@ -4,7 +4,7 @@ layout: note
 date: 27-08-2022
 ---
 
-Slams are similar to [[Open Mics]] as you have a lot of performers who have a limited time to perform. But unlike open mics, they are competitive.
+Slams are similar to [[Open Mics]] as you have a lot of performers who have a limited time to perform. But unlike [[open mics]], they are competitive.
 
 In a standard slam, you have three minutes to perform. If you go over, you lose points. Judges then give you a score out of 10, and the poets with the highest score go through to the next round and perform again. There can be many rounds or just one.
 

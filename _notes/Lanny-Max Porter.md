@@ -8,4 +8,3 @@ permalink: /lanny
 -   ancient gods still hold power (a bit like *American Gods*)
 -   Outsiders vs insiders even in the same village.
 -   Playing with language and layout, especially with the ancient god [[form reflects content]].
-

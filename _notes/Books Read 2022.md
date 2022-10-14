@@ -41,4 +41,12 @@ permalink: /books2022
 33. *Paper Girls: Volume 5* - Brian K. Vaughan, Cliff Chiang, Matt Wilson 
 34. *Paper Girls: Volume 6*- Brian K. Vaughan, Cliff Chiang, Matt Wilson
 35. *[[This One Sky Day-Leone Ross]]*
+36. *War of the Foxes*- Richard Siken
+37. *Tales of Earthsea *- Ursula K. LeGuin
+38. *Use of Weapons*- Iain M. Banks
+39. *Four Thousand Weeks*- Oliver Burkeman
+40. *The Teleportation Accident*- Ned
+41. *Lud-in-the-Mist*- Hope Mireless
+42. *Good Listeners*- Pascal Vine
+
 

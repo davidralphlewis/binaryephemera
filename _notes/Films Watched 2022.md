@@ -19,7 +19,9 @@ permalink: /films2022
 12. Star Wars: The Force Awakens (rewatch) (B)
 13. Everything, Everywhere, All at Once (A++)
 14. [[Top Gun Maverick]] (A-)
-15. Sound of Metal (A-)
-16. 20 Feet from Stardom (B)
-17. Thor: Love and Thunder (C-)
-18. [[Terminator 2 Judgement Day]] (rewatch) (A)
+15. Shang Chi and the Legend of the Ten Rings
+16. Sound of Metal (A-)
+17. 20 Feet from Stardom (B)
+18. Thor: Love and Thunder (C-)
+19. [[Terminator 2 Judgement Day]] (rewatch) (A)
+20. Palm Spings (B) 

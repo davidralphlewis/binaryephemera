@@ -12,7 +12,7 @@ permalink: /gtd
 3.  Create projects if a task has two or more steps
 4.  Keep a future list.
 5.  Keep a someday/maybe list
-6.  Run a [[weekly-review]] regularly.
+6.  Run a [[Weekly Review]] regularly.
 
 (I haven’t actually read it but have digested numerous summaries.) 
 

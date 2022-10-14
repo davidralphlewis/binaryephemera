@@ -11,4 +11,4 @@ Unlike [[Free Writing]], the aim is to add anything that comes to mind. So to do
 
 The aim is to remove them from your head and keep them externally, so you can stop thinking about them and start analysis or processing each one. 
 
-Its a fundamental part of[[Getting Things Done]] and is very useful in a [[weekly-review]]. 
+Its a fundamental part of[[Getting Things Done]] and is very useful in a [[Weekly Review]]. 

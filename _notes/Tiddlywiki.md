@@ -10,6 +10,6 @@ While I was using Tiddlywiki. I used<a href="https://www.didaxy.com/exporting-st
 
 Instead, I switched to [[Obsidian]], which is like Tiddlywiki but for the modern age. It is better on mobile, which is important for me, but also keeps every note as [[Plain Text]], meaning I can export it easily to other platforms. Tiddlywiki kept all the notes in a single html file, which was hard to export from.
 
- Another advantage of Obsidian is I can input the markdown files straight into  [[Jekyll]] It spits out html files with minimal input, leaving me to focus on the actual work.
+ Another advantage of [[Obsidian]] is I can input the markdown files straight into  [[Jekyll]] It spits out html files with minimal input, leaving me to focus on the actual work.
 
 -   <a href="https://groktiddlywiki.com/read/" >Grok Tiddlywiki</a> is an incredible useful guide to using Tiddlywiki, within Tiddlywiki itself
