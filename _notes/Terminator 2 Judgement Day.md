@@ -7,7 +7,7 @@ permalink: /terminator2
 
 ## [[5 things to steal]]
 
-* Relentless, unstoppable pace ([[form reflects content]])
+* Relentless, unstoppable pace ([[Form Reflects Content]])
 * Clearly defined characters with conflicting objectives.
 * Twisting audience expectations.
 * Dangerous, unstoppable antagonist.

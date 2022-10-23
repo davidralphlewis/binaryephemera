@@ -23,7 +23,7 @@ permalink:
 - A way to use [[Constrained Writing]] to free your imagination.
 
 ## Form can be a layer of meaning.
-- [[form reflects content]]
+- [[Form Reflects Content]]
 
 ## Try attempting form in stages.
 

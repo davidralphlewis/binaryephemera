@@ -2,6 +2,7 @@
 title: "Perception Problems"
 layout: note
 date: 22-08-2022
+permalink: /perception-problems
 ---
 
 #MOC

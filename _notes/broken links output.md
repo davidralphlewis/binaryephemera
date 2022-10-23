@@ -6,7 +6,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[/reality-adjustments/]] in [[Blog posts/2022-04-05-2022-March-Input]]
 - [[/2022-march-input/]] in [[Blog posts/2022-05-05-April-2022-input]]
 - [[Art is communication]] in [[Language is always a translation of thoughts]]
-- [[form reflects content]] in [[Lanny-Max Porter]], [[Red Sky Session 2]], [[Terminator 2 Judgement Day]]
+- [[Form Reflects Content]] in [[Lanny-Max Porter]], [[Red Sky Session 2]], [[Terminator 2 Judgement Day]]
 - [[active reading]] in [[Make Marginalia]]
 - [[[specific-detail]] in [[Red Sky Session 4]]
 - [[[show-dont-tell]] in [[Red Sky Session 4]]
