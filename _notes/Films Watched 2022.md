@@ -25,3 +25,4 @@ permalink: /films2022
 18. Thor: Love and Thunder (C-)
 19. [[Terminator 2 Judgement Day]] (rewatch) (A)
 20. Palm Spings (B) 
+21. Liquorice Pizza (B-)

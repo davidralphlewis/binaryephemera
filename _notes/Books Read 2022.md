@@ -45,9 +45,9 @@ permalink: /books2022
 37. *Tales of Earthsea *- Ursula K. LeGuin
 38. *Use of Weapons*- Iain M. Banks
 39. [[Four Thousand Weeks-Oliver Burkeman]]
-40. *The Teleportation Accident*- Ned Beauman
+40. [[The Teleportation Accident- Ned Beauman]]
 41. [[Lud-in-the-Mist- Hope Mirrlees]]
-42. *Good Listeners*- Pascal Vine
-43. *The Waves*- Virginia Woolf
-44. *Keep Going!*- Austin Kleon
+42. [[Good Listeners-Pascal Vine]]
+43. [[Uncreative Writing- Kenneth Goldsmith]]
+44. [[Keep Going-Austin Kleon]]
 

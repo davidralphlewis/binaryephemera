@@ -6,4 +6,4 @@ date: 17-09-2022
 
 Whenever we come to write something down, it is always incomplete compared to how we think. [[Art is communication]] but it is almost always translated from our thoughts. This is why [[Writing is Thinking]], because the act of writing something down translates it from one medium (your soft squishy electric brain) to another (hard cold ink).
 
-In this way, the communication of any piece of writing (including this one) is always incomplete.
+In this way, the communication of any piece of writing (including this one) is always incomplete. [[There Will Always Be a Gap Between Dreams and Reality]]. 

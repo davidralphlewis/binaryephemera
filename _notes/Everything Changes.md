@@ -14,3 +14,6 @@ Nothing stays still in life. Everything changes
 
 > This too shall pass
 > - Anon.
+
+> No man steps in the same river twice, because it is not the same river and he is not the same man. 
+> – Heraclitus

@@ -11,3 +11,4 @@ It's part of [[Imposter Syndrome]]. Everyone goes through it. There's no right w
 Remind yourself that [[Art is Play]] and it can be fun.
 
 -   I wrote a blog post about this <a href="https://www.davidralphlewis.co.uk/not-writing-enough/" >here</a>
+- Tim Clare has an excellent podcast about this. <a href="https://soundcloud.com/timclare/s3e26-5-rules-for-better-mental-health-hygiene-writing-ramble/likes" >Find it here.</a>

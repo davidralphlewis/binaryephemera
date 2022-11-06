@@ -28,6 +28,7 @@ permalink: /now
 
 -   *Limbo*
 -   *The Legend of Zelda: Breath of the Wild*
+- *Ori and the Blind Forest*
 
 ## Working on
 
