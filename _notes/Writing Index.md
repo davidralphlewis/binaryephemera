@@ -34,7 +34,7 @@ Writers love writing about writing and I'm no different. It does mean that there
 -   [[Art is Play]]
 -   [[Why use poetry form]]
 
-## Tools (Remember the [[Tools-Don&#39;t-Matter]])
+## Tools (Remember the [[Tools Dont Matter]])
 
 -   [[Poetic Forms]] 
 -   [[Writers Notebook]]

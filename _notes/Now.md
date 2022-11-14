@@ -20,7 +20,7 @@ permalink: /now
 
 ## Watching
 
--   *Buffy the Vampire Slayer* - Season 7
+-   *[[Buffy the Vampire Slayer]]* - Season 7
 
 (Here's [[Films Watched 2022]])
 

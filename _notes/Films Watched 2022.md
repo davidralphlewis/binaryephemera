@@ -26,3 +26,4 @@ permalink: /films2022
 19. [[Terminator 2 Judgement Day]] (rewatch) (A)
 20. Palm Spings (B) 
 21. Liquorice Pizza (B-)
+22. Suspiria (1977)

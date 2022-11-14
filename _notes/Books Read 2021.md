@@ -26,7 +26,7 @@ Here's all the books I read in 2021:
 17. *Penned in* - Karen Mooney, Gaynor Kane
 18. *Feverfew* - Anna Saunders
 19. *The Goldfinch* - Donna Tartt
-20. *Sandman Overture (Sandman Deluxe Vol. 0)* - Neil Gaiman, J.H. Williams III, Dave Stewart, Todd Klein
+20. *Sandman Overture (Sandman Deluxe Vol. 0)* - [[Neil Gaiman]], J.H. Williams III, Dave Stewart, Todd Klein
 21. *A Celestial Crown of Sonnets* - Sam Illingworth, Stephen Paul Wren
 22. *\[re\]construction of the necromancer* - Hannah V. Warren
 23. *Mrs Death Misses Death* - Salena Godden
@@ -39,7 +39,7 @@ Here's all the books I read in 2021:
 30. *I Kill Giants* - Joe Kelly, J.M. Ken Niimura
 31. *Underland: A Deep Time Journey* - Robert Macfarlane
 32. *Glad of These Times* - Helen Dunmore
-33. *The Colour of Magic* - Terry Pratchett
+33. *The Colour of Magic* - [[Terry Pratchett]]
 34. *How to Wash a Heart* - Bhanu Kapil
 35. *Dogtooth* - Fran Lock
 36. *[[The Actual-Inua Ellams]]* 
@@ -55,15 +55,15 @@ Here's all the books I read in 2021:
 46. *[[Circe-Madeline Miller]]
 47. *[[Wanderlust-Rebecca Solnit]]
 48. *On Earth We Are Briefly Gorgeous*- Ocean Vuong
-49. *The Light Fantastic*- Terry Pratchett
+49. *The Light Fantastic*- [[Terry Pratchett]]
 50. *Flèche*- Mary Jean Chan
 51. *[[When the Coffee Gets Cold- Toshikazu Kawaguchi]]
 52. *Notes from a Defeatist*- Joe Sacco
 53. *[[The Word for World is Forest-Ursula K LeGuin]]
 54. *What if Stars*- Beth Hartley
 55. *Earthlings*- Sayaka Murata
-56. *The Sandman Vol. 1: Preludes & Nocturnes*- Neil Gaiman, Sam Kieth, Mike Dringenberg & Malcolm Jones III (re-read)
-57. *The Sandman: The Doll's House*- Neil Gaiman, Mike Dringenberg, Malcolm Jones III, Chris Bachalo, Michael Zulli & Steve Parkhouse (re-read)
+56. *The Sandman Vol. 1: Preludes & Nocturnes*- [[Neil Gaiman]], Sam Kieth, Mike Dringenberg & Malcolm Jones III (re-read)
+57. *The Sandman: The Doll's House*- [[Neil Gaiman]], Mike Dringenberg, Malcolm Jones III, Chris Bachalo, Michael Zulli & Steve Parkhouse (re-read)
 58. *Running Upon the Wires*- Kae Tempest
 59. *Slapstick*- Kurt Vonnegut
 60. *White Teeth* - Zadie Smith

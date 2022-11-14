@@ -37,7 +37,7 @@ Order in different ways.
 
 ## No gospel. Question everything.
 
-## Look for [[[specific-detail]].
+## Look for [[specific-detail]].
 
 ## Get rid of redundancies
 
@@ -48,6 +48,6 @@ Order in different ways.
 - Should you?
 ## Making space.
 
-[[[show-dont-tell]]. Where do you want to be explicit?
+[[show-dont-tell]]. Where do you want to be explicit?
 
 

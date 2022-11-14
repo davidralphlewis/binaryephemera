@@ -8,7 +8,7 @@ Find techniques from other artists and steal them. Try them yourself. Find ways 
 
 In stealing you find your own voice.
 
-Austin Kleon has a whole book about this.
+[[Austin Kleon]] has a whole book about this.
 
 > Good artists copy, great artists steal
 > — Pablo Pisasso

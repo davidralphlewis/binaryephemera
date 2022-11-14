@@ -8,3 +8,8 @@ Interesting, if fairly academic read, about reacting to the excess of text that 
 * [[Copying is creative]]
 * [[Détournement]]
 * [[It is Impossible to Capture Everything]]
+
+## Critcisms
+
+- Many of the pieces be describes are more interesting on a conxeptual level but less interesting in practise.
+- Copying is fine and all but most fail to [[Transform existing work]]. 
