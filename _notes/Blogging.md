@@ -14,7 +14,7 @@ It is liberating to have your own corner of the web to update and tinker with as
 
 > This blog, Scribtotum, is for getting to know my own head.
 >
-> It’s notes in the margins of my synaptic commonplace book.
+> It’s notes in the margins of my synaptic [[Commonplace Book]].
 >
 > It’s morning pages and it’s always morning.
 >
