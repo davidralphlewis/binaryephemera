@@ -8,7 +8,7 @@ permalink: /books2022
 
 1.  *How to Do Nothing*- Jenny Odell
 2.  *[[Gideon the Ninth-Tamsyn Muir]] 
-3.  *[[Humour-Stanley Donward]]*
+3.  *[[Humour-Stanley Donwood]]*
 4.  *The Bible II* - Sam J. Grudgings
 5.  *Drive Your Plow Over the Bones of the Dead*-Olga Tokarczuk
 6.  *52 ways of looking at a poem*- Ruth Padel
@@ -52,4 +52,6 @@ permalink: /books2022
 44. [[Keep Going-Austin Kleon]]
 45. [[The Brain-Dead Megaphone- George Saunders]]
 46. [[Mister Wonderful- Daniel Clowes]]
+47. [[Ness-Robert Macfarlane and Stanley Donwood]]
+48. [[The Roles we Play-Sabba Khan]]
 

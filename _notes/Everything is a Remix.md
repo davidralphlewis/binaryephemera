@@ -12,5 +12,5 @@ It says [[Originality Doesnt Exist]], that every creative piece of work is built
 According to the video, there are three building blocks of creativity: 
 
 - [[Copy to Understand the Rules]]
-- [[Transform existing work]]
+- [[Transform Existing Work]]
 - [[Combine different elements]]

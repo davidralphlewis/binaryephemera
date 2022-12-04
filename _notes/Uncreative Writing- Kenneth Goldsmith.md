@@ -12,4 +12,4 @@ Interesting, if fairly academic read, about reacting to the excess of text that 
 ## Critcisms
 
 - Many of the pieces be describes are more interesting on a conxeptual level but less interesting in practise.
-- Copying is fine and all but most fail to [[Transform existing work]]. 
+- Copying is fine and all but most fail to [[Transform Existing Work]]. 

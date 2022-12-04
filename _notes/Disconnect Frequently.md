@@ -4,7 +4,7 @@ layout: note
 date: 18-08-2022
 ---
 
-In order to [[Be Present]] and avoid [[Overstimulation]], it is necessary to log off social media frequently. Social media is a distraction tool, I have lost hours mindlessly scrolling.
+In order to [[Be Present]] and [[Avoid Overstimulation]], it is necessary to log off social media frequently. Social media is a distraction tool, I have lost hours mindlessly scrolling.
 
 I set my phone to automatically block social media for most of the day and especially at night.
 
