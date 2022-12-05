@@ -15,7 +15,7 @@ Currently there are **266** notes within this garden
 
 ## Suggested starting places
 
-- [[Writing]]
+- [Writing](https://notes.davidralphlewis.co.uk/writing)
 - [[Perception Problems]]
 - What I'm Up to [[Now]]
 
