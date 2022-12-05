@@ -13,4 +13,4 @@ According to the video, there are three building blocks of creativity:
 
 - [[Copy to Understand the Rules]]
 - [[Transform Existing Work]]
-- [[Combine different elements]]
+- [[Combine Different Elements]]
