@@ -15,8 +15,8 @@ Currently there are **266** notes within this garden
 
 ## Suggested starting places
 
-- [Writing](/writing)
-- [Perception Problems](/perception-problems)
+- [[Writing]]
+- [[Perception Problems]]
 - What I'm Up to [[Now]]
 
 
