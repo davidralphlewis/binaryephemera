@@ -23,4 +23,4 @@ This is an antidote to productivity books that promise ways to do more with less
 
 ## Criticisms
 
-- Accepting life how it is can stop the desire for change. Burkeman acknowledges this within the text but I think it needs more examination, especially on a social level. 
+- Accepting life how it is can stop the desire for change. Burkeman acknowledges this within the text but I think it needs more examination, especially on a social level. This is because [[Self Help Ignores Systemic Solutions]].

@@ -14,6 +14,7 @@ permalink: /now
 - *The Sonnets*- William Shakespeare
 - *Notes on the Sonnets*- Luke Kennard
 - *Make Time*- Jake Knapp and John Zeratsky
+- *The Other Wind*- Ursula K. LeGuin
 
 [[Books Read 2022]]  all the books I've read this year and [[Books Read 2021]] 
 
