@@ -11,8 +11,6 @@ permalink: /now
 
 ## Reading
 
-- *The Sonnets*- William Shakespeare
-- *Notes on the Sonnets*- Luke Kennard
 - *Make Time*- Jake Knapp and John Zeratsky
 - *The Other Wind*- Ursula K. LeGuin
 

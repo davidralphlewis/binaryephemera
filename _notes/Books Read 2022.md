@@ -30,7 +30,7 @@ permalink: /books2022
 22. *[[The Unbeatable Squirrel Girl Vol 1-Ryan North]]*
 23. *Mort* - [[Terry Pratchett]]
 24. *Eve* - Una
-25.  *Atomic Habits*- James Clear
+25.  [[Atomic Habits-James Clear]]
 26. *Violent Cases*- [[Neil Gaiman]] & Dave McKean
 27. *Earthworks*- Stuart Carswell
 28. *The Sandman: Seasons of Mists*- [[Neil Gaiman]] (re-read) 
@@ -54,4 +54,6 @@ permalink: /books2022
 46. [[Mister Wonderful- Daniel Clowes]]
 47. [[Ness-Robert Macfarlane and Stanley Donwood]]
 48. [[The Roles we Play-Sabba Khan]]
+49. *The Sonnets*- William Shakespeare
+50. [[Notes on the Sonnets- Luke Kennard]]
 

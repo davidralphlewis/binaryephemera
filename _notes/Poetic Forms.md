@@ -16,5 +16,6 @@ Some poetic forms to try:
 -   [[Univocalic]]
 -   [[Coupling]]
 -   [[Erasure Poetry]]
-
+-  [[After poem]]
+- [[Ekphrastic Writing]]
 

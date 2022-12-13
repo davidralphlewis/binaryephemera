@@ -20,7 +20,7 @@ Also remember [[all art is subjective￼￼and [[Each poem Is New]]. [[Focus on 
 -   Keep a [[The Spark File]]
 -   [[Cut the Last Lines]]
 
-## Transform the poem and create something new out of the ashes.
+## Transform the poem and create something new out of the ashes. ([[Transform Existing Work]])
 
 -   Use a line as a new poem
 -   Create a [[negative poem]]
