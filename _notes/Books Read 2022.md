@@ -57,5 +57,6 @@ permalink: /books2022
 49. *The Sonnets*- William Shakespeare
 50. [[Notes on the Sonnets- Luke Kennard]]
 51. [[Make time-Jake Knapp and John Zeratsky]]
-
+52. *Radical Normalisation*- Celia A Sohaindo
+53. *Viaducts and River Views*-Barry Hollow
 

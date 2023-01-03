@@ -7,25 +7,30 @@ permalink: /now
 
 ## Life
 
--  Slowing down with the seasons. Hibernating in, trying to do less. (related: [[Slow Down]])
+- Packing up to move house 
 
 ## Reading
 
-- *The Other Wind*- Ursula K. LeGuin
 - *Coward*- Tim Clare
-- Radical Normalisation - Celia A Sohaindo
 
-[[Books Read 2022]]  all the books I've read this year and [[Books Read 2021]] 
+Here's everything I've read this year-[[Books Read 2023]]
+
+Previous years:
+- [[Books Read 2022]]  
+- [[Books Read 2021]] 
 
 ## Watching
 
 -   *[[Buffy the Vampire Slayer]]* - Season 7
 
-(Here's [[Films Watched 2022]])
+Here's everything I've watched this year: [[Films Watched 2023]]
+
+Previous Years:
+- [[Films Watched 2022]]
 
 ## Playing
 
--   *Limbo*
+-   *Fortnite*
 -   *The Legend of Zelda: Breath of the Wild*
 -  *Hades*
 
