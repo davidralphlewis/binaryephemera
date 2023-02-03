@@ -7,25 +7,27 @@ permalink: /now
 
 ## Life
 
-- Packing up to move house 
+- Adjusting to life in the countryside
+- Prepping for minor surgery
 
 ## Reading
 
-- *Coward*- Tim Clare
+- *The Fifth Season* - N. K. Jemisen
 
 Here's everything I've read this year-[[Books Read 2023]]
 
-Previous years:
+### Previous years:
 - [[Books Read 2022]]  
 - [[Books Read 2021]] 
 
 ## Watching
 
--   *[[Buffy the Vampire Slayer]]* - Season 7
+-  *[[Buffy the Vampire Slayer]]* - Season 7
+- *Andor*
 
 Here's everything I've watched this year: [[Films Watched 2023]]
 
-Previous Years:
+### Previous Years:
 - [[Films Watched 2022]]
 
 ## Playing

@@ -7,7 +7,7 @@ permalink: /books2022
 ---
 
 1.  *How to Do Nothing*- Jenny Odell
-2.  *[[Gideon the Ninth-Tamsyn Muir]] 
+2.  [[Gideon the Ninth-Tamsyn Muir]] 
 3.  *[[Humour-Stanley Donwood]]*
 4.  *The Bible II* - Sam J. Grudgings
 5.  *Drive Your Plow Over the Bones of the Dead*-Olga Tokarczuk
@@ -42,7 +42,7 @@ permalink: /books2022
 34. *Paper Girls: Volume 6*- Brian K. Vaughan, Cliff Chiang, Matt Wilson
 35. *[[This One Sky Day-Leone Ross]]*
 36. *War of the Foxes*- Richard Siken
-37. *Tales of Earthsea *- Ursula K. LeGuin
+37. *Tales of Earthsea* - Ursula K. LeGuin
 38. *Use of Weapons*- Iain M. Banks
 39. [[Four Thousand Weeks-Oliver Burkeman]]
 40. [[The Teleportation Accident- Ned Beauman]]
