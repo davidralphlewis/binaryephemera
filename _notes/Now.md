@@ -12,7 +12,7 @@ permalink: /now
 
 ## Reading
 
-- *The Fifth Season* - N. K. Jemisen
+- *Illuminations*- Alan Moore
 
 Here's everything I've read this year-[[Books Read 2023]]
 
@@ -23,9 +23,8 @@ Here's everything I've read this year-[[Books Read 2023]]
 ## Watching
 
 -  *[[Buffy the Vampire Slayer]]* - Season 7
-- *Andor*
 
-Here's everything I've watched this year: [[Films Watched 2023]]
+Here's all the films I've watched this year: [[Films Watched 2023]]
 
 ### Previous Years:
 - [[Films Watched 2022]]
