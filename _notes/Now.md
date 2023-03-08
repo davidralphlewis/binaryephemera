@@ -7,12 +7,11 @@ permalink: /now
 
 ## Life
 
-- Adjusting to life in the countryside
-- Prepping for minor surgery
+- Recovering from surgery
 
 ## Reading
 
-- *Illuminations*- Alan Moore
+*I Who Have Never Known Men*- Jacqueline Harpman
 
 Here's everything I've read this year-[[Books Read 2023]]
 
@@ -27,6 +26,7 @@ Here's everything I've read this year-[[Books Read 2023]]
 Here's all the films I've watched this year: [[Films Watched 2023]]
 
 ### Previous Years:
+
 - [[Films Watched 2022]]
 
 ## Playing
