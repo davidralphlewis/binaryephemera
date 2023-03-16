@@ -7,11 +7,10 @@ permalink: /now
 
 ## Life
 
-- Recovering from surgery
+- Recovering from surgery, going back to work soon
 
 ## Reading
 
-*I Who Have Never Known Men*- Jacqueline Harpman
 
 Here's everything I've read this year-[[Books Read 2023]]
 

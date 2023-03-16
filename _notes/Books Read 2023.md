@@ -7,9 +7,13 @@ permalink: /books23
 1. [[How High We Go In The Dark-Sequoia Nagamatsu]]
 2. [[Coward- Tim Clare]]
 3. [[Mexican Gothic-Silvia Moreno-Garcia]]
-4. [[The Fifth Season - N. K. Jemisen]]
+4. The Fifth Season - N. K. Jemisen (Book 1 of[[The Broken Earth Trilogy-N K Jemisen]])
 5. *Rain*- Don Paterson
-6. *If all the world and love were young* - Stephen sexton 
-7. *Illuminations*- Alan Moore
-8. *The Obelix Gate*- N. K. Jemisen 
+6. [[If all the world and love were young - Stephen Sexton]]
+7. [[Illuminations-Alan Moore]]
+8. *The Obelix Gate*- N. K. Jemisen (Book 2 of [[The Broken Earth Trilogy-N K Jemisen]])
 9. *Your Emergency Contact Has Experienced An Emergency* - Chen Chen
+10. [[I Who Have Never Known Men-Jacqueline Harpman]]
+11. [[Bless the Daughter Raised by a Voice in Her Head- Warsan Shire]]
+12. [[Anxious People- Fredrik Backman]] (translated by Neil Smith) 
+13. [[This is How You Lose the Time War- Amal El-Mohtar & Max Gladstone]]

@@ -9,3 +9,6 @@ Humans like to see everything as a story, with a beginning middle and end. Or we
 [[History is Always Edited]] for example, to fit whatever narrative is dominant. 
 
 Another one of our [[Perception Problems]].
+
+> Let him describe what we have all seen so that it becomes a sequence. Bernard says there is always a story. I am a story. Louis is a story. There is the story of the boot-boy, the story of the man with one eye, the story of the woman who sells winkles.
+> -  [[The Waves-Virginia Woolf]]
