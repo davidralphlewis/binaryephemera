@@ -11,6 +11,7 @@ permalink: /now
 
 ## Reading
 
+- *Deep Wheel Orcadia*- Harry Josephine Giles.
 
 Here's everything I've read this year-[[Books Read 2023]]
 
@@ -20,7 +21,7 @@ Here's everything I've read this year-[[Books Read 2023]]
 
 ## Watching
 
--  *[[Buffy the Vampire Slayer]]* - Season 7
+-  Daisy Jones and the Six - series 1
 
 Here's all the films I've watched this year: [[Films Watched 2023]]
 
