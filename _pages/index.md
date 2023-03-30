@@ -15,9 +15,17 @@ Currently there are **290** notes within this garden
 
 ## Suggested starting places
 
-- [Writing](https://notes.davidralphlewis.co.uk/writing)
+- [[Writing]]
 - [[Perception Problems]]
 - What I'm Up to [[Now]]
+
+## New notes
+
+{% assign notes = site.notes | sort: 'last_created' | reverse %}
+{% for note in notes limit:7 %}
+- <a href="{{ note.url }}">{{ note.title }}</a><br>
+{% endfor %}
+
 
 
 <style>
