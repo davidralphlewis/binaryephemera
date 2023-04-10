@@ -1,3 +1,6 @@
+---
+---
+
 ## Key Ideas
 
 - [[Humour is a Weapon]] against the void

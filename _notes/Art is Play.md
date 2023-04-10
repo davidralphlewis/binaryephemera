@@ -1,3 +1,6 @@
+---
+---
+
  ---
 title: "Art is Play"
 layout: note
