@@ -1,6 +1,3 @@
----
----
-
 
 ---
 title: "Make time-Jake Knapp and John Zeratsky"

@@ -1,6 +1,3 @@
----
----
-
 
 ---
 title: "Aztec View of History"

@@ -1,6 +1,3 @@
----
----
-
 #BookNotes 
 
 Such a beautiful, powerful book. I hesitate to call it a novel because there's almost no plot. Instead, there are six monologues that weave in and out of each other. The writing is incredible, so detail rich and hypnotic in their delivery. Towards the end it becomes deeply melancholic and overwhelming. This utterly blew me away. 

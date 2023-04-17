@@ -7,11 +7,11 @@ permalink: /now
 
 ## Life
 
-- Recovering from surgery, going back to work soon
+- Fixing up the house, seeking more adventures. Throwing myself into life after a halting start to the year. 
 
 ## Reading
 
-- *Deep Wheel Orcadia*- Harry Josephine Giles.
+- *The Stone Sky*- N. K. Jemisen 
 
 Here's everything I've read this year-[[Books Read 2023]]
 
@@ -21,8 +21,6 @@ Here's everything I've read this year-[[Books Read 2023]]
 
 ## Watching
 
--  Daisy Jones and the Six - series 1
-
 Here's all the films I've watched this year: [[Films Watched 2023]]
 
 ### Previous Years:
@@ -31,13 +29,13 @@ Here's all the films I've watched this year: [[Films Watched 2023]]
 
 ## Playing
 
--   *Fortnite*
--   *The Legend of Zelda: Breath of the Wild*
+-  *Fortnite*
+-  *The Legend of Zelda: Breath of the Wild*
 -  *Hades*
 
 ## Working on
 
 -   Adding and updating these notes in [[Obsidian]].
--   Typing up poems from 2021 (whoops)
+-   Writing a poem a week (roughly.)
 
 *Part of the <a href="https://nownownow.com/about" >Now page</a> movement*

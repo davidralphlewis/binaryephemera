@@ -17,3 +17,6 @@ permalink: /books23
 11. [[Bless the Daughter Raised by a Voice in Her Head- Warsan Shire]]
 12. [[Anxious People- Fredrik Backman]] (translated by Neil Smith) 
 13. [[This is How You Lose the Time War- Amal El-Mohtar & Max Gladstone]]
+14. *Deep Wheel Orcadia*- Harry Josephine Giles
+14. *Hello world*- Hannah fry
+15. *On Mutability*- Jo shapcott
