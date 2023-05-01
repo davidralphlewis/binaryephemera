@@ -7,7 +7,7 @@ permalink: /now
 
 ## Life
 
-- Fixing up the house, seeking more adventures. Throwing myself into life after a halting start to the year. 
+- Fixing up the house, seeking more adventures. Throwing myself into life after a halting start to the year. Joined a gym and everything. 
 
 ## Reading
 
@@ -16,6 +16,7 @@ permalink: /now
 Here's everything I've read this year-[[Books Read 2023]]
 
 ### Previous years:
+
 - [[Books Read 2022]]  
 - [[Books Read 2021]] 
 
