@@ -19,4 +19,7 @@ permalink: /books23
 13. [[This is How You Lose the Time War- Amal El-Mohtar & Max Gladstone]]
 14. *Deep Wheel Orcadia*- Harry Josephine Giles
 14. *Hello world*- Hannah fry
-15. *On Mutability*- Jo shapcott
+15. *On Mutability*- Jo Shapcott
+16. *The Stone Sky*- N. K. Jemisen (Book 3 of [[The Broken Earth Trilogy-N K Jemisen]])
+17. *Steal Like an Artist*- Austin Kleon
+18. *M Train*- Patti Smith

@@ -11,7 +11,7 @@ This is the place where I keep useful notes and other miscellaneous snippets. It
 
 My main site and blog is [here](https://www.davidralphlewis.co.uk) if you want something a bit more coherent.
 
-Currently there are **290** notes within this garden
+Currently there are **296** notes within this garden
 
 ## Suggested starting places
 
@@ -21,7 +21,7 @@ Currently there are **290** notes within this garden
 
 ## New notes
 
-{% assign notes = site.notes | sort: 'last_created' | reverse %}
+{% assign notes = site.notes | sort: 'last_created' %}
 {% for note in notes limit:7 %}
 - <a href="{{ note.url }}">{{ note.title }}</a><br>
 {% endfor %}
