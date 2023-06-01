@@ -7,11 +7,11 @@ permalink: /now
 
 ## Life
 
-- Fixing up the house, seeking more adventures. Throwing myself into life after a halting start to the year. Working out more at the gym
+- Throwing myself into life after a halting start to the year. Off on holiday soon! Working out more at the gym
 
 ## Reading
 
-
+- *Our Share of Night*- Mariana Enriquez
 
 Here's everything I've read this year-[[Books Read 2023]]
 
@@ -38,6 +38,6 @@ Here's all the films I've watched this year: [[Films Watched 2023]]
 
 -   Adding and updating these notes in [[Obsidian]].
 -   Writing a poem a week (roughly.)
--   Building a vegetable garden and a herbaceous border. Border is planted out, but may need filling. Vegetable garden is ready, we just need to add a fence. 
+-   Building a vegetable garden and a herbaceous border. Border is planted out, but may need filling. Vegetable garden is ready. Might not get a lot this year but the beds are prepped. 
 
 *Part of the <a href="https://nownownow.com/about" >Now page</a> movement*

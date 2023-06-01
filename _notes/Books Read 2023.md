@@ -23,3 +23,4 @@ permalink: /books23
 16. *The Stone Sky*- N. K. Jemisen (Book 3 of [[The Broken Earth Trilogy-N K Jemisen]])
 17. *Steal Like an Artist*- Austin Kleon
 18. *M Train*- Patti Smith
+19. *Faulty Manufacturing* - Josie Alford

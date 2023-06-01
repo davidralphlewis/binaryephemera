@@ -14,4 +14,4 @@ It's useful to look through years later and see the start of ideas.
 
 -   This idea comes from <a href="https://medium.com/the-writers-room/the-spark-file-8d6e7df7ae58" >Stephen Johnson</a>
 
-It is also an example of the [[Collectors Fallacy]] in action.
+It is also an example of the [[Collectors Fallacy]] in action, as you can store endless amounts of information and be overwhelmed by it. 
