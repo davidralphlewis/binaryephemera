@@ -17,10 +17,14 @@ I've also added in questions I found from [[Struthless]]:
 
 (It's worth checking out his videos, especially <a href="https://youtu.be/dArgOrm98Bk" >this one</a> which highlights some of the reasons and ways to approach journaling)
 
-I might ask myself some [[Questions for Self Reflection]] in order to prompt a response.
+I might ask myself some [[Questions for Self Reflection]] in order to prompt a response. If I'm feeling lazy I might do [[54321 journalling]] instead. 
+
+I've also found keeping a [[Haiku]] journal useful to develop my poetic craft and also observe small moments. 
 
 > I love the diary because it knows itself to be a minor form; it isn’t trying to be anything but. It isn’t constructed, like a memoir; it is life as it happens.
 > - <a href="https://granta.com/notes-on-craft-elkin/" >Notes on craft-- Lauren Elkin</a>
 
 > My planners, I know, will lie on the shelf where I have placed them, containing exactly what they contain, the concrete evidence of my hours, the things I did and the things I didn't do, tallied.
 > -<a href="https://www.buzzfeed.com/helenphillips/how-to-plan-for-the-worst-day-of-your-life" >How To Plan For The Worst Day Of Your Life</a>*- Helen Phillips
+
+I

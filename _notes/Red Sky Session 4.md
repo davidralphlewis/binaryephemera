@@ -48,6 +48,6 @@ Order in different ways.
 - Should you?
 ## Making space.
 
-[[show-dont-tell]]. Where do you want to be explicit?
+[[Show Dont Tell]]. Where do you want to be explicit?
 
 

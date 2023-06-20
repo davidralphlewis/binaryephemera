@@ -9,3 +9,4 @@ permalink: /films23
 3. Dungeons and Dragons: Honor Amongst Theives (B) 
 4. Three Thousand Years of Longing (A-)
 5. Polite Society (A)
+6. Blades of Glory (C)

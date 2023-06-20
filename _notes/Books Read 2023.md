@@ -24,3 +24,6 @@ permalink: /books23
 17. *Steal Like an Artist*- Austin Kleon
 18. *M Train*- Patti Smith
 19. *Faulty Manufacturing* - Josie Alford
+20. Walking towards the noise - John Bowie 
+21. *Our Share of Night*- Mariana Enriquez
+

@@ -8,7 +8,7 @@ Here are some ideas and techniques if you are stuck on rewriting a poem.
 
 Remember that the whole point of editing is to edit through someone else's eyes. You need to not be in love with the poem.  Use [[Time as an editor]].  
 
-Also remember [[all art is subjective￼￼and [[Each poem Is New]]. [[Focus on Process not the end goal]]
+Also remember [[all art is subjective]] [[Each poem Is New]]. [[Focus on Process not the end goal]]
 
 -   [[Read Writing Aloud]] to hear the sound of it.
 -   Where does the poem surprise you? Make these accidents intentional. Build up to them or go in different directions.

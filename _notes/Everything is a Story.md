@@ -14,4 +14,4 @@ Another one of our [[Perception Problems]].
 > -  [[The Waves-Virginia Woolf]]
 
 > Much of life revolves around this concept. The stories we tell attempt to save order from chaos, most often allowing us to rationalize our own decisions and fates within the larger framework
-> [Jared Yates Sexton-A Poisoned Reality](https://lithub.com/a-poisoned-reality-jared-yates-sexton-on-growing-up-with-conspiracy-theories-and-end-times-prophecy) 
+> - [Jared Yates Sexton-A Poisoned Reality](https://lithub.com/a-poisoned-reality-jared-yates-sexton-on-growing-up-with-conspiracy-theories-and-end-times-prophecy) 
