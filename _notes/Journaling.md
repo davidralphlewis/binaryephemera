@@ -10,7 +10,7 @@ Recently, I've been using Lynda Barry's observation journal method, suggested by
 
 I've also added in questions I found from [[Struthless]]:
 
-> 1\. What excited me?
+> 1. What excited me?
 > 2. What drained me of energy?
 > 3. What did I learn?
 > – Campbell Walker, aka [[Struthless]]

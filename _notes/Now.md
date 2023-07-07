@@ -11,7 +11,7 @@ permalink: /now
 
 ## Reading
 
-
+- *Empireland* - # Sathnam Sanghera
 
 Here's everything I've read this year-[[Books Read 2023]]
 
@@ -34,7 +34,7 @@ Here's all the films I've watched this year: [[Films Watched 2023]]
 
 -  *Fortnite*
 -  *The Legend of Zelda: Breath of the Wild*
--  *Hades*
+-  *Rayman: Legends*
 
 ## Working on
 
