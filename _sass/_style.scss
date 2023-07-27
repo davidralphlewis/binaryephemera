@@ -13,7 +13,7 @@ $color-subtext-dark: hsl(0, 0%, 64%);
 $color-border-dark: #ed4b32;
 $color-box-background-dark: #012241;
 $border-radius: 5px;
-.theme-b {body {
+@media (prefers-color-scheme: light ) {body {
   box-sizing: content-box;
   background-color: #f9eecb;
   font-family: $font-family;
