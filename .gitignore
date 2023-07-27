@@ -1,15 +1,6 @@
-# Generated website directory
-_site/
-
-# Sass cache
-.sass-cache/
-
-# Jekyll cache & metadata
-.jekyll-cache/
-.jekyll-metadata
-
-# Notes graph metadata
-_includes/notes_graph.json
-
-# Obsidian config
-.obsidian/
+_site
+.jekyll-cache
+pages/.DS_Store
+pages/tags.md
+_notes/.obsidian
+_notes/Public/.obsidian
