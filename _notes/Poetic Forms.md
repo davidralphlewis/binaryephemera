@@ -7,7 +7,7 @@ permalink: /poetic-forms
 
 Some poetic forms to try:
 
--   [[Haiku]]
+-   [[haiku]]
 -   [[Tanka]]
 -   [[Sonnet]]
 -   [[Triolet]]

@@ -11,7 +11,7 @@ permalink: /now
 
 ## Reading
 
-- *Empireland* - # Sathnam Sanghera
+- *Black Sun* - Rebecca Roanhorse
 
 Here's everything I've read this year-[[Books Read 2023]]
 
@@ -22,7 +22,7 @@ Here's everything I've read this year-[[Books Read 2023]]
 
 ## Watching
 
-- *Mad Men* Season 1
+- *Mad Men* Season 2
 
 Here's all the films I've watched this year: [[Films Watched 2023]]
 

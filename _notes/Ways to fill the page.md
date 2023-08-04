@@ -35,6 +35,6 @@ Here are some ways to spend time in a [[Writers Notebook]].
 ## Poems
 
 - Ideas 
-- [[Haiku]]
+- [[haiku]]
 - [[Expand and iterate on notes]]
 - [[Free Writing]]

@@ -27,3 +27,7 @@ permalink: /books23
 20. Walking towards the noise - John Bowie 
 21. *Our Share of Night*- Mariana Enriquez
 22. *Our Wives Under the Sea* - Julia Armfield
+23. *Sourcery* - Terry Pratchett
+24. *The State of The Art*- Iain M. Banks
+25. *Empireland* - Sathnam Sanghera
+26. *Health Hireth* - Taran Spalding-Jenkins

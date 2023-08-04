@@ -28,7 +28,7 @@ Notes from the first [[Red Sky Sessions]] run by <a href="https://applesandsnake
 -   Read anthologies to find poets.
 -   Read outside your era and experience. ([[Read Widely]])
 
-## Keep a [[Haiku]] journal
+## Keep a [[haiku]] journal
 
 -   Encourages us to look for [[Specific Detail]].
 -   Asks us to observe.
