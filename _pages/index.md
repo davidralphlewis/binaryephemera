@@ -11,11 +11,11 @@ This is the place where I keep useful notes and other miscellaneous snippets. It
 
 My main site and blog is [here](https://www.davidralphlewis.co.uk) if you want something a bit more coherent.
 
-Currently there are **306** notes within this garden
+Currently there are **308** notes within this garden
 
 ## Suggested starting places
 
-- [[Writing]]
+- [Writing](/writing)
 - [[Perception Problems]]
 - What I'm Up to [[Now]]
 

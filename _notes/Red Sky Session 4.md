@@ -37,7 +37,7 @@ Order in different ways.
 
 ## No gospel. Question everything.
 
-## Look for [[specific-detail]].
+## Look for [[Specific Detail]].
 
 ## Get rid of redundancies
 

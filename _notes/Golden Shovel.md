@@ -1,10 +1,14 @@
 ---
 title: "Golden Shovel"
 layout: note
-date: 15-08-2022
+date: 18-08-2023
+permalink:
 ---
 
 #Poeticform 
 
-A relatively recent poetic form, this was invented by Terrence Hayes in his poem *<a href="https://www.poetryfoundation.org/poems/55678/the-golden-shovel" >The Golden Shovel.</a>* The end word of each line is the entirety of *We Real Cool* by Gwendolyn Brooks. Kind of a reverse acrostic.
+A poetic form invented by Terrance Hayes, where the end of each line is a quote or line. 
 
+In Hayes' *[The Golden Shovel](https://www.poetryfoundation.org/poems/55678/the-Golden-shovel)*, the end of each line quotes Gwendolyn Brooks' *We Real Cool* in full. 
+
+It's a fun form to play around in and a challenge as you have to bend your own lines into the existing words. It's a way to [[Transform Existing Work]] and create something new that comments on the original. 

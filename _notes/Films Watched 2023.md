@@ -11,4 +11,6 @@ permalink: /films23
 5. Polite Society (A)
 6. Blades of Glory (C)
 7. Asteroid City (B)
-8. Twilight (C-)
+8. People Just Do Nothing: Big in Japan (B-)
+9. Twilight (C-)
+10. Cocoon (B+)
