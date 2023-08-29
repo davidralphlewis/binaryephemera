@@ -11,7 +11,7 @@ permalink: /now
 
 ## Reading
 
-- *Black Sun* - Rebecca Roanhorse
+- *Full Metal Alchemist 1* - Rebecca Roanhorse
 
 Here's everything I've read this year-[[Books Read 2023]]
 

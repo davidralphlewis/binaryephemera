@@ -31,3 +31,4 @@ permalink: /books23
 24. *The State of The Art*- Iain M. Banks
 25. *Empireland* - Sathnam Sanghera
 26. *Health Hireth* - Taran Spalding-Jenkins
+27. *Black Sun* - Rebecca Roanhorse
