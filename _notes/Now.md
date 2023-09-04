@@ -11,7 +11,7 @@ permalink: /now
 
 ## Reading
 
-- *Full Metal Alchemist 1* - Rebecca Roanhorse
+- *Don't Touch My Hair*- Emma Dabiri
 
 Here's everything I've read this year-[[Books Read 2023]]
 
@@ -32,7 +32,7 @@ Here's all the films I've watched this year: [[Films Watched 2023]]
 
 ## Playing
 
--  *Fortnite*
+-  *Hollow Knight*
 -  *Rayman: Legends*
 
 ## Working on

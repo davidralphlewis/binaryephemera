@@ -32,3 +32,4 @@ permalink: /books23
 25. *Empireland* - Sathnam Sanghera
 26. *Health Hireth* - Taran Spalding-Jenkins
 27. *Black Sun* - Rebecca Roanhorse
+28. *Full Metal Alchemist 1* -Hiromu Arakawa
