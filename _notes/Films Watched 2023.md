@@ -6,7 +6,7 @@ permalink: /films23
 ---
 1. Turning Red (B+)
 2. Akira (B+)
-3. Dungeons and Dragons: Honor Amongst Theives (B) 
+3. Dungeons and Dragons: Honor Amongst Thieves (B) 
 4. Three Thousand Years of Longing (A-)
 5. Polite Society (A)
 6. Blades of Glory (C)
@@ -16,3 +16,6 @@ permalink: /films23
 10. Happiness for Beginners (B-)
 11. Cocoon (B+)
 12. Space Jam (B)
+13. Ghostbusters: Afterlife (D)
+14. The Cat Returns (A-)
+15. Stop Making Sense (A+)

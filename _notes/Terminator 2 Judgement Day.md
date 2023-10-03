@@ -11,4 +11,4 @@ permalink: /terminator2
 * Clearly defined characters with conflicting objectives.
 * Twisting audience expectations.
 * Dangerous, unstoppable antagonist.
-
+* Peril, genuine sense of danger towards the end

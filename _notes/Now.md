@@ -7,11 +7,13 @@ permalink: /now
 
 ## Life
 
-- Working out more at the gym. Going on adventures.
+- Working out more at the gym. Going on adventures. 
+- Settling into Autumn
 
 ## Reading
 
-- *Don't Touch My Hair*- Emma Dabiri
+- *Venemous Lumpsucker* - Ned Beauman
+- *Wintering* - Katherine May
 
 Here's everything I've read this year-[[Books Read 2023]]
 
@@ -22,7 +24,7 @@ Here's everything I've read this year-[[Books Read 2023]]
 
 ## Watching
 
-- *Mad Men* Season 3
+- *Mad Men* Season 4
 
 Here's all the films I've watched this year: [[Films Watched 2023]]
 
@@ -32,6 +34,7 @@ Here's all the films I've watched this year: [[Films Watched 2023]]
 
 ## Playing
 
+- *The Legend of Zelda: Tears of the Kingdom*
 -  *Hollow Knight*
 -  *Rayman: Legends*
 
