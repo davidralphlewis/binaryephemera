@@ -2,9 +2,10 @@
 title: "Red Sky Session 4"
 layout: note
 date: 28-08-2022
+last_modified_at: 2023-11-27 11:18
 ---
 
-## Refining, editing & Selecting- Rachel Long
+## Refining, Editing & Selecting- Rachel Long
 
 ## Refining
 
@@ -12,42 +13,42 @@ date: 28-08-2022
 - Poems are machines. 
 - Put good stuff in: [[Read Widely]] and talk with new people 
 
-## Gut is the best editor
+## Gut is the Best Editor
 
 - Need to train and trust. Other people are valuable, but hone your own voice 
 - Constant process Try and experiment, learn and grow. 
 - Read scientifically, analytical. How are they doing it?
 
-## Lydia Davies treatment
+## Lydia Davies Treatment
 
 Lydia Davies - Never includes, I think I feel I love I hate Communicates through action only
 
-## Try different washes or styles of writers
+## Try Different Washes or Styles of Writers
 
-## Editing as a creative process. An experiment ([[Editing is writing]])
+## Editing as a Creative Process. An Experiment ([[Editing is writing]])
 
-## [[Poetic Forms]] as an editing tool
+## [[Poetic Forms]] As an Editing Tool
 
 - What is there already? 
 - Play within structure.
 
-## Combine poems into a collection/ pamphlet.
+## Combine Poems into a collection/ Pamphlet.
 
 Order in different ways.
 
-## No gospel. Question everything.
+## No Gospel. Question Everything.
 
 ## Look for [[Specific Detail]].
 
-## Get rid of redundancies
+## Get Rid of Redundancies
 
-## Identify clichés
+## Identify Clichés
 
-## We all have factory presets in poems
+## We All Have Factory Presets in Poems
+
 - How can you break out? 
 - Should you?
-## Making space.
+
+## Making Space.
 
 [[Show Dont Tell]]. Where do you want to be explicit?
-
-
