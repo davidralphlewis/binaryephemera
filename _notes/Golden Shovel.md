@@ -3,9 +3,10 @@ title: "Golden Shovel"
 layout: note
 date: 18-08-2023
 permalink:
+last_modified_at: 2023-11-27 12:06
+tags: [Poeticform]
 ---
-
-#Poeticform 
+ 
 
 A poetic form invented by Terrance Hayes, where the end of each line is a quote or line. 
 

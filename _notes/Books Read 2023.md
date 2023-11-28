@@ -24,7 +24,7 @@ permalink: /books23
 17. *Steal Like an Artist*- Austin Kleon
 18. *M Train*- Patti Smith
 19. *Faulty Manufacturing* - Josie Alford
-20. Walking towards the noise - John Bowie 
+20. *Walking Towards the Noise* - John Bowie 
 21. *Our Share of Night*- Mariana Enriquez
 22. *Our Wives Under the Sea* - Julia Armfield
 23. *Sourcery* - Terry Pratchett
@@ -36,5 +36,5 @@ permalink: /books23
 29. *Don't Touch My Hair*- Emma Dabiri
 30. *The Nation's Saddest Love Poems*- Sam J. Grudgings
 31. *Tomorrow and Tomorrow and Tomorrow* - Gabrielle Zevin
-32. *Nowhere Men*
+32. *Nowhere Men* - Eric Stephenson, Nate Bellegarde & Jordie Bellaire
 33. *To The Lighthouse* - Virginia Woolf
