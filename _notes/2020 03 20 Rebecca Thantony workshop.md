@@ -3,6 +3,7 @@ title: "2020 03 20 Rebecca Thantony workshop"
 layout: note
 date: 06-09-2022
 permalink: /rebeccathantony-workshop
+last_modified_at: 2023-12-13 12:18
 ---
 
 -   [[No Right Way to Be Creative]]

@@ -3,6 +3,7 @@ title: "Writing from the Subconscious"
 layout: note
 date: 06-09-2022
 permalink:
+last_modified_at: 2023-12-14 12:07
 ---
 
 Whilst we like to think we are in control when we are writing, in reality most of the decisions we make are entirely subconscious. We make small decisions based on what we have seen before (because we [[Copy to Understand the Rules]]). A word may have associations that we don't realise consciously that may guide us, or we may be drawn to stories that have different resonances to us. 

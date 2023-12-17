@@ -38,3 +38,7 @@ permalink: /books23
 31. *Tomorrow and Tomorrow and Tomorrow* - Gabrielle Zevin
 32. *Nowhere Men* - Eric Stephenson, Nate Bellegarde & Jordie Bellaire
 33. *To The Lighthouse* - Virginia Woolf
+34. *Wyrd Sisters* - Terry Pratchett
+35. *Wintering* - Katherine May
+36. [[Yellowface-R. F. Kuang]]
+37. *You Have No Normal Country to Return To* - Tom Sastry

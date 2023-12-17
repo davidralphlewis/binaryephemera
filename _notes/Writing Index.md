@@ -4,6 +4,7 @@ feed: hide
 date: 29-07-2022
 permalink: /writing
 layout: note
+last_modified_at: 2023-12-14 12:07
 ---
 
 Writers love writing about writing and I'm no different. It does mean that there's bucket loads of advice out there as people try to bottle alchemy. (Remember [[all advice is autobiographical]])
@@ -21,13 +22,13 @@ Writers love writing about writing and I'm no different. It does mean that there
 
 -   [[Editing A Poem]]
 
-## Getting your work into the world
+## Getting Your Work into the World
 
 -   [[Blogging]]
 -   [[Sending Your Work Out]]
 -   [[Performing Poetry]]
 
-## Creative habits & attitudes
+## Creative Habits & Attitudes
 
 -   [[Writers Block]]
 -   [[Writing Every Day]]
