@@ -8,39 +8,42 @@ last_modified_at: 2023-11-27 11:18
 
 ## Life
 
-- Getting over COVID again.
-- Winding down for the year, reflecting 
+- Getting back into the routine of the year. 
+- Back to the gym, back to swimming. 
+- Staying warm. 
 
 ## Working on
 
 - Adding and updating these notes in [[Obsidian]].
-- Writing a poem a week (roughly.)
+- Planning Dungeons and Dragons campaign. 
 - Project Dust. Working on incorporating feedback.
 
 ## Reading
 
-- *The Priory of the Orange Tree*- Samantha Shannon
+- *Babel* - R. F. Kuang
 
-Here's everything I've read this year-[[Books Read 2023]]
+Here's everything I've read this year-[[Books Read 2024]]
 
 ### Previous Years:
 
+- [[Books Read 2023]]
 - [[Books Read 2022]]  
 - [[Books Read 2021]] 
 
 ## Watching
 
-- *Mad Men* Season 6
+- *Mad Men* Season 7
 
-Here's all the films I've watched this year: [[Films Watched 2023]]
+Here's all the films I've watched this year: [[Films Watched 2024]]
 
 ### Previous Years:
 
+- [[Films Watched 2023]]
 - [[Films Watched 2022]]
 
 ## Playing
 
 - *The Legend of Zelda: Tears of the Kingdom*
--  *Rayman: Legends*
+-  *Hollow Knight*
 
 *Part of the <a href="https://nownownow.com/about" >Now page</a> movement*

@@ -4,6 +4,8 @@ layout: note
 date: 09-01-2023
 permalink: /books23
 ---
+See also [[Books Read 2021]], [[Books Read 2022]], [[Books Read 2024]]
+
 1. [[How High We Go In The Dark-Sequoia Nagamatsu]]
 2. [[Coward- Tim Clare]]
 3. [[Mexican Gothic-Silvia Moreno-Garcia]]
@@ -39,6 +41,7 @@ permalink: /books23
 32. *Nowhere Men* - Eric Stephenson, Nate Bellegarde & Jordie Bellaire
 33. *To The Lighthouse* - Virginia Woolf
 34. *Wyrd Sisters* - Terry Pratchett
-35. *Wintering* - Katherine May
-36. [[Yellowface-R. F. Kuang]]
-37. *You Have No Normal Country to Return To* - Tom Sastry
+35. *Venemous Lumpsucker* - Ned Beauman
+36. *Wintering* - Katherine May
+37. [[Yellowface-R. F. Kuang]]
+38. *You Have No Normal Country to Return To* - Tom Sastry

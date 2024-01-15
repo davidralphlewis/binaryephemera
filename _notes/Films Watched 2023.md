@@ -25,3 +25,6 @@ permalink: /films23
 19. Weird: The Al Yankovic Story (B-)
 20. Spiderman: Into the Spider-verse (B+) 
 21. Men (A-)
+22. Twilight: Breaking Dawn Part 2 (F)
+23. [[Gremlins]] (A)
+24. [[The Boy and the Heron]] (A)
