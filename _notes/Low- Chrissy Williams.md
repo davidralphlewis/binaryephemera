@@ -1,6 +1,12 @@
 ---
-12:09
+title: Low- Chrissy Williams
+layout: note
+date: 22-01-2024
+permalink:
+tags: [BookNotes]
+last_modified_at: 2024-01-22 01:20
 ---
+ 
 
 ## *Low*- Chrissy Williams
 

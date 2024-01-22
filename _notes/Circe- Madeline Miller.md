@@ -1,7 +1,12 @@
 ---
-12:09
-last_modified_at: 2023-12-08 12:10
+last_modified_at: 2024-01-22 01:20
+title: Circe- Madeline Miller
+layout: note
+date: 22-01-2024
+permalink:
+tags: [BookNotes]
 ---
+ 
 
 ## *Circe*- Madeline Miller
 

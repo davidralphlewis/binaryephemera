@@ -3,9 +3,12 @@ title: "The Actual-Inua Ellams"
 layout: note
 date: 22-08-2022
 permalink: /the-actual-ie
+tags: [BookNotes]
+last_modified_at: 2024-01-22 01:20
 ---
+ 
 
-#BookNotes 
+You would expect  series of poems, all starting with "fuck" to be furious. Of course, there is rage in these poems, especially in the multi-part "Fuck// Empire", with its withering repetition and bluntly stated atrocities. But there's also joy and beauty. I love the sequencing of this collection, how one poem feeds into the next one. It's essential.
 
 -   Poetry collection dealing with race, colonialism and history. It's lyrical, angry and funny in places as well.
 -   All of the poems start with "Fuck". (hence the title) For example *Fuck/[[The Mandela Effect]]*. Ellams finds variety and different emotions in this one word, sometimes angry, sometimes resolute and sometimes joyful.
