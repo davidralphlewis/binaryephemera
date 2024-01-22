@@ -10,17 +10,15 @@ last_modified_at: 2023-11-27 11:18
 
 - Getting back into the routine of the year. 
 - Back to the gym, back to swimming. 
-- Staying warm. 
+- Planning holiday.
 
 ## Working on
 
 - Adding and updating these notes in [[Obsidian]].
 - Planning Dungeons and Dragons campaign. 
-- Project Dust. Working on incorporating feedback.
+- Project Dust. Working on incorporating feedback, re-editing some parts. 
 
 ## Reading
-
-- *Babel* - R. F. Kuang
 
 Here's everything I've read this year-[[Books Read 2024]]
 
@@ -31,8 +29,6 @@ Here's everything I've read this year-[[Books Read 2024]]
 - [[Books Read 2021]] 
 
 ## Watching
-
-- *Mad Men* Season 7
 
 Here's all the films I've watched this year: [[Films Watched 2024]]
 
