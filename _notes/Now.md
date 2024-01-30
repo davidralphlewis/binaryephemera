@@ -6,19 +6,21 @@ permalink: /now
 last_modified_at: 2023-11-27 11:18
 ---
 
+
 ## Life
 
-- Getting back into the routine of the year. 
 - Back to the gym, back to swimming. 
-- Planning holiday.
+- Planning holidays
 
 ## Working on
 
-- Adding and updating these notes in [[Obsidian]].
+- Photo a day to get me back into photography.
 - Planning Dungeons and Dragons campaign. 
 - Project Dust. Working on incorporating feedback, re-editing some parts. 
 
 ## Reading
+
+- *What If?*- Randall Munroe
 
 Here's everything I've read this year-[[Books Read 2024]]
 
@@ -29,6 +31,8 @@ Here's everything I've read this year-[[Books Read 2024]]
 - [[Books Read 2021]] 
 
 ## Watching
+
+- *The Bear* Season 1
 
 Here's all the films I've watched this year: [[Films Watched 2024]]
 
