@@ -6,5 +6,7 @@ permalink: /films24
 ---
 
 1. [[Saltburn]] (B)
-2. [[Late Night]] (B-)
+2. [[Late Night]] (C+)
 3. [[Poor Things]] (A-)
+4. The Creator (B-)
+5. The Holdovers (A)

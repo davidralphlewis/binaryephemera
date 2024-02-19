@@ -6,10 +6,10 @@ permalink: /now
 last_modified_at: 2023-11-27 11:18
 ---
 
-
 ## Life
 
-- Back to the gym, back to swimming. 
+- Turned 36
+- Saw Los Campesinos and friends in Leeds 
 - Planning holidays
 
 ## Working on
@@ -20,7 +20,7 @@ last_modified_at: 2023-11-27 11:18
 
 ## Reading
 
-- *What If?*- Randall Munroe
+- *Antartica* - Claire Keegan
 
 Here's everything I've read this year-[[Books Read 2024]]
 
@@ -44,6 +44,5 @@ Here's all the films I've watched this year: [[Films Watched 2024]]
 ## Playing
 
 - *The Legend of Zelda: Tears of the Kingdom*
--  *Hollow Knight*
 
 *Part of the <a href="https://nownownow.com/about" >Now page</a> movement*
