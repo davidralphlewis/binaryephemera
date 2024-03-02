@@ -1,11 +1,19 @@
 ---
-title: "Questions for Self Reflection"
-layout: note
-date: 28-08-2022
-permalink:
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-Here's some questions for self reflection when [[Journaling]] or doing a [[Weekly Review]]. I've included the source to avoid [[Source Amnesia]].
+title: "Questions for Self Reflection"
+
+layout: note
+
+date: 28-08-2022
+
+permalink:
+
+last_modified_at: 2023-12-08 12:09
+
+aling]] or doing a [[Weekly Review]]. I've included the source to avoid [[Source Amnesia]].
 
 -   <a href="https://www.youtube.com/watch?v=wn6rI_0QiKc" >Wheezy Waiter- Questions to ask when things seem pointless</a>
 

@@ -1,10 +1,17 @@
 ---
-title: "Focused Mode"
-layout: note
-date: 15-08-2022
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-The brain has two distinct states when learning something new, focused mode and [[Diffused Mode]]. Focused mode is exactly that, short spans of concentration and focus, where you block all distractions and focus only on the task at hand.
+title: "Focused Mode"
+
+layout: note
+
+date: 15-08-2022
+
+last_modified_at: 2023-12-08 12:09
+
+ct states when learning something new, focused mode and [[Diffused Mode]]. Focused mode is exactly that, short spans of concentration and focus, where you block all distractions and focus only on the task at hand.
 
 It's useful when taking in the detail of something new or when you are looking at something that has a lot of new concepts.
 

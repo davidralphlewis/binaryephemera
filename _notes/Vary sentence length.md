@@ -1,13 +1,24 @@
 ---
-title: "Vary sentence length"
-layout: note
-date: 29-11-2022
-permalink:
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-When writing prose (or any sort of writing actually ), try to vary the sentence length. This varies the rhythm of the writing and allows it to sound more like spoken speech. 
+title: "Walk for wellbeing"
 
-It's equally as important to [[vary sentence syntax]]. 
+layout: note
 
-> This sentence has five words. Here are five more words. Five-word sentences are fine. But several together become monotonous. Listen to what is happening. The writing is getting boring. The sound of it drones. It’s like a stuck record. The ear demands some variety. Now listen. I vary the sentence length, and I create music. Music. The writing sings. It has a pleasant rhythm, a lilt, a harmony. I use short sentences. And I use sentences of medium length. And sometimes, when I am certain the reader is rested, I will engage him with a sentence of considerable length, a sentence that burns with energy and builds with all the impetus of a crescendo, the roll of the drums, the crash of the cymbals–sounds that say listen to this, it is important. 
-> Gary Provost
+date: 11-06-2023
+
+permalink:
+
+last_modified_at: 2023-12-08 12:09
+
+g is the pace of thinking, so when you walk you allow yourself to work through issues. 
+
+In [[Keep Going-Austin Kleon]] say "Demons hate fresh air." Walking outside is therefore a way of keeping yourself well and paying attention to your wellbeing. 
+
+> Above all, do not lose your desire to walk: every day I walk myself into a state of well being and walk away from every illness; I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it... but by sitting still, and the more one sits still, the closer one comes to feeling ill... Thus if one just keeps on walking, everything will be alright
+> - Søren Kierkegaard
+
+> Walking in and of itself is a way to cultivate precisely all the qualities of person-hood that seem missing from much public discourse — attention, focus, kindness, patience, persistence, tenacity, mental and physical health. 
+> - [Craig Mod](https://craigmod.com/ridgeline/167/) 

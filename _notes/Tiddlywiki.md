@@ -2,6 +2,8 @@
 title: "Tiddlywiki"
 layout: note
 date: 28-08-2022
+last_modified_at: 2023-12-08 12:10
+
 ---
 
 This site ~~is~~ used to be written using <a href="https://tiddlywiki.com" >TiddlyWiki,</a> which is a personal wiki software that is free and open source. It's elegant, easy to use and allows me to edit the files anywhere. Most importantly, it provides the links down the bottom (using a plugin called Stroll) so you can navigate the site easier and updates any links if I change them. It allows me to keep my notes in a [[Network Better Than Linear|network]] and prioritises [[Notes Should Be Atomic|atomic notes]]. 

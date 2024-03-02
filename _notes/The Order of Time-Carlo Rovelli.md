@@ -1,36 +1,24 @@
 ---
-title: "The Order of Time-Carlo Rovelli"
-layout: note
-date: 28-08-2022
-permalink: /order-of-time-cr
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-#BookNotes 
+title: "The-Spark-File"
 
+layout: note
 
-An exploration of time from a physics point of view. I read it as I'm getting older and wondered what the hell time is anyway. I'm not sure I found out.
+date: 28-08-2022
 
-## Key ideas
+last_modified_at: 2023-12-08 12:09
 
-### Time is relative 
-- It runs at different speeds at different places. Up a mountain, it is slower. In space, it is slower still. It is also affected by speed. The faster something moves the less time passes.
--   Mass slows time around it.
--   Sun and earth fall around each other due to time.
--   Gravity is time
--   Speed slows down time.
+ writing line and idea in one big file to sort through later. Comb through it regularly when uninspired and see what jumps out at you. Similar to a [[Writers Notebook]], but digital and searchable.
 
-###  The only law of physics that is directional is heat.
--   Always goes hot to cold, never the other way round.
--   Seeking equilibrium. Entropy.
--   Heat is the only distinction between past and future.
+Ideas compost. The spark file is the compost pile where things break down and combine in new ways.
 
-###   Entropy is relative
--   No distinction between cause and effect.
--   No shared present, multiple overlapping present times.
--   can overlap and circle back
+I've kept a spark file for years and it's many, many lines long. Because it's [[Plain Text]], it's still a compact file and able to be easily searched and looked through. I have it stored as an org file in [[Emacs]] and have a function to show a random headline.
 
-### Time is a field, acted on by other forces. 
-- Can stretch and change. 
-- Time is granular, made up of Planck seconds- smallest divisible unit.
-- Time exists in a superposition. Unsure of how it exists until it interacts with the world.
-- Therefore the past, present and the future are indeterminate
+It's useful to look through years later and see the start of ideas.
+
+-   This idea comes from <a href="https://medium.com/the-writers-room/the-spark-file-8d6e7df7ae58" >Stephen Johnson</a>
+
+It is also an example of the [[Collectors Fallacy]] in action, as you can store endless amounts of information and be overwhelmed by it. 

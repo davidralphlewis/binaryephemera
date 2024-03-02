@@ -1,13 +1,22 @@
 ---
-title: "Wanderlust-Rebecca Solnit"
-layout: note
-date: 30-08-2022
-permalink: /wanderlust-rs
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-#BookNotes 
+title: "Wanderlust-Rebecca Solnit"
 
--   Walking as holy/ allowing thought.
+layout: note
+
+date: 30-08-2022
+
+permalink: /wanderlust-rs
+
+tags: [BookNotes]
+
+last_modified_at: 2023-12-08 12:09
+
+llowing thought.
+
 -   Waking as serenity in nature is a product of the middle classes. Need safety. It's a privilege to walk without fear of bandits.
 -   This freedom ended up removing the aristocracy through right to roam.
 -   Similarly, it's a privilege to walk without fear of attack as a man.

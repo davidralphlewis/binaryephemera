@@ -3,7 +3,10 @@ title: "54321 journalling"
 layout: note
 date: 17-05-2023
 permalink:
+last_modified_at: 2023-12-08 12:10
+
 ---
+
 A way of [[Journaling]] in a quick, rapid way. Taken from [this video](https://www.youtube.com/watch?app=desktop&v=ucz3CVrSS-I) 
 
 Write down:

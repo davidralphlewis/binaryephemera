@@ -1,13 +1,16 @@
 ---
-title: "Source Amnesia"
-layout: note
-date: 28-08-2022
-permalink:
+last_modified_at: 2023-12-08 12:10
 ---
-#CognitiveBias 
+---
 
-We tend to remember information but forget where we heard it from.
+title: "Specific Detail"
 
-When keeping notes, it's important to make a note of the source. That's why I've tried to add sources and quotes to these notes whenever I can. Although that said, there are a lot of notes without sources. 
+layout: note
 
-I've already forgotten where I found this.
+date: 28-08-2022
+
+last_modified_at: 2023-12-08 12:09
+
+rose, it is enhanced by the use of specific detail. So instead of a 'water in a glass' you can say 'the pint glass was half full of brackish water' and it makes a much more vivid image in the reader's mind. It helps enhance the [[Concrete or abstract|concrete]] of the image. It also helps you [[Show Dont Tell]].
+
+However, it is possible to get too lost in the detail. It's a balance, as you can end up describing too much. You have to select which details are relevant. It's better to select a handful of vivid, relevant details than to waffle too much. A good way of focusing on this is to focus on [[The Five Senses]].

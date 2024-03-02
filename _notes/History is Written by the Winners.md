@@ -1,17 +1,20 @@
 ---
-title: "History is Written by the Winners"
-layout: note
-date: 02-08-2022
-permalink: /historywinners
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-We should always be aware that because of our [[Perception Problems]], our [[History is Always Edited]]  There's no objective series of events that has happened, instead, [[Everything is a Story]]
+title: "Hofstaders Law"
 
-One way it is incomplete and fragmentary is that it is always written by the winners. The winners glorify their story. They may downplay any violence they committed or demonise the ones who lost to justify their success. They may twist the story to seem like their victory was inevitable.
+layout: note
 
-Typically, we do not hear the voices or stories of those who lost.
+date: 20-10-2022
 
+permalink:
 
-> The defeated go down in history and disappear, and their stories die with them
+last_modified_at: 2023-12-08 12:09
 
-— Pat Barker, The Silence of the Girls
+tive scientist Douglas Hofstadter that says a task will always take longer that you are expecting, even if you take into account this law. 
+
+We are bad at estimating how long tasks will take.  
+
+I first came across this in [[Four Thousand Weeks-Oliver Burkeman]]. 

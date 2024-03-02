@@ -1,14 +1,23 @@
 ---
-title: "Everything is Conscious"
-layout: note
-date: 09-08-2022
-permalink:
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-The idea that everything in the universe is conscious, from the smallest atom to the largest planet. It argues that consciousness is not special but is an inherent part of matter. Also known as panpsychism.
+title: "Expand and iterate on notes"
 
-> The panpsychist argues that consciousness did not emerge at some point during evolution. Rather, it’s always associated with matter and vice versa – they’re two sides of the same coin. But the large majority of the mind associated with the various types of matter in our universe is extremely rudimentary. An electron or an atom, for example, enjoys just a tiny amount of consciousness. But as matter becomes more interconnected and rich, so does the mind, and vice versa, according to this way of thinking.
+layout: note
 
+date: 25-04-2023
 
-<a href="https://getpocket.com/explore/item/could-consciousness-all-come-down-to-the-way-things-vibrate?utm_source=pocket-newtab-global-en-GB" >Could Consciousness All Come Down to the Way Things Vibrate?</a> -Tam Hunt
+permalink:
 
+last_modified_at: 2023-12-08 12:09
+
+re your thinking should change as well. You should always try to iterate your notes, expand where points need further explanation and make things clear. 
+
+In this way, writing is never complete but always shifting and moving. 
+
+Lydia Davies describes a way of using a [[Writers Notebook]] that is similar, using creative notes to create new pieces. 
+
+> Revise notes constantly—try to develop the ability to read them as though you had never seen them before, to see how well they communicate. Constant revision, whether or not you're going to "do" anything with what you've written, also teaches you to write better in the first place, when you first write something down.
+> Lydia Davis [Ten of My Recommendations for Good Writing Habits](https://lithub.com/lydia-davis-ten-of-my-recommendations-for-good-writing-habits/)

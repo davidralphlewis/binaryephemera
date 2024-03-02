@@ -1,20 +1,11 @@
 ---
-title: "Extended Mind"
+title: "Failure is Inevitable"
 layout: note
-date: 11-08-2022
----
+date: 06-11-2022
+permalink:
+last_modified_at: 2023-12-08 12:09
+e Will Always Be a Gap Between Dreams and Reality]] and [[It is Impossible to Capture Everything]].  
 
-This refers to the theory that your mind extends beyond your body, that actually we store memories in physical places as well. These physical places (such as this [[Digital Garden]], or a [[Writers Notebook]], then become extensions of our thinking.
+Failure is therefore inevitable. 
 
-> In these cases, the human organism is linked with an external entity in a two-way interaction, creating a coupled system that can be seen as a cognitive system in its own right. All the components in the system play an active causal role, and they jointly govern behavior in the same sort of way that cognition usually does.
-
-—Andy Clark & David J. Chalmers- The Extended Mind, Department of Philosophy, Washington University
-
-Animals display this behaviour as well in an example of [[Everything is Conscious]]:
-
-> Just as octopuses appear to outsource information-processing tasks to their tentacles, or crickets to their tracheal tubes, perhaps spiders outsource information processing to objects outside of their bodies — their webs.
-
-— Joshua Sokol- <a href="https://getpocket.com/explore/item/the-thoughts-of-a-spiderweb?utm_source=pocket-newtab-global-en-GB" >The Thoughts of a Spiderweb</a>
-
-
-[[Network Better Than Linear]] perhaps? (Sorry.)
+It's a reason that [[Life is Suffering]].

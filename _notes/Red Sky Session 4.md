@@ -1,13 +1,17 @@
 ---
-title: "Red Sky Session 4"
-layout: note
-date: 28-08-2022
-last_modified_at: 2023-11-27 11:18
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-## Refining, Editing & Selecting- Rachel Long
+title: "Red Sky Session 4"
 
-## Refining
+layout: note
+
+date: 28-08-2022
+
+last_modified_at: 2023-12-08 12:09
+
+ning
 
 - Remove impurities
 - Poems are machines. 

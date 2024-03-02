@@ -1,14 +1,18 @@
 ---
-title: "Poetic Forms"
-layout: note
-date: 04-08-2022
-permalink: /poetic-forms
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-Some poetic forms to try:
+title: "Poetic Forms"
 
--   [[haiku]]
--   [[Tanka]]
+layout: note
+
+date: 04-08-2022
+
+permalink: /poetic-forms
+
+last_modified_at: 2023-12-08 12:09
+
 -   [[Sonnet]]
 -   [[Triolet]]
 -   [[Golden Shovel]]
@@ -18,4 +22,3 @@ Some poetic forms to try:
 -   [[Erasure Poetry]]
 -  [[After poem]]
 - [[Ekphrastic Writing]]
-

@@ -1,22 +1,12 @@
 ---
-title: "Everything Changes"
-layout: note
-date: 09-08-2022
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-Nothing stays still in life. Everything changes
+last_modified_at: 2023-12-08 12:09
 
-> To be alive is to be in motion but never arriving anywhere
-[https://www.youtube.com/watch?v=QImCld9YubE]>(Why Are You Alive – Life, Energy)- Kurzgesagt – In a Nutshell
+ is a Weapon]] against the void
 
-> So it goes.
-> - Slaughterhouse Five- Kurt Vonnegut Jr. 
-
-> This too shall pass
-> - Anon.
-
-> No man steps in the same river twice, because it is not the same river and he is not the same man. 
-> – Heraclitus
-
->There is nothing staid, nothing settled, in this universe. All is rippling, all is dancing; all is quickness and triumph.
-> [[The Waves-Virginia Woolf]]
+- [[We make our own meaning]]
+- Infinite choices in the multiverse
+- How to live in a world where human life feels pointless.

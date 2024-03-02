@@ -1,11 +1,8 @@
 ---
-title: "Snowball"
-layout: note
-date: 28-08-2022
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-#Poeticform 
+last_modified_at: 2023-12-08 12:09
 
-The snowball is a type of [[Constrained Writing]], where each line increases by one letter.
-
-A variation is to increase by syllables each line.
+Problems* - Allie Brosh

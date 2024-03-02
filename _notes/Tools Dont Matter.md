@@ -1,10 +1,17 @@
 ---
-title: "Tools Dont Matter"
-layout: note
-date: 28-08-2022
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-Even less in writing than other disciplines, the tools don't really matter. Fancy [[Writers Notebook]]s are nice but not essential. Getting the words down is more important than the way you write them. Digital, analogue, it's all mostly the same.
+title: "Tools Dont Matter"
+
+layout: note
+
+date: 28-08-2022
+
+last_modified_at: 2023-12-08 12:09
+
+n other disciplines, the tools don't really matter. Fancy [[Writers Notebook]]s are nice but not essential. Getting the words down is more important than the way you write them. Digital, analogue, it's all mostly the same.
 
 What is important is the methods you use, rather than the tools you use. Avoid [[Tool Fetishism]].
 

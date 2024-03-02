@@ -1,11 +1,19 @@
 ---
-title: "Walk for wellbeing"
-layout: note
-date: 11-06-2023
-permalink:
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-Get out and move your body as much as possible. Walking is the pace of thinking, so when you walk you allow yourself to work through issues. 
+title: "Walk for wellbeing"
+
+layout: note
+
+date: 11-06-2023
+
+permalink:
+
+last_modified_at: 2023-12-08 12:09
+
+dy as much as possible. Walking is the pace of thinking, so when you walk you allow yourself to work through issues. 
 
 In [[Keep Going-Austin Kleon]] say "Demons hate fresh air." Walking outside is therefore a way of keeping yourself well and paying attention to your wellbeing. 
 

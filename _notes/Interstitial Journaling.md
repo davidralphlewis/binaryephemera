@@ -2,8 +2,9 @@
 title: "Interstitial Journaling"
 layout: note
 date: 16-08-2022
----
+last_modified_at: 2023-12-08 12:10
 
+---
 
 A form of [[Journaling]]. Instead of sitting down and reflecting after the events, you rapidly log how you feel at any given time. It's a mixture of feelings and tasks For example:
 

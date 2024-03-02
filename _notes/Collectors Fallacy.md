@@ -1,12 +1,9 @@
 ---
-title: "Collectors Fallacy"
+title: "Colour Constancy"
 layout: note
 date: 02-08-2022
----
+tags: [CognitiveBias]
+last_modified_at: 2023-12-08 12:09
+ [[Perception Problems]] Our brain adjusts the colours we see to stay the same based on different light.
 
-This is the idea that more stuff is better than small amounts of quality stuff. It's easy to run into this, especially when taking lots of [[Notes Should Be Atomic|small notes]] and setting up a [[Digital Garden]]
-
-It is better instead to focus on small areas or notes and work with the text.
-
-(This is almost a [[Meta Notes|meta note. ]]) 
-
+For example, a banana will always look yellow under harsh kitchen light or soft sunlight. Our brain filters out the change of colour temperature and keeps the yellow the same.

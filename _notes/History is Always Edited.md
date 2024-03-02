@@ -1,4 +1,11 @@
-# History is Always Edited
+---
+last_modified_at: 2023-12-08 12:10
+---
+---
+
+last_modified_at: 2023-12-08 12:09
+
+ed
 
 Because [[Everything is a Story]]everything is a story</a> and [[History is Written by the Winners]]history is written by the winners</a>, it is always edited and cut down, especially in the West which believes in a monolithic story. (In opposition to the [[Aztec View of History]]Aztec view</a> of history, for example.) We are always seeing an imperfect, edited version of events that happened.
 
@@ -17,6 +24,5 @@ Because [[Everything is a Story]]everything is a story</a> and [[History is Writ
 > </div>
 
 — Pete Ashton- <a href="http://peteashton.com/history-is-constantly-being-erased-and-thats-ok/" >History is constantly being "erased", and that's OK</a>
-
 
 — Pete Ashton- <a href="http://peteashton.com/history-is-constantly-being-erased-and-thats-ok/" >History is constantly being "erased", and that's OK</a>

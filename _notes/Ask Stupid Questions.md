@@ -2,6 +2,8 @@
 title: "Ask Stupid Questions"
 layout: note
 date: 02-09-2022
+last_modified_at: 2023-12-08 12:10
+
 ---
 
 As a way to learn more, Dan Luu advocates to ask stupid questions.
@@ -12,4 +14,3 @@ As a way to learn more, Dan Luu advocates to ask stupid questions.
 You have to overcome the social [[Fear of Failure]] and not be afraid to look stupid or get negative reactions. But the rewards are numerous. 
 
 [[Red Teaming]] could also be a way of shifting your mindset.
-

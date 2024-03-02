@@ -1,10 +1,17 @@
 ---
-title: "Open-Loops"
-layout: note
-date: 25-08-2022
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-We create open loops and it is psychologically satisfying to close them. This is the language of getting things done.
+title: "Open-Loops"
+
+layout: note
+
+date: 25-08-2022
+
+last_modified_at: 2023-12-08 12:09
+
+ it is psychologically satisfying to close them. This is the language of getting things done.
 
 Gestalt psychology argues there are open loops from childhood, needs that we never addressed that we are trying to close.
 

@@ -1,10 +1,17 @@
 ---
-title: "Editing is writing"
-layout: note
-date: 16-08-2022
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-I've long since thought that putting words down on page in a [[First Draft]] is the only writing that really counts and the rest is fluff. But [[Editing A Poem]] is as much of a discipline as writing a poem from scratch.  It is where you find the best [[Poetic Forms]] for your piece, where you interrogate the work and find out what you want to say. 
+title: "Editing is writing"
+
+layout: note
+
+date: 16-08-2022
+
+last_modified_at: 2023-12-08 12:09
+
+e in a [[First Draft]] is the only writing that really counts and the rest is fluff. But [[Editing A Poem]] is as much of a discipline as writing a poem from scratch.  It is where you find the best [[Poetic Forms]] for your piece, where you interrogate the work and find out what you want to say. 
 
 We [[learn by repetition]] so by rewriting and editing the same piece we can clarify our thinking. 
 

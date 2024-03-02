@@ -1,10 +1,18 @@
 ---
-title: "Neil Gaiman"
-layout: note
-date: 22-06-2023
-permalink:
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-#source 
+title: "Neil Gaiman"
 
-Author of fantasy novels. *The Sandman* is his crowning achievement in my opinion
+layout: note
+
+date: 22-06-2023
+
+permalink:
+
+tags: [source]
+
+last_modified_at: 2023-12-08 12:09
+
+ing achievement in my opinion

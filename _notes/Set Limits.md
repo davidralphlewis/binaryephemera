@@ -1,14 +1,22 @@
 ---
-title: "Set Limits"
-layout: note
-date: 04-11-2022
-permalink:
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-There's too much to do at any one time, too much to research, to watch, to listen to, to enjoy. 
+title: "Set Your Environment Up for Success"
 
-Accept [[Any Decision Eliminates Others]] and narrow down ypur focus. Set limits on what you will do, [[Slow Down]] and   [[Choose What is Important]]. 
+layout: note
 
-For to do lists for example, try keeping it to [[Three projects only]]. 
+date: 20-06-2023
 
-This is explored in [[Four Thousand Weeks-Oliver Burkeman]]
+permalink:
+
+last_modified_at: 2023-12-08 12:09
+
+ [[Tidy Your Space]]. Right now. 
+
+Your environment doesn't reflect your success. Instead, it shapes it. If you live in a tidier house you will be more focused. If you have things immediately at hand, like floor, you are more likely to use them. 
+
+In this way, the spaces you occupy the most should reflect the person you want to be. 
+
+Remember, [[Surfaces arent Storage]]! 

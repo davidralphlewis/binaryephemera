@@ -7,6 +7,10 @@ permalink: /books24
 1. [[The Priory of the Orange Tree - Samantha Shannon]]
 2. [[Shy - Max Porter]]
 3. [[Babel ‐ R. F. Kuang]]
-4. The Beauty of the Husband - Anne Carson
-5. Our Mother's Bones - scarlet fay
-6. What If? - Randall Munroe
+4. *The Sad Ghosts Club*- Lize Meddings
+5. *The Beauty of the Husband* - Anne Carson
+6. *Our Mother's Bones* - Scarlet Fay
+7. *What If?* - Randall Munroe
+8. *Antartica* - Claire Keegan
+9. *Dunce* ‐ Mary Ruefle
+10. [[Infinite Ground- Martin MacInnes]]

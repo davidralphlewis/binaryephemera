@@ -1,11 +1,14 @@
 ---
-title: "Monthly Review"
-layout: note
-date: 02-09-2022
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-Similar to the [[Weekly Review]], this is a review of what I have been doing, interrogating it and then setting goals and projects for the next month. 
+title: "Morning Pages"
 
-Unlike a [[Weekly Review]] which tends to focus on the immediate tasks that need to be done, I tend to look more at the big picture each month. I look at what projects I’m doing, what I would like to get done by the ned of the month, what I’m giving my attention to.  It takes a bit longer because of this but it pays back in more focused attention for the month.
+layout: note
 
-Here are some useful [[Monthly%20review%20questions]].
+date: 18-08-2022
+
+last_modified_at: 2023-12-08 12:09
+
+r book *The Artists Way*. You write three pages in a notebook, longhand, every morning. It's meant to clear out your mind, a form of a [[brain dump]]. I've never got on with it personally, but I know some people swear by it. I prefer to [[Journaling]] and use a [[Writers Notebook]] for intermittent notes for the rest of the day.

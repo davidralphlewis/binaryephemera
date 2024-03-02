@@ -3,8 +3,9 @@ title: "Zettlekasten"
 layout: note
 date: 30-08-2022
 
----
+last_modified_at: 2023-12-08 12:10
 
+---
 
 Invented by Nicholas Lumen, this is a knowledge management system that has gained popularity in recent years due to *How to Take Smart Notes* (which I haven't read.)
 

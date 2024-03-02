@@ -1,9 +1,17 @@
 ---
-title: "Poetry Resources"
-layout: note
-date: 05-08-2022
+last_modified_at: 2023-12-08 12:10
 ---
-Here's a list of things that have helped me with poetry (as opposed to more general [[Writing-Resources]] or [[Publishing Resources]].
+---
+
+title: "Poetry Resources"
+
+layout: note
+
+date: 05-08-2022
+
+last_modified_at: 2023-12-08 12:09
+
+y (as opposed to more general [[Writing-Resources]] or [[Publishing Resources]].
 
 -   The <a href="https://www.nationalpoetrylibrary.org.uk/" >National Poetry Library</a> offers free ebook access if you are in the UK. Just email them and give them proof.
 -   Loud Poets have a really excellent series called <a href="https://www.iamloud.co/rtf" >Return to Form</a> to help with[[Poetic Forms]]

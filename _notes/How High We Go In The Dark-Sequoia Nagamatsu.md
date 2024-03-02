@@ -1,13 +1,22 @@
 ---
-title: "How High We Go In The Dark-Sequoia Nagamatsu"
-layout: note
-date: 21-02-2023
-permalink: /howhigh-sn
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-#BookNotes 
+title: "Humour-Stanley Donward"
 
-Linked series of stories set after a global pandemic ravages the earth. All the stories have a mournful, melancholy tone as the characters attempt to grapple with the huge amount of loss. Death becomes a central part of society, with funeral houses collecting money. 
+layout: note
 
-I would have liked to have seen more of a variation in protagonist and tine, but the ideas and the way it links together are fascinating. 
+date: 16-08-2022
 
+permalink: /humour-sd
+
+tags: [BookNotes]
+
+last_modified_at: 2023-12-08 12:09
+
+ stories/ prose poems. I first read Stanley Donwood when I was doing my playwriting masters twelve years ago. Reading him again, it's amazing how much I have been influenced by these singular stories and how much I have tried to emulate them in my own work.
+
+-   Collection of short stories/ [[Prose Poem]] that have the vividness and strangeness of nightmares. (A great example of [[Writing From the Subconscious]].)
+-   All present tense and first person, giving an uneasiness to the odd situations.
+-   Sometimes darkly funny, sometimes despairing.

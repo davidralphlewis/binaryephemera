@@ -1,11 +1,19 @@
 ---
-title: "Ways to fill the page"
-layout: note
-date: 21-04-2023
-permalink:
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-Here are some ways to spend time in a [[Writers Notebook]]. 
+title: "Ways to fill the page"
+
+layout: note
+
+date: 21-04-2023
+
+permalink:
+
+last_modified_at: 2023-12-08 12:09
+
+end time in a [[Writers Notebook]]. 
 
 ## Observation
 

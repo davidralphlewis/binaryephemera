@@ -1,12 +1,22 @@
 ---
-title: "Books Read 2022"
-layout: note
-feed: hide
-date: 29-07-2022
-permalink: /books2022
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-1.  *How to Do Nothing*- Jenny Odell
+title: "Books Read 2022"
+
+layout: note
+
+feed: hide
+
+date: 29-07-2022
+
+permalink: /books2022
+
+last_modified_at: 2023-12-08 12:09
+
+ Jenny Odell
+
 2.  [[Gideon the Ninth-Tamsyn Muir]] 
 3.  *[[Humour-Stanley Donwood]]*
 4.  *The Bible II* - Sam J. Grudgings
@@ -20,7 +30,7 @@ permalink: /books2022
 12. *A Handful of Blue Earth*- Venus Khory-Ghata translated by Marilyn Hacker
 13. *The Vanishing Half*- Brit Bennett
 14. *The City We Became*- N.K. Jemisin
-15. *The Sandman: Endless Nights*- [[Neil Gaiman]], Dave McKean, P. Craig Russell, Milo Manara, Miguelanxo Prado, Barron Storey, Bill Sienkiewicz, Glenn Fabry, Frank Quitely
+15. *The Sandman: Endless Nights*- [[Neil Gaiman]], [[Dave McKean]], P. Craig Russell, Milo Manara, Miguelanxo Prado, Barron Storey, Bill Sienkiewicz, Glenn Fabry, Frank Quitely
 16. *The Marketplace of Ideas*- Stefan Mohamed
 17. *[[Convenience Store Woman- Sayaka Murata]]*
 18. *Swamp Thing: The Root of All Evil*- Mark Millar, Grant Morrison, Phil Hester, Kim DeMulder and Tatjana Wood
@@ -31,7 +41,7 @@ permalink: /books2022
 23. *Mort* - [[Terry Pratchett]]
 24. *Eve* - Una
 25.  [[Atomic Habits-James Clear]]
-26. *Violent Cases*- [[Neil Gaiman]] & Dave McKean
+26. *Violent Cases*- [[Neil Gaiman]] & [[Dave McKean]]
 27. *Earthworks*- Stuart Carswell
 28. *The Sandman: Seasons of Mists*- [[Neil Gaiman]] (re-read) 
 29. *Paper Girls: Volume 1*- Brian K. Vaughan, Cliff Chiang, Matt Wilson (re-read) 
@@ -59,4 +69,3 @@ permalink: /books2022
 51. [[Make Time-Jake Knapp and John Zeratsky]]
 52. *Radical Normalisation*- Celia A Sohaindo
 53. *Viaducts and River Views*-Barry Hollow
-

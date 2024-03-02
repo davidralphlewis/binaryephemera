@@ -1,10 +1,17 @@
 ---
-title: "How to learn video"
-layout: note
-date: 16-08-2022
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-Notes takes from <a href="https://www.youtube.com/watch?v=Z2N5a7XZWg8" >this video</a> by [Mattias Pilhede](https://www.youtube.com/c/MattiasPilhede)
+title: "How to learn video"
+
+layout: note
+
+date: 16-08-2022
+
+last_modified_at: 2023-12-08 12:09
+
+h?v=Z2N5a7XZWg8" >this video</a> by [Mattias Pilhede](https://www.youtube.com/c/MattiasPilhede)
 
 -   To avoid procrasination, [[Just Start]].
     -   Learning is a stress in the brain so you avoid it.

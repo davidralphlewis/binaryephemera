@@ -1,16 +1,20 @@
 ---
-title: "brain dump"
-layout: note
-date: 02-08-2022
-permalink: /brain-dump
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-Sit down with a [[Writers Notebook]]. [[Write to a Timer]] for 5 or 10 minutes and put down anything that comes to mind. 
+title: "Burning Haibun"
 
-Unlike [[Free Writing]], the aim is to add anything that comes to mind. So to dos and rqndom thoughts all get jotted down. 
+layout: note
 
-The aim is to remove them from your head and keep them externally, so you can stop thinking about them and start analysis or processing each one. 
+date: 11-10-2022
 
-Its a fundamental part of[[Getting Things Done]] and is very useful in a [[Weekly Review]]. 
+permalink:
 
-It's a good way to [[Avoid Overstimulation]]. 
+last_modified_at: 2023-12-08 12:09
+
+Poetic Forms]] where a [[Prose Poem]] full of visual imagery is condensed down twice, first intobr3
+
+[[Erasure Poetry]], then transformed into a [[haiku]]. 
+
+It was invented by torrin a. greathouse. You can read the original poem [here. ](https://www.frontierpoetry.com/2017/06/16/poetry-burning-haibun-torrin-greathouse/) 

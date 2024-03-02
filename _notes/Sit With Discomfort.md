@@ -1,16 +1,12 @@
 ---
-title: "Sit With Discomfort"
+title: "slams"
 layout: note
-date: 20-10-2022
-permalink:
----
+date: 27-08-2022
+last_modified_at: 2023-12-08 12:09
+pen Mics]] as you have a lot of performers who have a limited time to perform. But unlike [[open mics]], they are competitive.
 
-Instead of turning away from discomfort, the best way to deal with it is to sit with it. You have to embrace unpleasantness head on in order to deal with it fully, not lying to yourself about how difficult or nasty something might be. 
+In a standard slam, you have three minutes to perform. If you go over, you lose points. Judges then give you a score out of 10, and the poets with the highest score go through to the next round and perform again. There can be many rounds or just one.
 
-This is what [[Meditating]] teaches us, to sit in the boredom.  
+Judges may be invited or may be people chosen at random from the audience.
 
-Oliver Burkman talks about this in relation to distraction:
-
-> The most effective way to sap distraction of its power is just to stop expecting things to be otherwise – to accept that this unpleasantness is simply what it feels like for finite humans to commit ourselves to the kinds of demanding and valuable tasks that force us to confront our limited control over how our lives unfold.
-> [[Four Thousand Weeks-Oliver Burkeman]]
-
+Slams are fun, energetic and loud. I've only just started to dip my toe in the water. There's an assumption that you need to do a poem about your trauma to win, but in my experience this isn't the case. Slams are as varied as the performers.

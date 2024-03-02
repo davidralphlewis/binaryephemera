@@ -1,14 +1,20 @@
 ---
-title: "Not Writing Guilt"
-layout: note
-date: 24-08-2022
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-It's easy to beat yourself up about not writing enough. You see others churning out novels while you struggle to find time to write a paragraph. As well as [[Writers Block]], you may be putting too much pressure on yourself.
+title: "Notes Should Be Atomic"
 
-It's part of [[Imposter Syndrome]]. Everyone goes through it. There's no right way to write, you don't have to be [[Writing Every Day]] or hit a word count to be a 'proper' writer.
+layout: note
 
-Remind yourself that [[Art is Play]] and it can be fun.
+date: 24-08-2022
 
--   I wrote a blog post about this <a href="https://www.davidralphlewis.co.uk/not-writing-enough/" >here</a>
-- Tim Clare has an excellent podcast about this. <a href="https://soundcloud.com/timclare/s3e26-5-rules-for-better-mental-health-hygiene-writing-ramble/likes" >Find it here.</a>
+last_modified_at: 2023-12-08 12:09
+
+r to long rambling ones. You need to quickly encapsulate a concept and easily refer back to it. Short notes act as nodes in a hyperlinked web of thought ([[Network Better Than Linear]]).
+
+A note captures the essential parts of an idea. If an idea develops, it should be added to a new note. This is one of the guiding principles of the [[Zettlekasten]] system.
+
+It's important to avoid [[Collectors Fallacy]].
+
+This is a [[Meta Notes]].

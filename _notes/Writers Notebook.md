@@ -1,16 +1,6 @@
 ---
-title: "Writers Notebook"
+title: "Writing is Thinking"
 layout: note
-date: 30-08-2022
-permalink:
----
-
-I've carried a notebook with me for years. It's a place to make observations, have fun ([[Art is Play]]), experiment with language, doodle and dream.
-
-I keep it with me at all times to capture ideas. It's full of to do lists and practical things like that, but it's also full of observations about the world around me, specific people and things I may not have noticed. It's a way of reminding myself to [[Be Present]] and observe the world.
-
-I used to be very specific about which notebooks I would use- fancy Moleskines or leuchtturm1917's. But I have since decided the brand of notebook doesn’t matter ([[Tools Dont Matter]]), but keeping it on you so you can make observations or jot down a couple of lines matters more. It's reducing friction between you and the habit, allowing you to [[Just Start]] Now I use cheap ones, which helps psychologically as I don't mind messing them up.
-
--   Lydia Davies has a whole section dedicated to close observation in notebooks in her essay <a href="https://lithub.com/lydia-davis-ten-of-my-recommendations-for-good-writing-habits/" >Ten of My Recommendations for Good Writing Habits</a>:
-
-> A productive feedback loop is established: Through the habit of taking notes, you will inevitably come to observe more; observing more, you will have more to note down.
+date: 17-09-2022
+last_modified_at: 2023-12-08 12:09
+ways a translation of thoughts]], the act of writing is a form of thinking. In my creative practice, I do a lot of [[Writing From the Subconscious]] so I'm never quite sure what I actually think about a subject until I start writing it down. Writing becomes an act of [[Embodied Cognition]], an extension of our selves and our mind  into the world. 

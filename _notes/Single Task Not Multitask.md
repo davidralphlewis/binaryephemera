@@ -1,12 +1,21 @@
 ---
-title: "Single Task Not Multitask"
-layout: note
-date: 28-08-2022
-permalink:
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-Multitasking doesn't exist. People who think they are good at multitasking usually aren't. The brain switches context rapidly, focusing on single tasks before switching to another.
+title: "Small Changes Add Up"
 
-A better way to work is to single task. When you work on something, focus only on that. Maybe[[Write to a Timer]] or use the [[Pomodoro]] system. Look at [[Ways to Focus]].
+layout: note
 
-It's not to say you can't have multiple projects, but rather when it comes time to sit down and work you focus only on one task at a time.
+date: 05-12-2022
+
+permalink:
+
+last_modified_at: 2023-12-08 12:09
+
+t feel like they have much impact. It's easy to run for 1 minute but it won't necessarily make you fitter. 
+
+These small changes accumulate and turn the trajectory upwards. They may also encourage you to turn the curve upwards.
+
+> Wish those ultramarathoners the best, then ignore them. Go small and go every day—or as close to every day as possible.
+> - [[Make Time-Jake Knapp and John Zeratsky]]

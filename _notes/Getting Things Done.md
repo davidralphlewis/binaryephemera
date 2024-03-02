@@ -3,6 +3,8 @@ title: "Getting Things Done"
 layout: note
 date: 15-08-2022
 permalink: /gtd
+last_modified_at: 2023-12-08 12:09
+
 ---
 
 *Getting Things Done* is a book by David Allen that has achieved a certain level of cult status among productivity gurus. It's easy to explain but hard to implement.
@@ -14,7 +16,7 @@ permalink: /gtd
 5.  Keep a someday/maybe list
 6.  Run a [[Weekly Review]] regularly.
 
-(I haven’t actually read it but have digested numerous summaries.) 
+(I haven't actually read it but have digested numerous summaries.) 
 
 This is fine by itself. Writing every task down in a [[brain dump]] helps clear your mind, and is a good example of the [[Extended Mind]] theory. Checking on them regularly is also a good idea. I do both all the time.
 

@@ -1,45 +1,22 @@
 ---
-title: "Red Sky Session 3"
-layout: note
-date: 28-08-2022
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-## Collaboration with Adam Kammerling.
+title: "Relay Poem Exercise" 
 
--   A challenge
--   Cross pollination of ideas
--   Break out of practice
--   Serve each other's art
--   Anything is possible
--   It's good to be bad at something
+layout: note
 
-## Hollistic practice
+date: 29-07-2022
 
-Take inspiration from other places
+permalink: /relay-poems
 
-## Challenge your default voices
+tags: [WritingExercise]
 
-For example the poetry voice, your unconscious groove. Ways of making that come easily, can lead to stagnation. Collaborations breaks us out of it.
+last_modified_at: 2023-12-08 12:09
 
-## Stop us talking. Requires us to listen and be quiet, still.
+ to a Timer|timer]] of 5 minutes. Write a short poem, maybe from [[Prompts]]. Then take a word or image from that. Write another poem in 5 minutes. Then repeat again, with a word or image from the second poem.
 
--   What tone or mood and feeling are they giving off?
--   Can you work against it? Should you?
--   Do you give space? Do you talk more or less?
--   Rhythmic Delivery?
--   Should there even be words?
--   Do you echo or transpose it into your own words?
--   What grabs you?
--   Is there change?
+In this way you build up a linked sequence of poems very quickly, [[Writing From the Subconscious]]. 
 
-## Improves curiosity and inspiration.
-
-## Being vulnerable and responsive.
-
-## Can unlock new ways of performance.
-
-## Exercise: Collaborate with pictures. ([[Ekphrastic Writing]])
-
-What feeling are you getting?
-
-## Exercise: Describe images in cinematic shots
+I stole this exercise from Inua Ellam's sublime book *The Actual*, where each poem is linked to the previous one.

@@ -3,6 +3,8 @@ title: "Don't Focus on Marketing"
 layout: note
 date: 09-08-2022
 permalink: /no-marketing
+last_modified_at: 2023-12-08 12:10
+
 ---
 
 When you start [[Blogging]] you will find hundreds of articles that say how to optimise SEO or reach the widest audience. Ignore them.

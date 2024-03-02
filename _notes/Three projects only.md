@@ -1,12 +1,16 @@
 ---
-title: "Three projects only"
-layout: note
-date: 04-11-2022
-permalink:
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-Stop yourself getting overwhelmed by limit the amount of things you focus at any one point.[[Set Limits]]. 
+title: "Time as an editor"
 
-In a [[Weekly Review]], choose what is most important to you then limit it to only three projects or three tasks. This allows you to [[Slow Down]], stops you getting overwhelmed with what you have to do and is a [[Ways to Focus]].
+layout: note
 
-I first encountered this idea in [[Four Thousand Weeks-Oliver Burkeman]]
+date: 09-08-2022
+
+last_modified_at: 2023-12-08 12:09
+
+, put it in a drawer for a little bit so you can look at it objectively. You will lose the initial love of it, see what works and what doesn't.
+
+I started writing in [[Writers Notebook]] then leaving them aside for a few months before [[Editing A Poem|editing]] and typing up. I've found it is more useful and I write better poems.

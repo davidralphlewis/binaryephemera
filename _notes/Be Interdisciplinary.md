@@ -1,10 +1,16 @@
 ---
-title: "Be Interdisciplinary"
-layout: note
-date: 02-08-2022
-permalink:
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-Whatever your chosen field, it is good to read outside of your subject area to bring in new ideas.
+title: "Be Interdisciplinary"
 
-[[Read Widely]], including things that challenge you.  Use different schemes and templates from other disciplines. 
+layout: note
+
+date: 02-08-2022
+
+permalink:
+
+last_modified_at: 2023-12-08 12:09
+
+es and templates from other disciplines. 

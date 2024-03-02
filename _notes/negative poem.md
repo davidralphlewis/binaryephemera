@@ -1,11 +1,16 @@
 ---
-title: "negative poem"
-layout: note
-date: 31-07-2022
-permalink: /negativepoem
+last_modified_at: 2023-12-08 12:10
 ---
-#WritingExercise 
+---
 
-An [[Editing A Poem]]/ [[Writing Exercises]] from John McCullough. Take a poem you've written and try to write the opposite of it, like a photographic negative.
+title: "Negativity Bias"
 
-It's hard to do, as you may encounter words that have no direct opposite. What is the opposite of leaves for example? Or dreams?
+layout: note
+
+date: 22-08-2022
+
+last_modified_at: 2023-12-08 12:09
+
+ on negative things than positive ones. For example, ask for feedback from ten people and one person is negative, you will focus more on that person's feedback, even if all the other nine people are positive.
+
+It's another one of our[[Perception Problems]].

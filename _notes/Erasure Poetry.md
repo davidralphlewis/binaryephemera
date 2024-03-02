@@ -1,11 +1,11 @@
 ---
-title: "Erasure Poetry"
+title: Erasure Poetry
 layout: note
 date: 09-08-2022
----
-
-
-Take a text and remove most of it to create something new. Also known as blackout poems.
+last_modified_at: 2023-12-08 12:09
+tags:
+  - Poeticform
+ost of it to create something new. Also known as blackout poems.
 
 I've been making erasure poetry since 2016 on my <a href="https://www.instagram.com/davidralphlewis" >Instagram.</a> [[Austin Kleon]] inspired me at first with his newspaper poems.
 

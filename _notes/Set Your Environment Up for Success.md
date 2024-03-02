@@ -1,14 +1,10 @@
 ---
-title: "Set Your Environment Up for Success"
+title: "Share Your Work"
 layout: note
-date: 20-06-2023
-permalink:
----
+date: 28-08-2022
+last_modified_at: 2023-12-08 12:09
+leon]]'s *Show Your Work!* It was the reason I started [[Blogging]] initially and had an impact on why I eventually created this [[Digital Garden]].
 
-This is a message to me: [[Tidy Your Space]]. Right now. 
+The book is a manual for being visible in a digital age. Social media requires constant updating and you don't necessarily want to share your finished work, especially when magazines and publishers usually want first rights to it. So share your notes, your drafts, what's interesting to you etc.
 
-Your environment doesn't reflect your success. Instead, it shapes it. If you live in a tidier house you will be more focused. If you have things immediately at hand, like floor, you are more likely to use them. 
-
-In this way, the spaces you occupy the most should reflect the person you want to be. 
-
-Remember, [[Surfaces arent Storage]]! 
+It's a way of being able to [[Learn in Public]].

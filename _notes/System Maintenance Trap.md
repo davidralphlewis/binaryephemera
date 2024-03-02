@@ -1,9 +1,20 @@
 ---
-title: "System Maintenance Trap"
-layout: note
-date: 28-08-2022
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-When working with task management or with [[Getting Things Done]] there can be a temptation to spend your time endlessly messing around to find the perfect system. Maintaining your to do list instead of actually beginning to [[Just Start]].
+title: "Systemic Solutions Are Essential"
 
-[[Emacs]] is especially bad for this as it is endlessly customisable.
+layout: note
+
+date: 09-12-2022
+
+permalink:
+
+last_modified_at: 2023-12-08 12:09
+
+You need to change the whole society or the system around you to make lasting change. 
+
+Look at the civil rights movements throughout the twentieth century and today, and the struggle for the vote from marginalised groups. In these cases, working on the self would have got people nowhere. Instead, they need to come together and demand the system to change. 
+
+[[Leaders Fear Systemic Change]], even though it is essential. [[Systemic Change is Difficult]] but [[Difficult Things are Worth Doing]].

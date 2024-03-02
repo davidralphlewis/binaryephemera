@@ -1,18 +1,11 @@
 ---
-title: "This One Sky Day-Leone Ross"
+title: "Three projects only"
 layout: note
-date: 17-08-2022
-permalink: /This-One-Sky-Day
----
+date: 04-11-2022
+permalink:
+last_modified_at: 2023-12-08 12:09
+erwhelmed by limit the amount of things you focus at any one point.[[Set Limits]]. 
 
-#BookNotes 
+In a [[Weekly Review]], choose what is most important to you then limit it to only three projects or three tasks. This allows you to [[Slow Down]], stops you getting overwhelmed with what you have to do and is a [[Ways to Focus]].
 
-Such a magical, funny and tender book dealing with the residents of Popisho, who all have cors, a type of magic innate to their being. It follows several different people throughout the book over one day as their lives intertwine and disaster looms. It’s often surreal with some incredible images, such as a black and white beach or someone plucking butterflies out of the air and eating them. But it’s always grounded in the emotions of the characters, whether it’s conflicting grief or desire. Beautifully written in a Caribbean dialect, this is a stunning book. 
-
-## [[5 things to steal]]
-
-* Magic being part of every day life and accepted as normality.
-* Impending disaster linked to seismic changes in the characters.
-* Critique of corruption and abuses of power.
-* Characters with conflicting desires, making them more human and more rounded.
-* Creating own internal logic of story and asking audience to catch up.
+I first encountered this idea in [[Four Thousand Weeks-Oliver Burkeman]]

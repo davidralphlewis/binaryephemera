@@ -1,16 +1,22 @@
 ---
-title: "Pareidolia"
-layout: note
-date: 27-08-2022
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
+title: "Pareidolia"
 
+layout: note
 
-Pareidolia is similar to [[Apophenia]], where the human brain makes connections between unrelated things. However, pareidolia is more concerned with random visual input.
+date: 27-08-2022
+
+last_modified_at: 2023-12-08 12:09
+
+n brain makes connections between unrelated things. However, pareidolia is more concerned with random visual input.
 
 It's why we see faces in random rock faces and bits of toast. Even this, which is just lines:
 
      -   -
+
        |
      -----
 

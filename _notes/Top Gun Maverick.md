@@ -1,10 +1,17 @@
 ---
-title: "Top Gun Maverick"
-layout: note
-date: 28-08-2022
+last_modified_at: 2023-12-08 12:10
+---
 ---
 
-## [[5 things to steal]]5 Things to Steal</a>
+title: "Top Gun Maverick"
+
+layout: note
+
+date: 28-08-2022
+
+last_modified_at: 2023-12-08 12:09
+
+5 Things to Steal</a>
 
 1.  Tension and genuine danger. Unsure who will survive.
 2.  Archetypes but written sincerely. Predictable character arcs will go but played well.

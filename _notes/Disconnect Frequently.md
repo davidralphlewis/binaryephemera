@@ -2,6 +2,8 @@
 title: "Disconnect Frequently"
 layout: note
 date: 18-08-2022
+last_modified_at: 2023-12-08 12:10
+
 ---
 
 In order to [[Be Present]] and [[Avoid Overstimulation]], it is necessary to log off social media frequently. Social media is a distraction tool, I have lost hours mindlessly scrolling.
