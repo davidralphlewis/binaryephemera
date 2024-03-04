@@ -44,6 +44,6 @@ Writers love writing about writing and I'm no different. It does mean that there
 
 ## Resources
 
--   [[Writing-Resources]] 
+-   [[Writing Resources]] 
 -   [[Poetry Resources]] 
 -   [[Publishing Resources]]

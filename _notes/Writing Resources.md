@@ -1,8 +1,8 @@
 ---
-title: "Writing-Resources"
+title: Writing Resources
 layout: note
 date: 30-08-2022
-permalink:
+permalink: 
 last_modified_at: 2023-12-14 12:07
 ---
 
@@ -16,5 +16,5 @@ Also see [[Poetry Resources]] and [[Publishing Resources]].
 ## Books
 
 -   Obligatory mention to Stephen King's *On Writing.* It's very clear and practical.
--   *Wonderbook* by [[Notes Site/Jeff Vandermeer]] is an excellent resource for unlocking imagination and applying it to story.
+-   *Wonderbook* by [[Jeff Vandermeer]] is an excellent resource for unlocking imagination and applying it to story.
 -   *The Blank Screen* by William Gallagher is very useful.

@@ -11,3 +11,5 @@ permalink: /films24
 4. The Creator (B-)
 5. The Holdovers (A)
 6. I Want You Back (B)
+7. Barbie (B+)
+8. 
