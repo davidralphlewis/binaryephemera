@@ -9,6 +9,7 @@ last_modified_at: 2023-11-27 11:18
 ## Life
 
 - Planning holidays
+- Clearing the dead twigs in the garden as Spring is on our lips.
 
 ## Working on
 

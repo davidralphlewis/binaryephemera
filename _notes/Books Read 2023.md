@@ -43,5 +43,5 @@ See also [[Books Read 2021]], [[Books Read 2022]], [[Books Read 2024]]
 34. *Wyrd Sisters* - Terry Pratchett
 35. *Venemous Lumpsucker* - Ned Beauman
 36. *Wintering* - Katherine May
-37. [[Yellowface-R. F. Kuang]]
+37. [[Notes Site/Yellowface-R. F. Kuang]]
 38. *You Have No Normal Country to Return To* - Tom Sastry
