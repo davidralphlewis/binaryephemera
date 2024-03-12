@@ -9,7 +9,7 @@ last_modified_at: 2023-11-27 11:18
 ## Life
 
 - Planning holidays
-- Clearing the dead twigs in the garden as Spring is on our lips.
+- Gardening
 
 ## Working on
 
@@ -19,8 +19,7 @@ last_modified_at: 2023-11-27 11:18
 - Looking into making zines
 ## Reading
 
-- *Chapters* - Tim Key
-- *The Employees: A Workplace Novel of the 22nd Century* - Olga Ravn
+- *Pyramids*- Terry Prattchet
 
 Here's everything I've read this year- [[Books Read 2024]]
 ### Previous Years:

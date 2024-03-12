@@ -1,7 +1,7 @@
 ---
-title: "Films Watched 2024"
+title: Films Watched 2024
 layout: note
-date: 02-01-2023
+date: 2024-01-20
 permalink: /films24
 ---
 
@@ -12,4 +12,3 @@ permalink: /films24
 5. The Holdovers (A)
 6. I Want You Back (B)
 7. Barbie (B+)
-8. 
