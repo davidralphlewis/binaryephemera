@@ -9,17 +9,15 @@ last_modified_at: 2023-11-27 11:18
 ## Life
 
 - Planning holidays
-- Gardening
+- Reviving the garden after neglect over the winter. Laying down mulch, growing microgreens.
 
 ## Working on
 
 - Photo a day to get me back into photography.
 - Planning Dungeons and Dragons campaign. 
-- Project Dust. Working on incorporating feedback, re-editing some parts. 
+- Project Dust.  Done a full rebuild and credit after Libre Office chewed up my last draft. End is in sight now.
 - Looking into making zines
 ## Reading
-
-- *Pyramids*- Terry Prattchet
 
 Here's everything I've read this year- [[Books Read 2024]]
 ### Previous Years:

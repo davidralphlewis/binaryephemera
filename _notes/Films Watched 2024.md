@@ -12,3 +12,7 @@ permalink: /films24
 5. The Holdovers (A)
 6. I Want You Back (B)
 7. Barbie (B+)
+8. Who Killed the KLF? (B)
+9. American Fiction (B+)
+10. The Taste of Things (A+)
+11. Sideways (A)

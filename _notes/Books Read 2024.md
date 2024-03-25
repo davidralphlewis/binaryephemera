@@ -16,4 +16,7 @@ permalink: /books24
 10. [[Infinite Ground- Martin MacInnes]]
 11. *Chapters* - Tim Key
 12. [[The Employees A Workplace Novel of the 22nd Century- Olga Ravn]]
-1
+13. *Pyramids* - Terry Pratchett
+14. *The Treekeeper's Tale* - Pascal Petit
+15. *The World We Make* - N. K. Jemisen
+

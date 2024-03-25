@@ -1,8 +1,9 @@
 ---
-title: "The Five Senses"
+title: The Five Senses
 layout: note
 date: 28-08-2022
 permalink:
+tags: [WritingExercise]
 ---
 
 #WritingExercise

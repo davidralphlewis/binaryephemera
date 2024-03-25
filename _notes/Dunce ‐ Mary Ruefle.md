@@ -3,8 +3,8 @@ title: Dunce ‐ Mary Ruefle
 layout: note
 date: 2024-03-12
 permalink:
+tags: [BookNotes]
 ---
-#BookNotes 
 
 author: [[Mary Ruefle]]
 
