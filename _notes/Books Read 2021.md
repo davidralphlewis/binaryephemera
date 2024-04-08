@@ -65,7 +65,7 @@ Here's all the books I read in 2021:
 56. *The Sandman Vol. 1: Preludes & Nocturnes*- [[Neil Gaiman]], Sam Kieth, Mike Dringenberg & Malcolm Jones III (re-read)
 57. *The Sandman: The Doll's House*- [[Neil Gaiman]], Mike Dringenberg, Malcolm Jones III, Chris Bachalo, Michael Zulli & Steve Parkhouse (re-read)
 58. *Running Upon the Wires*- Kae Tempest
-59. *Slapstick*- Kurt Vonnegut
+59. *Slapstick*- [[Kurt Vonnegut]]
 60. *White Teeth* - Zadie Smith
 61. *Fontanelle*- Helen Shepherd
 62. *Other Minds: The Octopus and the Evolution of Intelligent Life*- Peter Godfrey-Smith

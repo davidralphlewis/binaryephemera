@@ -8,8 +8,7 @@ permalink:
 ---
 #Poeticform 
 
-A
- five line poem with a specific syllable count:
+A five line poem with a specific syllable count:
 
 1- 2 syllables
 2- 4 syllables

@@ -19,7 +19,7 @@ I've also added in questions I found from [[Struthless]]:
 
 I might ask myself some [[Questions for Self Reflection]] in order to prompt a response. If I'm feeling lazy I might do [[54321 journalling]] instead. Recently, I've started keeping a [[Bullet journal]].
 
-I've also found keeping a [[haiku]] journal useful to develop my poetic craft and also observe small moments. 
+I've also found keeping a [[haiku]] journal useful to develop my poetic craft and also observe small moments. [[Tiny observations]] is good for this, as is the writing exercise of [[Write a Detailed Observation]].
 
 > I love the diary because it knows itself to be a minor form; it isn’t trying to be anything but. It isn’t constructed, like a memoir; it is life as it happens.
 > - <a href="https://granta.com/notes-on-craft-elkin/" >Notes on craft-- Lauren Elkin</a>

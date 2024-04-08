@@ -1,7 +1,7 @@
 ---
-title: "Now"
+title: Now
 layout: default
-date: 29-07-2022
+date: 2024-04-08
 permalink: /now
 last_modified_at: 2023-11-27 11:18
 ---
@@ -9,14 +9,14 @@ last_modified_at: 2023-11-27 11:18
 ## Life
 
 - Planning holidays
-- Reviving the garden after neglect over the winter. Laying down mulch, growing microgreens.
+- Looking for a new car after my ancient Micra finally gave up the ghost.
+- Reviving the garden after neglect over the winter. Laying down mulch, planting herbs and sowing peas and beetroot.
 
 ## Working on
 
 - Photo a day to get me back into photography.
 - Planning Dungeons and Dragons campaign. 
 - Project Dust.  Done a full rebuild and credit after Libre Office chewed up my last draft. End is in sight now.
-- Looking into making zines
 ## Reading
 
 Here's everything I've read this year- [[Books Read 2024]]
