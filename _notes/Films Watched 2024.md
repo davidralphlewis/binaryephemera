@@ -18,5 +18,5 @@ permalink: /films24
 11. [[Sideways]] (A)
 12. Dune Part II (A)
 13. Next Goal Wins (B-)
-14. Phantom Thread (A-)
-15. 
+14. [[Phantom Thread]] (A-)
+15. Pride and Prejudice (2005) (B)

@@ -16,7 +16,7 @@ last_modified_at: 2023-11-27 11:18
 
 - Photo a day to get me back into photography.
 - Planning Dungeons and Dragons campaign. 
-- Project Dust.  Done a full rebuild and credit after Libre Office chewed up my last draft. End is in sight now.
+- Project Dust.  Done a full rebuild after Libre Office chewed up my last draft. End is in sight now.
 ## Reading
 
 Here's everything I've read this year- [[Books Read 2024]]
@@ -28,7 +28,7 @@ Here's everything I've read this year- [[Books Read 2024]]
 
 ## Watching
 
-- *The Bear* Season 2
+
 
 Here's all the films I've watched this year: [[Films Watched 2024]]
 
