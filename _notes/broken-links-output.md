@@ -82,7 +82,7 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[PUBLISHED Dawn Chorus]] in [[Lies and Fictions/Poetry drafts/2023 poetry]]
 - [[PUBLISHED Fever]] in [[Lies and Fictions/Poetry drafts/2023 poetry]]
 - [[These evenings fade haiku2]] in [[Lies and Fictions/Poetry drafts/2023 poetry]]
-- [[Monthly%20review%20questions]] in [[Mister-Wonderful--Daniel-Clowes]], [[Private/broken links output]]
+- [[Monthly%20review%20questions]] in [[Mister-Wonderful-Daniel-Clowes]], [[Private/broken links output]]
 - [[file:Poetry Submissions.org::#2022][Submit x 50]] in [[Ongoing/Inactive projects]]
 - [[Mort-Terry Pratchett]] in [[Private/broken links output]]
 - [[Eve-Una]] in [[Private/broken links output]]

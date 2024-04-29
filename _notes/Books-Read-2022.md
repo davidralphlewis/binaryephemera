@@ -51,7 +51,7 @@ permalink: /books2022
 43. [[Uncreative-Writing-Kenneth-Goldsmith]]
 44. [[Keep-Going-Austin-Kleon]]
 45. [[The-Brain-Dead-Megaphone-George-Saunders]]
-46. [[Mister-Wonderful--Daniel-Clowes]]
+46. [[Mister-Wonderful-Daniel-Clowes]]
 47. [[Ness-Robert-Macfarlane-and-Stanley-Donwood]]
 48. [[The Roles we Play-Sabba Khan]]
 49. *The Sonnets*- [[William-Shakespeare]]
