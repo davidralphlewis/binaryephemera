@@ -1,10 +1,10 @@
 ---
-title: "Creative Rout
+title: "Creative Routine"
 layout: note
 date: 2022-08-09
 ---
 
-You dont have to be [[Writing-Every-Day]], but having a regular creative routine helps you to create more. It also helps with [[Writers-Block]] as it puts less pressure on you to create something great.
+You don't have to be [[Writing-Every-Day]], but having a regular creative routine helps you to create more. It also helps with [[Writers-Block]] as it puts less pressure on you to create something great.
 
 [[Mailika-Booker]] described it as having a ritual you can return to.
 
