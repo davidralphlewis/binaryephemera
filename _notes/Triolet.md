@@ -1,10 +1,10 @@
 ---
 title: "Triolet"
 layout: note
-date: 28-08-2022
+date: 2022-08-22
 ---
 
-#Poeticform 
+#[[Poeticform]] 
 
 An eight line stanza with two rhymes throughout the whole poem. The first line is repeated in the forth and seventh line and the second line is the same as the last.
 

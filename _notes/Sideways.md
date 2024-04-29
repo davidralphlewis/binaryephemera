@@ -7,5 +7,5 @@ tags:
   - films
 ---
 
-Film by [[Alexander Payne]], mostly about wine but actually about depression, and how you shake yourself out of it. 
+Film by [[Alexander-Payne]], mostly about wine but actually about depression, and how you shake yourself out of it. 
 

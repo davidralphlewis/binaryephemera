@@ -1,14 +1,12 @@
 ---
 title: "Autotelic"
 layout: note
-date: 02-08-2022
-last_modified_at: 2023-12-08 12:10
-
+date: 2022-08-02
 ---
 
 Doing something just for the sake of it.
 
-Making art works better when you aren't seeking external validation. It becomes more like [[Art is Play| play.]]
+Making art works better when you aren't seeking external validation. It becomes more like [[Art-is-Play| play.]]
 
 > I feel that the most intrinsically rewarding types of activities are "autotelic" activities
 >
@@ -16,4 +14,4 @@ Making art works better when you aren't seeking external validation. It becomes 
 > – Eric Kim, <a href="https://petapixel.com/2016/04/12/photography-photographys-sake/" >Petapixel</a>
 
 >... a good fiddler enjoys fiddling for its own sake, and that it is all the same to him whether he plays at a yokel's wedding or a merchant's funeral.
-> [[Lud-in-the-Mist- Hope Mirrlees]]- Hope Mirelees
+> [[Lud-in-the-Mist-Hope-Mirrlees]]- Hope Mirelees

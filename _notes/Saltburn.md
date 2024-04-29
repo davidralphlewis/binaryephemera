@@ -1,12 +1,13 @@
 ---
 title: Saltburn
 layout: note
-date: 22-01-2024
+date: 2024-01-22
 permalink:
 tags: [films]
 last_modified_at: 2024-01-22 01:19
 ---
  
+[[film]]
 
 Over the top, grotesque depiction of upper class life. Rich are callous and uncaring and use people like toys. 
 

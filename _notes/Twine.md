@@ -1,11 +1,10 @@
 ---
-title: "Twist a Cliché"
+title: "Twine"
 layout: note
-date: 01-08-2022
-permalink: /twist-a-cliche
-tags: [WritingExercise]
-last_modified_at: 2023-12-08 12:09
-in a way.
+date: 2022-08-22
+permalink:
+---
 
--   This is a useful [[Writing Exercises|writing exercise]] that I first found in *Write Poetry And Get It Published* by Matthew Sweeney and John Hartley Williams.
--   This exercise was the start of <a href="https://www.davidralphlewis.co.uk/the-early-bird/" >this poem</a> I wrote.
+Twine is an open source piece of software used for making non linear interactive fiction. It's built on [[Tiddlywiki]].  
+
+I used to make this [https://www.davidralphlewis.co.uk/reality-adjustments/](weird poetry thing) called *Reality Adjustments.* I've found it quite easy to use.

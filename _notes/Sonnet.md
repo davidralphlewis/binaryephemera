@@ -3,7 +3,8 @@ title: "Sonnet"
 layout: note
 date: 28-08-2022
 ---
-#Poeticform 
+
+[[Poeticform]] 
 
 A famous poetic form. There's many different variations, but typically in English it is fourteen lines of iambic pentameter. They tend to be devotional love poems but aren't necessarily. They tend to have a turn (or volta to be fancy) in the last four lines.
 
