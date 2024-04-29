@@ -8,14 +8,16 @@ permalink: /now
 ## Life
 
 - Planning holidays
-- Looking for a new car after my ancient Micra finally gave up the ghost.
+- Got a car! Phew
 - Reviving the garden after neglect over the winter. Laying down mulch, planting herbs and sowing peas and beetroot.
 
 ## Working on
 
 - Photo a day to get me back into photography.
-- Planning Dungeons and Dragons campaign. 
+- Planning Dungeons and Dragons campaign.
+- Fixing my notes, refracting and clarifying.
 - Project Dust.  Done a full rebuild after Libre Office chewed up my last draft. End is in sight now.
+
 ## Reading
 
 Here's everything I've read this year- [[Books-Read-2024]]
@@ -26,8 +28,6 @@ Here's everything I've read this year- [[Books-Read-2024]]
 - [[Books-Read-2021]] 
 
 ## Watching
-
-
 
 Here's all the films I've watched this year: [[Films-Watched-2024]]
 

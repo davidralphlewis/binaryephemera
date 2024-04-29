@@ -19,5 +19,7 @@ permalink: /books24
 13. *Pyramids* - Terry Pratchett
 14. *The Treekeeper's Tale* - Pascal Petit
 15. *The World We Make* - N. K. Jemisen
+16. Demon Copperhead- Barbara Kingsolver
+17. Spin- Laurie Eaves
 
 
