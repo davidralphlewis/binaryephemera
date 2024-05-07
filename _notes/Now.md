@@ -8,7 +8,7 @@ permalink: /now
 ## Life
 
 - Planning holidays
-- Got a car! Phew
+- Got a car! Phew.
 - Reviving the garden after neglect over the winter. Laying down mulch, planting herbs and sowing peas and beetroot.
 
 ## Working on
@@ -16,9 +16,12 @@ permalink: /now
 - Photo a day to get me back into photography.
 - Planning Dungeons and Dragons campaign.
 - Fixing my notes, refracting and clarifying.
-- Project Dust.  Done a full rebuild after Libre Office chewed up my last draft. End is in sight now.
+- Project Dust.  Back cover needs designing then I can send to print
 
 ## Reading
+
+- *The Gospel According to Blindboy*- [[Blindboy-Boatclub]]
+- *The Artist's Way* - Julia Cameron
 
 Here's everything I've read this year- [[Books-Read-2024]]
 ### Previous Years:

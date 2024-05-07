@@ -4,6 +4,7 @@ layout: note
 date: 2022-07-29
 permalink: /films2022
 ---
+[[films-watched]]
 
 1.  Remains of the Day (A+)
 2.  Ready Player One (D-)

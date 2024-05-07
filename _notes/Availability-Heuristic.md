@@ -1,10 +1,12 @@
 ---
 title: "Availability Heuristic"
 layout: note
-date: 31-07-2022
+date: 2022-07-31
 permalink: /availabilityheuristic
 tags: [CognitiveBias]
 ---
+
+[[Cognitive-Bias]]
 
 We are scared of things we are most aware of. For example, we are more scared of sharks because of *Jaws* and other shark films, whereas the actual risk is very low indeed.
 

@@ -5,6 +5,8 @@ date: 2023-01-09
 permalink: /films23
 ---
 
+[[films-watched]]
+
 1. Turning Red (B+)
 2. Akira (B+)
 3. Dungeons and Dragons: Honor Amongst Thieves (B) 

@@ -5,6 +5,8 @@ date: 2024-01-20
 permalink: /films24
 ---
 
+[[films-watched]]
+
 1. [[Saltburn]] (B)
 2. [[Late-Night]] (C+)
 3. [[Poor Things]] (A-)
@@ -21,3 +23,4 @@ permalink: /films24
 14. [[Phantom-Thread]] (A)
 15. Pride and Prejudice (2005) (B)
 16. Dead Poets Society (A)
+17. Frontline Folklore (B)

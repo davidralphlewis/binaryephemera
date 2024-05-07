@@ -4,7 +4,7 @@ layout: note
 date: 2022-08-09
 ---
 
-This is a cognitive bias where those who are unskilled rate their ability much higher than it actually is. They lack the skill to rate their skill and unable to recognise ineptitude.
+This is a [[Cognitive-Bias]] where those who are unskilled rate their ability much higher than it actually is. They lack the skill to rate their skill and unable to recognise ineptitude.
 
 It's not understanding the depth or complexity of an area. You don't know what you don't know, to put it in Rumsfeldian speak.
 
