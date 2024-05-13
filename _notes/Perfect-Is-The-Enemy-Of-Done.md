@@ -7,4 +7,6 @@ permalink:
 
 Don't try to make creative work perfect because it will never be finished. Use the [[70-percent-rule]] to ensure you're mostly happy with it, then finish the work and move onto something else.
 
+Remember [[Perfection-Doesn't-Exist]].
+
 [[Put Yourself Out There]] and move onto the next project

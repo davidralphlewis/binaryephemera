@@ -19,4 +19,4 @@ Accept [[Any-Decision-Eliminates-Others]] and narrow down ypur focus. Set limits
 
 For to do lists for example, try keeping it to [[Three-projects-only]]. 
 
-This is explored in [[Four-Thousand-Weeks-Oliver-Burkeman]]
+This is explored in [[Four-Thousand-Weeks]]

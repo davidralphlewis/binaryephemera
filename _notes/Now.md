@@ -7,7 +7,7 @@ permalink: /now
 
 ## Life
 
-- Planning holidays
+- Planning holidays to Lisbon and Greece
 - Got a car! Phew.
 - Reviving the garden after neglect over the winter. Laying down mulch, planting herbs and sowing peas and beetroot.
 

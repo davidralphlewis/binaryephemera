@@ -4,7 +4,7 @@ layout: note
 date: 2022-08-18
 ---
 
-Make notes while you  are reading in the margin. This was sacrilegious to me at first but soon it helped me analyse poetry and highlight lines I liked.
+Make notes while you  are reading in the margin. This was sacrilegious to me at first but soon it helped me analyse [[poetry]] and highlight lines I liked.
 
 It's turns reading from an passive process into [[Active-Reading]].
 

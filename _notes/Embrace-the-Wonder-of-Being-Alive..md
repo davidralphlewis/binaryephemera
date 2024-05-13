@@ -11,4 +11,4 @@ There's an almost infinite chain of coincidence and chance that has lead to you 
 > ...if you can hold your attention, however briefly or occasionally, on the sheer astonishingness of being, and on what a small amount of that being you get – you may experience a palpable shift in how it feels to be here, right now, alive in the flow of time.
 > ...
 > Or to put it another way, why treat four thousand weeks as a very small number, because it's so tiny compared with infinity, rather than treating it as a huge number, because it's so many more weeks than if you had never been born?
-> --[[Four-Thousand-Weeks-Oliver-Burkeman]]
+> --[[Four-Thousand-Weeks]]

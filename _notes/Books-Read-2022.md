@@ -44,12 +44,12 @@ permalink: /books2022
 36. *War of the Foxes*- Richard Siken
 37. *Tales of Earthsea* - Ursula K. LeGuin
 38. *Use of Weapons*- Iain M. Banks
-39. [[Four-Thousand-Weeks-Oliver-Burkeman]]
+39. [[Four-Thousand-Weeks]]- [[Oliver-Burkeman]]
 40. [[The Teleportation Accident- Ned Beauman]]
 41. [[Lud-in-the-Mist-Hope-Mirrlees]]
 42. [[Good Listeners-Pascal Vine]]
 43. [[Uncreative-Writing-Kenneth-Goldsmith]]
-44. [[Keep-Going-Austin-Kleon]]
+44. [[Keep-Going]] - [[Austin-Kleon]]
 45. [[The-Brain-Dead-Megaphone-George-Saunders]]
 46. [[Mister-Wonderful-Daniel-Clowes]]
 47. [[Ness-Robert-Macfarlane-and-Stanley-Donwood]]

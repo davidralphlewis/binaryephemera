@@ -11,4 +11,4 @@ It's the same with making a piece of art. The perfect novel exists in your head.
 
 
 > We fail to see, or refuse to accept, that any attempt to bring our ideas into concrete reality must inevitably fall short of our dreams, no matter how brilliantly we succeed in carrying things off – because reality, unlike fantasy, is a realm in which we don’t have limitless control, and can’t possibly hope to meet our perfectionist standards.
-> [[Four-Thousand-Weeks-Oliver-Burkeman]]
+> [[Four-Thousand-Weeks]]

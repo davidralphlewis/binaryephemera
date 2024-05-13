@@ -1,36 +1,29 @@
 ---
-last_modified_at: 2023-12-08 12:10
----
----
-
 title: "Red Sky Session 2"
-
 layout: note
-
-date: 28-08-2022
-
-permalink:
+date: 2022-08-22
+---
 
 tags: [[[WritingWorkshop]]]
 
-last_modified_at: 2023-12-08 12:09
-
-No 2 with [[Jacob-Samuel-Rose]].
+[[Red-Sky-Session]] No 2 with [[Jacob-Samuel-Rose]] on [[Poetic-Forms]]
 
 ## What is Form?
 
-- [[Poetic-Forms]] are rulesets that have been designed and codified over the years
-- Rhythmic patterning and metre- works differently in other languages 
+- [[Poetic-Forms are rulesets that have been refined over years]] that have been designed and codified over the years
+- Rhythmic patterning and metre
 - Stanza length and line length
+[[poetic Form works differently in other languages]]
+- 
 
-## Form Does not Equal Structure
+## [[Poetic Form Does not Equal Structure]]
 
 -   Structure is the way a poem's thinking moves
 -   Eg. A turn is a shift in trajectory.
 
 ## Form Can Open Things up by Constraint.
 
-- A way to use [[Constrained-Writing]] to free your imagination.
+- A way to use [[Constrained-Writing]] to free your imagination. [
 
 ## Form Can Be a Layer of Meaning.
 

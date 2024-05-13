@@ -10,4 +10,4 @@ Because [[Our-Lives-Are-Brief]] and [[You-Will-Die]], it's important to [[Acknow
 The actual choosing is hard, but essential.
 
 > You have to choose a few things, sacrifice everything else, and deal with the inevitable sense of loss that results.
-> [[Four-Thousand-Weeks-Oliver-Burkeman]]
+> [[Four-Thousand-Weeks]]

@@ -42,7 +42,7 @@ Here's all the books I read in 2021:
 33. *The Colour of Magic* - [[Terry-Pratchett]]
 34. *How to Wash a Heart* - Bhanu Kapil
 35. *Dogtooth* - Fran Lock
-36. *[[The-Actual-Inua-Ellams]]* 
+36. *[[The-Actual]]* 
 37. *Rebecca* - Daphne du Maurier
 38. *Death Magazine* - Matthew Haigh
 39. *Reckless Paper Birds* - John McCullough
