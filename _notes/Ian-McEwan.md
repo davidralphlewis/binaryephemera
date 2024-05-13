@@ -8,4 +8,4 @@ date: 2024-04-29
 permalink:
 ---
 
-[[Author]] of well-regarded but slightly pretensions literary novels.
+[[author]] of well-regarded but slightly pretensions literary novels.

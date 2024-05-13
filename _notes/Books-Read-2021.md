@@ -46,7 +46,7 @@ Here's all the books I read in 2021:
 37. *Rebecca* - Daphne du Maurier
 38. *Death Magazine* - Matthew Haigh
 39. *Reckless Paper Birds* - John McCullough
-40. *[[No-one-is-Talking-About-This]]- [[Patricia Lockwood]]
+40. *[[No-one-is-Talking-About-This]]- [[Patricia-Lockwood]]
 41. *How to be a Poet* - Jo Bell, Jane Commane
 42. *A Portable Paradise*- Roger Robinson
 43. *Reckless Paper Birds* - John McCullough

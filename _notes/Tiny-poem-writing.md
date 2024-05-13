@@ -5,7 +5,7 @@ date: 2024-03-25
 permalink:
 ---
 
-Inspired by [[Tiny prep]]
+Inspired by [[Tiny-Prep]]
 
 Roll a d6 and do one of the following. Time limit 5 mins
 

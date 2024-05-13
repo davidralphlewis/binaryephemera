@@ -10,7 +10,7 @@ date: 28-08-2022
 
 ## Page and stage is a false dichotomy
 
-- Poetry like most thing is not binary, it’s a spectrum between page and stage. ([[Binaries-are-bullshit]])
+- [[poetry]] like most thing is not binary, it’s a spectrum between page and stage. ([[Binaries-are-bullshit]])
 - The most extreme version of page is concrete poetry. 
 - The most extreme version of voice is sound poetry.
 

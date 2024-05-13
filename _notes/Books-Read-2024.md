@@ -18,7 +18,7 @@ permalink: /books24
 12. [[The-Employees-A-Workplace-Novel-of-the-22nd-Century--Olga-Ravn]]
 13. *Pyramids* - [[Terry-Pratchett]]
 14. *The Treekeeper's Tale* - Pascal Petit
-15. *The World We Make* - [[N K Jemisen]]
+15. *The World We Make* - [[N-K-Jemisen]]
 16. [[Demon Copperhead]]- [[Barbara Kingsolver]]
 17. Spin- Laurie Eaves
 

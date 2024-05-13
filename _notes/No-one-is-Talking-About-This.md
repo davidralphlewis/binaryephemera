@@ -5,7 +5,7 @@ date: 2022-08-23
 permalink: /noone-is-talking-pl
 ---
 
-[[BookNotes]] author: [[Patricia Lockwood]]
+[[BookNotes]] author: [[Patricia-Lockwood]]
 
 -   Surreal and funny stream of consciousness reflecting the disjointed and strange nature of social media in the middle of [[Context-Collapse]].
 

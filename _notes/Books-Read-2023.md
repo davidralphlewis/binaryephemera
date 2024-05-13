@@ -4,25 +4,26 @@ layout: note
 date: 2023-01-23
 permalink: /books23
 ---
+
 See also [[Books-Read-2021]], [[Books-Read-2022]], [[Books-Read-2024]]
 
 1. [[How-High-We-Go-In-The-Dark-Sequoia-Nagamatsu]]
 2. [[Coward-Tim-Clare]]
 3. [[Mexican-Gothic-Silvia-Moreno-Garcia]]
-4. The Fifth Season - [[N K Jemisen]] (Book 1 of[[The-Broken-Earth-Trilogy]]) 
+4. The Fifth Season - [[[[N-K-Jemisen]]]] (Book 1 of[[The-Broken-Earth-Trilogy]]) 
 5. *Rain*- Don Paterson
 6. [[If-all-the-world-and-love-were-young-Stephen-Sexton]]
-7. [[Illuminations-Alan Moore]]
-8. *The Obelix Gate*- [[N K Jemisen]] (Book 2 of [[The-Broken-Earth-Trilogy]])
+7. *Illuminations* - [[Alan-Moore]]
+8. *The Obelix Gate*- [[N-K-Jemisen]] (Book 2 of [[The-Broken-Earth-Trilogy]])
 9. *Your Emergency Contact Has Experienced An Emergency* - Chen Chen
-10. [[I-Who-Have-Never-Known-Men-Jacqueline-Harpman]]
+10. [[I-Who-Have-Never-Known-Men]]
 11. [[Bless the Daughter Raised by a Voice in Her Head- Warsan Shire]]
 12. [[Anxious People- Fredrik Backman]] (translated by Neil Smith) 
 13. [[This is How You Lose the Time War- Amal El-Mohtar & Max Gladstone]]
 14. *Deep Wheel Orcadia*- Harry Josephine Giles
 14. *Hello world*- Hannah fry
 15. *On Mutability*- Jo Shapcott
-16. *The Stone Sky*-  [[N K Jemisen]] (Book 3 of [[The-Broken-Earth-Trilogy]])
+16. *The Stone Sky*-  [[N-K-Jemisen]] (Book 3 of [[The-Broken-Earth-Trilogy]])
 17. *Steal Like an Artist*- Austin Kleon
 18. *M Train*- Patti Smith
 19. *Faulty Manufacturing* - Josie Alford

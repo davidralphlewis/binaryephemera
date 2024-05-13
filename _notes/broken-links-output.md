@@ -1,5 +1,5 @@
 Don't forget that creating the file from here may create the file in the wrong directory!
-- [[Tiny prep]] in [[00 Inbox/Basic Tiny prep]], [[00 Inbox/Dungeon Tiny Prep]], [[00 Inbox/Item template]], [[00 Inbox/Location template]], [[00 Inbox/Room template]], [[Dungeons and Dragons/Mystery Tiny Prep]], [[Tiny-observations]], [[Tiny-poem-writing]]
+- [[Tiny-Prep]] in [[Basic-Tiny-prep]], [[Dungeon Tiny Prep 1]], [[Item template]], [[Location template]], [[Room template]], [[Dungeons and Dragons/Mystery Tiny Prep]], [[Tiny-observations]], [[Tiny-poem-writing]]
 - [[Riven Shield Shop]] in [[00 Inbox/The Grinning Lion]]
 - [[Jeff Vandermeer 1]] in [[Blog posts/2016-07-04-always-more-to-learn-thoughts-on-wonderbook]], [[Blog posts/2019-01-15-annihilation]]
 - [[/2022-march-input/]] in [[Blog posts/2022-05-05-April-2022-input]], [[Private/broken links output]]
@@ -104,5 +104,5 @@ Don't forget that creating the file from here may create the file in the wrong d
 - [[Specific-Detail]] in [[Private/broken links output]]
 - [[show-dont-tell]] in [[Private/broken links output]]
 - [[_posts/2022-05-05-April-2022-input]] in [[Private/broken links output]]
-- [[Tiny Prep]] in [[Random-prompts-d6]]
+- [[Tiny-Prep]] in [[Random-prompts-d6]]
 - [[Olga Ravn]] in [[The-Employees-A-Workplace-Novel-of-the-22nd-Century--Olga-Ravn]]

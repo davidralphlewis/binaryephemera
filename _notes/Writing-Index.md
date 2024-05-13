@@ -25,7 +25,7 @@ Writers love writing about writing and I'm no different. It does mean that there
 
 -   [[Blogging]]
 -   [[Sending-Your-Work-Out]]
--   [[Performing-Poetry]]
+-   [[perform-your-poetry]]
 
 ## Creative Habits & Attitudes
 

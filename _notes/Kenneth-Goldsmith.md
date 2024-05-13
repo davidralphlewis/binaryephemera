@@ -5,4 +5,4 @@ date: 2024-04-26
 permalink:
 ---
 
-[[Author]] of [[Uncreative-Writing-Kenneth-Goldsmith]]
+[[author]] of [[Uncreative-Writing-Kenneth-Goldsmith]]

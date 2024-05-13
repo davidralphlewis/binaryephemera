@@ -9,4 +9,4 @@ date: 15-01-2024
 permalink:
 ---
 
-[[Author]] of weird fiction, most famously *Annihilation*
+[[author]] of weird fiction, most famously *Annihilation*

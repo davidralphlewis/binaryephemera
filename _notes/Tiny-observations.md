@@ -5,7 +5,7 @@ date: 2024-03-25
 permalink:
 ---
 
-Inspired by [[Tiny prep]]
+Inspired by [[Tiny-Prep]]
 
 Roll a d6 then do one the following. Can be as short or as long as you like
 

@@ -5,7 +5,7 @@ date: 2024-03-25
 permalink:
 ---
 
-Inspired by [[Tiny Prep]], use this table to pick a subject to write about
+Inspired by [[Tiny-Prep]], use this table to pick a subject to write about
 
 1. A memory
 2. What you can currently sense

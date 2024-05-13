@@ -5,7 +5,7 @@ date: 2023-05-18
 permalink:
 ---
 
-#[[BookNotes]]  [[N K Jemisen]]
+#[[BookNotes]]  [[N-K-Jemisen]]
 
 An incredible speculative fiction trilogy of books dealing with  a group of people who can control seismic events. 
 

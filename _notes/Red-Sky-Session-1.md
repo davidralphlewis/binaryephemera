@@ -19,7 +19,7 @@ Notes from the first [[Red-Sky-Sessions]] run by [[Apples-and-Snakes]], a free s
 ## [[Reading-is-Writing]]
 
 -   [[set-reading-goals]].
--   Read as many poetry books as possible
+-   Read as many [[poetry]] books as possible
 -   [[Read-a-poetry-book-in-depth-each-month]]- underline and [[Make-Marginalia]].
 -   Why do you like certain poems?
 -   What are they doing?

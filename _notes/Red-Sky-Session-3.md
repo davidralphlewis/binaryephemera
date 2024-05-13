@@ -15,7 +15,7 @@ date: 28-08-2022
 Take inspiration from other places ([[Be-Interdisciplinary]])
 
 ## Challenge your default voices
-For example the poetry voice, your unconscious groove. Ways of making that come easily, can lead to stagnation. Collaborations breaks us out of it.
+For example the [[poetry]] voice, your unconscious groove. Ways of making that come easily, can lead to stagnation. Collaborations breaks us out of it.
 
 ## Stop us talking. Requires us to listen and be quiet, still.
 -   What tone or mood and feeling are they giving off?

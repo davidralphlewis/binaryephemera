@@ -14,7 +14,7 @@ This is an antidote to productivity books that promise ways to do more with less
 
 - [[You-Will-Die]] and [[Our-Lives-Are-Brief]].
 - [[Be-Present]] and [[Slow-Down]]. Instead of rushing through everything, [[Let Tasks Take the Time They Take]]
-- [[Choose-What-is-Important]] and eliminate everything else. Remember [[Any-Decision-Eliminates-Others]] so you need to narrow down what to focus on. [[Set-Limits]]. 
+- [[Choose-What-is-Important]] and eliminate everything else. Remember [[Any-Decision-Eliminates-Others]] so you need to narrow down what to focus on. [[set-limits-on-what-you-do]]. 
 - [[Attention-is-Everything]]. Try to maintain it but remember [[Distraction-is-Inevitable]].
 - [[Sit-With-Discomfort]] to make it easier to bear. Acknowledge what is difficult and [[Acknowledge-Your-Limitations]]
 - [[There-Will-Always-Be-a-Gap-Between-Dreams-and-Reality]]

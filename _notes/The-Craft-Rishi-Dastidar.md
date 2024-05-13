@@ -7,7 +7,7 @@ permalink: //thecraft-rd
 
 [[BookNotes]] 
 
-A how to guide for writing poetry, full of insightful essays from a variety of poets
+A how to guide for writing [[poetry]], full of insightful essays from a variety of poets
 
 ## Key ideas
 

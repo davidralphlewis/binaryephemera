@@ -17,7 +17,7 @@ I've also added in questions I found from [[Struthless]]:
 
 (It's worth checking out his videos, especially <a href="https://youtu.be/dArgOrm98Bk" >this one</a> which highlights some of the reasons and ways to approach journaling)
 
-I might ask myself some [[Questions-for-Self-Reflection]] in order to prompt a response. If I'm feeling lazy I might do [[54321-journalling]] instead. Recently, I've started keeping a [[Bullet-journal]].
+I might ask myself some [[Questions-for-Self-Reflection]] in order to prompt a response. If I'm feeling lazy I might do [[54321-journaling]] instead. Recently, I've started keeping a [[Bullet-journal]].
 
 I've also found keeping a [[Haiku-Journal]] useful to develop my poetic craft and also observe small moments. [[Tiny-observations]] is good for this, as is the writing exercise of [[Write-a-Detailed-Observation]].
 

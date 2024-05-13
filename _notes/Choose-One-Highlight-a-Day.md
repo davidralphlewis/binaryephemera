@@ -7,7 +7,7 @@ permalink:
 
 This idea is from [[Make-Time-Jake-Knapp-and-John-Zeratsky]]. In order to avoid overwhelm, choose one main thing to focus on a day, then avoid distractions to do it. They suggest you only need 60 - 90 minutes to drill down on the piece of work.
 
-The idea is by only doing this one thing, you [[Set-Limits]] on what you can realistically do and you [[Acknowledge-Your-Limitations]].  But you also set time aside for [[Creative Flow]]. 
+The idea is by only doing this one thing, you [[set-limits-on-what-you-do]] on what you can realistically do and you [[Acknowledge-Your-Limitations]].  But you also set time aside for [[Creative Flow]]. 
 
 [[Small-Changes-Add-Up]]. Instead of scattering your attention on one thing, you are focusing your attention on one single thing. 
 
