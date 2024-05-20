@@ -4,7 +4,7 @@ layout: note
 date: 30-08-2022
 ---
 
-#[[Poeticform]] 
+#[[Poetic-form]] 
 
 A poem which only uses one vowel. So words need to only have one of *a, e, i, o, u* and sometimes *y.* A form of [[Constrained-Writing]]
 

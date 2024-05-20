@@ -21,5 +21,7 @@ permalink: /books24
 15. *The World We Make* - [[N-K-Jemisen]]
 16. [[Demon Copperhead]]- [[Barbara Kingsolver]]
 17. Spin- Laurie Eaves
+18. *The Gospel According to Blindboy*- [[Blindboy-Boatclub]]
+19. *Prophet Song*- Paul Lynch
 
 

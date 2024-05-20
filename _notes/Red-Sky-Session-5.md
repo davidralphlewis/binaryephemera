@@ -4,7 +4,7 @@ layout: note
 date: 28-08-2022
 ---
 
-#[[WritingWorkshop]] 
+#[[Writing-Workshop]] 
 
 # Voice and performance.
 

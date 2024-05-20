@@ -16,8 +16,8 @@ permalink: /rebeccathantony-workshop
 -   Everyone has the same [[writing%20fears]]fears</a> and limitations. All feel it and write anyway
 -   [[Free-Writing]]Free write</a> if from subconscious.
     -   Take lines or images from free writes.
--   [[Poetic-Forms]] - space is as much the poem as the words.
--   [[Poetic-Forms]] reflect meaning
+-   [[Poetic-form]] - space is as much the poem as the words.
+-   [[Poetic-form]] reflect meaning
 -   Line break changes narrative
 -   End on an image on a line, avoid connectives at the end of the line
 -   stanzas, change in character, scene, emotion,

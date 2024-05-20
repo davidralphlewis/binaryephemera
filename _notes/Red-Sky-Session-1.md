@@ -4,7 +4,7 @@ layout: note
 date: 28-08-2022
 ---
 
-[[WritingWorkshop]] run by [[Apples-and-Snakes]]
+[[Writing-Workshop]] run by [[Apples-and-Snakes]]
 
 # Red Sky Session 1- [[Mailika-Booker]]
 

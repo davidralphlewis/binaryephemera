@@ -20,7 +20,7 @@ permalink: /now
 
 ## Reading
 
-- *The Gospel According to Blindboy*- [[Blindboy-Boatclub]]
+- *The Bullet Journal Method*- [[ryd]]
 - *The Artist's Way* - Julia Cameron
 
 Here's everything I've read this year- [[Books-Read-2024]]

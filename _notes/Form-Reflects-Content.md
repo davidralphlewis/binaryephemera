@@ -1,7 +1,7 @@
 ---
 title: "Form Reflects Content"
 layout: note
-date: 20-10-2022
+date: 2022-10-20
 permalink:
 ---
 

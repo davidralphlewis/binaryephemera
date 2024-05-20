@@ -4,7 +4,7 @@ layout: note
 date: 2022-08-02
 ---
 
-[[Poeticform]]
+[[Poetic-form]]
 
 Take a magazine, newspaper or other text and erase most of it to create something new. Also known as blackout poems.
 

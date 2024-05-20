@@ -24,3 +24,4 @@ permalink: /films24
 15. Pride and Prejudice (2005) (B)
 16. Dead Poets Society (A)
 17. Frontline Folklore (B)
+18. Where the Crawdads Sing (C-)

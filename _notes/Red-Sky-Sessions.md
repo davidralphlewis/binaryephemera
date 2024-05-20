@@ -4,7 +4,7 @@ layout: note
 date: 2022-08-22
 ---
 
-A series of [[WritingWorkshop]]s run by [[Apples-and-Snakes]]. These are my personal notes from each session and more about what I took away from them.
+A series of [[Writing-Workshop]]s run by [[Apples-and-Snakes]]. These are my personal notes from each session and more about what I took away from them.
 
 ## Round 1 - March to April 2021
 

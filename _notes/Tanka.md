@@ -4,7 +4,7 @@ layout: note
 date: 2022-08-22
 ---
 
-[[Poeticform]] 
+[[Poetic-form]] 
 
 A short Japanese, similar to a [[notes-site/haiku]] and slightly longer. Tanka tend to be love [[poetry]] instead of a poem of nature.
 

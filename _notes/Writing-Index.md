@@ -36,7 +36,7 @@ Writers love writing about writing and I'm no different. It does mean that there
 
 ## Tools (Remember the [[Tools-Dont-Matter]])
 
--   [[Poetic-Forms]] 
+-   [[Poetic-form]]
 -   [[Writers-Notebook]]
 -   [[Plain-Text]]
 -   [[Emacs]]

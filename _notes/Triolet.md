@@ -4,7 +4,7 @@ layout: note
 date: 2022-08-22
 ---
 
-#[[Poeticform]] 
+#[[Poetic-form]] 
 
 An eight line stanza with two rhymes throughout the whole poem. The first line is repeated in the forth and seventh line and the second line is the same as the last.
 

@@ -4,7 +4,7 @@ layout: note
 date: 2022-08-02
 ---
 
-[[Poeticform]]
+[[Poetic-form]]
 
 The sestina is a poetic form of six stanzas of six lines of iambic pentameter, where the final words at the end of the line repeat in a specific order. It also has a final stanza (or envoy) where two of the words are used in the same line.
 

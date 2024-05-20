@@ -6,7 +6,7 @@ layout: note
 date: 2024-03-25
 permalink:
 ---
-#[[Poeticform]] 
+#[[Poetic-form]] 
 
 A five line poem with a specific syllable count:
 

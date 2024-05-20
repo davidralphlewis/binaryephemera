@@ -5,7 +5,7 @@ date: 2022-08-15
 permalink: /gtd
 ---
 
-*Getting Things Done* is a book by David Allen that has achieved a certain level of cult status among productivity gurus. It's easy to explain but hard to implement.
+*Getting Things Done* is a book by David Allen that has achieved a certain level of cult status among [[productivity]] gurus. It's easy to explain but hard to implement.
 
 1.  Write everything you need to get done into an inbox
 2.  Process your inbox regularly. If a task takes two minutes or less, do it. If not, move it to a context where it will be done later.

@@ -2,11 +2,12 @@
 title: "Red Sky Session 2"
 layout: note
 date: 2022-08-22
+Tag: [source]
 ---
 
 tags: [[[WritingWorkshop]]]
 
-[[Red-Sky-Session]] No 2 with [[Jacob-Samuel-Rose]] on [[Poetic-Forms]]
+[[Red-Sky-Session]] No 2 with [[Jacob-Samuel-Rose]] on [[Poetic-form]]
 
 ## What is Form?
 
@@ -48,4 +49,4 @@ tags: [[[WritingWorkshop]]]
 -   Rejection of traditional [[Sonnet]] form.
 -   Refuses to look away. Violence is not glamorised.
 
-## Rewrite Same Poem in Different Forms.
+## [[Rewrite-the-same-poem-in-different-forms]]

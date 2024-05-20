@@ -5,7 +5,7 @@ date: 2023-08-18
 permalink:
 ---
 
- [[Poeticform]]
+ [[Poetic-form]]
 
 A poetic form invented by [[Terrance-Hayes]], where the end of each line is a quote or line.
 

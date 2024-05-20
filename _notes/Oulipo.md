@@ -15,4 +15,4 @@ Here's a few techniques they used:
 
 ## Examples
 
--   Ross Sutherland's *[[Imaginary-Advice]]* features many examples of Oulipo constraints
+-   [[Ross-Sutherland]]'s *[[Imaginary-Advice]]* features many examples of Oulipo constraints

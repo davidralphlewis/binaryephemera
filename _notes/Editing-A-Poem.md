@@ -13,7 +13,7 @@ Also remember [[all-art-is-subjective]], [[Each-poem-Is-New]]. [[Focus-on-Proces
 -   [[Read-Writing-Aloud]] to hear the sound of it.
 -   Where does the poem surprise you? Make these accidents intentional. Build up to them or go in different directions.
 -   What is the imagery doing? Is it coherent? Is it mostly [[Concrete-or-abstract]]? Are you following [[Show-Dont-Tell]]? Should you?
--   Does the form reflect the content? Look at other [[Poetic-Forms]] to find one that might work. Can you build in rhyme or is the rhyme inappropriate?
+-   Does the form reflect the content? Look at another [[Poetic-form]] to find one that might work. Can you build in rhyme or is the rhyme inappropriate?
 -   Look at line breaks. What are they doing? Are they intentional?
 -   Remove clichés (or deliberately [[Twist-a-Cliché]])
 -   Remove joints of poem and common words.
