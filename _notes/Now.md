@@ -9,18 +9,18 @@ permalink: /now
 
 - Planning holidays to Lisbon and Greece
 - Got a car! Phew.
-- Reviving the garden after neglect over the winter. Laying down mulch, planting herbs and sowing peas and beetroot.
+- Lying in a hammock, watching the start of summer
 
 ## Working on
 
 - Photo a day to get me back into photography.
 - Planning Dungeons and Dragons campaign.
 - Fixing my notes, refracting and clarifying.
-- Project Dust.  Back cover needs designing then I can send to print
+- Project Dust. Ready to rock and roll.
 
 ## Reading
 
-- *The Bullet Journal Method*- [[ryd]]
+- [[The-bullet-journal-method]]- [[Ryder-Caroll]]
 - *The Artist's Way* - Julia Cameron
 
 Here's everything I've read this year- [[Books-Read-2024]]
@@ -42,5 +42,6 @@ Here's all the films I've watched this year: [[Films-Watched-2024]]
 ## Playing
 
 - *The Legend of Zelda: Tears of the Kingdom*
+- *Bioshock Remastered*
 
 *Part of the <a href="https://nownownow.com/about" >Now page</a> movement*
