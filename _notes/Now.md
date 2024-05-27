@@ -14,14 +14,14 @@ permalink: /now
 ## Working on
 
 - Photo a day to get me back into photography.
-- Planning Dungeons and Dragons campaign.
+- Planning [[Dungeons-and-Dragons]]
 - Fixing my notes, refracting and clarifying.
-- Project Dust. Ready to rock and roll.
+- Fiddling with my website once again, switching to eleventy.
 
 ## Reading
 
-- [[The-bullet-journal-method]]- [[Ryder-Caroll]]
 - *The Artist's Way* - Julia Cameron
+- *Fevered Sun*- Rebecca Roanhorse
 
 Here's everything I've read this year- [[Books-Read-2024]]
 ### Previous Years:

@@ -9,7 +9,7 @@ A series of [[Prose-Poem]]s set at the same house party. Each poem responds to a
 
 ## [[5-things-to-steal]]
 
-- Taking the concept of the [[After-poem]] to the extreme, where you have to read the [[sonnet]] before the prose poem.
+- Taking the concept of the [[After-poem]] to the extreme, where you have to read the [[Sonnet]] before the prose poem.
 - Be surreal and achingly emotionally vulnerable, often within the same poem.
 - An excellent example of [[Constrained-Writing]], where the limitations imposed on the collection expand its scope, not lessen it. 
 - Blurring the line between reality and conceit.

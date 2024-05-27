@@ -9,7 +9,7 @@ Oulipo was a group of French writers and mathematicians in the 1960's who worked
 Here's a few techniques they used:
 
 -   [[n7]]
--   [[notes-site/Lipogram]]
+-   [[Public/notes-site/Lipogram]]
 -   [[Snowball]]
 -   [[Prisoners-Constraint]]
 

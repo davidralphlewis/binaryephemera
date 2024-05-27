@@ -25,3 +25,4 @@ permalink: /films24
 16. Dead Poets Society (A)
 17. Frontline Folklore (B)
 18. Where the Crawdads Sing (C-)
+19. The Fall Guy (B+)

@@ -7,6 +7,6 @@ permalink:
 
 Handwriting is slow and more inconvenient than typing.  It takes longer and is more effort.
 
-This is a design feature, not a bug as it ensures you are being intentional. 
+This is a design feature, not a bug as it ensures you are being intentional. It helps you to [[think-on-paper-first]]
 
 [[Ryder-Caroll]] flags this as a benefit in [[The-bullet-journal-method]]
