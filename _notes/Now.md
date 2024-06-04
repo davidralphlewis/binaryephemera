@@ -7,8 +7,7 @@ permalink: /now
 
 ## Life
 
-- Planning holidays to Lisbon and Greece
-- Got a car! Phew.
+- Packing for holiday!
 - Lying in a hammock, watching the start of summer
 
 ## Working on
@@ -21,7 +20,7 @@ permalink: /now
 ## Reading
 
 - *The Artist's Way* - Julia Cameron
-- *Fevered Sun*- Rebecca Roanhorse
+- *Vechile*- Jen Calleja
 
 Here's everything I've read this year- [[Books-Read-2024]]
 ### Previous Years:
