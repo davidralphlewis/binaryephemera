@@ -25,5 +25,11 @@ permalink: /books24
 19. [[Prophet-Song]]- [[Paul-Lynch]]
 20. - [[The-bullet-journal-method]]- [[Ryder-Caroll]]
 21. *Fevered Sun*- Rebecca Roanhorse
+22.  *Orbital*- Samantha Harvey
+23. *The Memory Police*- Yoko Owkana
+24. *The Rachel Incident* - Caroline O'Donaghue 
+25. *Sea of Tranquility* - Emily St John Mantel
+26.  *Vehicle*- Jen Calleja
+
 
 

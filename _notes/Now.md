@@ -7,22 +7,23 @@ permalink: /now
 
 ## Life
 
-- Packing for holiday!
-- Lying in a hammock, watching the start of summer
+- Returning to life after time in Lisbon
+- Watching the dreich of summer
 
 ## Working on
 
 - Photo a day to get me back into photography.
-- Planning [[Dungeons-and-Dragons]]
 - Fixing my notes, refracting and clarifying.
 - Fiddling with my website once again, switching to eleventy.
+- Getting read to launch Project Dust
+- Started a project management apprenticeship at work
 
 ## Reading
 
 - *The Artist's Way* - Julia Cameron
-- *Vechile*- Jen Calleja
 
 Here's everything I've read this year- [[Books-Read-2024]]
+
 ### Previous Years:
 
 - [[Books-Read-2023]]
@@ -30,6 +31,9 @@ Here's everything I've read this year- [[Books-Read-2024]]
 - [[Books-Read-2021]] 
 
 ## Watching
+
+- *The Acolyte* - Season 1
+- *The Americans* - Season 1
 
 Here's all the films I've watched this year: [[Films-Watched-2024]]
 
@@ -42,5 +46,6 @@ Here's all the films I've watched this year: [[Films-Watched-2024]]
 
 - *The Legend of Zelda: Tears of the Kingdom*
 - *Bioshock Remastered*
+- *Ori and The Blind Forest*
 
 *Part of the <a href="https://nownownow.com/about" >Now page</a> movement*
