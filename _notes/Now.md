@@ -7,20 +7,21 @@ permalink: /now
 
 ## Life
 
-- Returning to life after time in Lisbon
+- Halfway through the year, planning more adventures
 - Watching the dreich of summer
 
 ## Working on
 
 - Photo a day to get me back into photography.
 - Fixing my notes, refracting and clarifying.
-- Fiddling with my website once again, switching to eleventy.
+- Switching my website to eleventy from [[Jekyll]]. Feed is up and running again
 - Getting read to launch Project Dust
-- Started a project management apprenticeship at work
+- Working through project management apprenticeship at work
 
 ## Reading
 
 - *The Artist's Way* - Julia Cameron
+- *Hamnet* - Maggie O' Farrell
 
 Here's everything I've read this year- [[Books-Read-2024]]
 

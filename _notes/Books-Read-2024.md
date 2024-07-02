@@ -22,7 +22,7 @@ permalink: /books24
 16. [[Demon Copperhead]]- [[Barbara Kingsolver]]
 17. Spin- Laurie Eaves
 18. *The Gospel According to Blindboy*- [[Blindboy-Boatclub]]
-19. [[Prophet-Song]]- [[Paul-Lynch]]
+19. [[Prophet-Song-by-Paul-Lynch]]- [[Paul-Lynch]]
 20. - [[The-bullet-journal-method]]- [[Ryder-Caroll]]
 21. *Fevered Sun*- Rebecca Roanhorse
 22.  *Orbital*- Samantha Harvey

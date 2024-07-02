@@ -5,4 +5,4 @@ date: 2024-05-27
 permalink:
 ---
 
-author of [[Prophet-Song]]
+author of [[Prophet-Song-by-Paul-Lynch]]

@@ -12,3 +12,7 @@ The idea is to [[Lower-the-Barrier-To-Entry]] enough so it becomes easier to [[J
 > How do you eat an elephant? One bite at a time
 > - Anxious People- Fredrik Backman
 
+> If the one good paragraph is eluding you (for instance), try to write one good sentence. If _that_ is eluding you—it eludes me many days—try to write one good description, one good phrase. That is a solid day’s work!
+> Mason Currey - [Worm School](https://masoncurrey.substack.com/p/worm-school-week-one)
+
+
