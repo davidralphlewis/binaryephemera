@@ -22,7 +22,7 @@ permalink: /books24
 16. [[Demon Copperhead]]- [[Barbara Kingsolver]]
 17. Spin- Laurie Eaves
 18. *The Gospel According to Blindboy*- [[Blindboy-Boatclub]]
-19. [[Prophet-Song-by-Paul-Lynch]]- [[Paul-Lynch]]
+19. [[Prophet-Song-by-Paul-Lynch]]
 20. - [[The-bullet-journal-method]]- [[Ryder-Caroll]]
 21. *Fevered Sun*- Rebecca Roanhorse
 22.  *Orbital*- Samantha Harvey
@@ -30,6 +30,7 @@ permalink: /books24
 24. *The Rachel Incident* - Caroline O'Donaghue 
 25. *Sea of Tranquility* - Emily St John Mantel
 26.  *Vehicle*- Jen Calleja
+27. *Hamnet* - Maggie O' Farrell
 
 
 

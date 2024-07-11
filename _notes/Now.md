@@ -13,7 +13,6 @@ permalink: /now
 ## Working on
 
 - Photo a day to get me back into photography.
-- Fixing my notes, refracting and clarifying.
 - Switching my website to eleventy from [[Jekyll]]. Feed is up and running again
 - Getting read to launch Project Dust
 - Working through project management apprenticeship at work
@@ -21,7 +20,6 @@ permalink: /now
 ## Reading
 
 - *The Artist's Way* - Julia Cameron
-- *Hamnet* - Maggie O' Farrell
 
 Here's everything I've read this year- [[Books-Read-2024]]
 

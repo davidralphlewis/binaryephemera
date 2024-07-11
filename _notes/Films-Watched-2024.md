@@ -27,3 +27,4 @@ permalink: /films24
 18. Where the Crawdads Sing (C-)
 19. The Fall Guy (B+)
 20. Emma (2022) (B)
+21. Legend (1985) (C)
