@@ -28,3 +28,4 @@ permalink: /films24
 19. The Fall Guy (B+)
 20. Emma (2022) (B)
 21. Legend (1985) (C)
+22. Twister (B)

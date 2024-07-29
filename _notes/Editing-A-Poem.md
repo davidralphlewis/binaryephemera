@@ -6,7 +6,7 @@ date: 2022-08-09
 
 Here are some ideas and techniques if you are stuck on rewriting a poem.
 
-Remember that the whole point of editing is to edit through someone else's eyes. You need to not be in love with the poem.  Use [[Time-as-an-editor]].  
+Remember that the whole point of editing is to edit through someone else's eyes. You need to not be in love with the poem.  Use [[Time-is-an-editor]].  
 
 Also remember [[all-art-is-subjective]], [[Each-poem-Is-New]]. [[Focus-on-Process-not-the-end-goal]]
 
@@ -19,6 +19,7 @@ Also remember [[all-art-is-subjective]], [[Each-poem-Is-New]]. [[Focus-on-Proces
 -   Remove joints of poem and common words.
 -   Keep a [[The-Spark-File]]
 -   [[Cut-the-Last-Lines]]
+- Remember [[Time-is-an-editor]]
 
 ## Transform the poem and create something new out of the ashes. ([[Transform-Existing-Work]])
 

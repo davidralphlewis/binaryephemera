@@ -15,7 +15,7 @@ permalink: /books24
 9. [[Dunce-Mary-Ruefle]]
 10. [[Infinite-Ground]]- [[Martin MacInnes]]
 11. *Chapters* - Tim Key
-12. [[The-Employees-A-Workplace-Novel-of-the-22nd-Century--Olga-Ravn]]
+12. [[The-Employees-A-Workplace-Novel-of-the-22nd-Century-by-Olga-Ravn]]
 13. *Pyramids* - [[Terry-Pratchett]]
 14. *The Treekeeper's Tale* - Pascal Petit
 15. *The World We Make* - [[N-K-Jemisen]]
@@ -23,14 +23,16 @@ permalink: /books24
 17. Spin- Laurie Eaves
 18. *The Gospel According to Blindboy*- [[Blindboy-Boatclub]]
 19. [[Prophet-Song-by-Paul-Lynch]]
-20. - [[The-bullet-journal-method]]- [[Ryder-Caroll]]
+20. [[The-bullet-journal-method]]- [[Ryder-Caroll]]
 21. *Fevered Sun*- Rebecca Roanhorse
-22.  *Orbital*- Samantha Harvey
-23. *The Memory Police*- Yoko Owkana
+22.  [[Orbital-by-Samantha-Harvey-2023]]
+23. [[The-Memory-Police-by-Yoko-Ogawa-2020]]
 24. *The Rachel Incident* - Caroline O'Donaghue 
-25. *Sea of Tranquility* - Emily St John Mantel
+25. [[The-Sea-of-Tranquillity-by-Emily-St-John-Mandel-2022]]
 26.  *Vehicle*- Jen Calleja
 27. *Hamnet* - Maggie O' Farrell
-
+28. *Resurrection Mary*- Bobby Fisher
+29.  *Excession*- Iain M. Banks
+30.  *The Nation's Saddest Love Poems*- Sam J. Grudgings (re-read)
 
 
