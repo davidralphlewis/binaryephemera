@@ -34,5 +34,9 @@ permalink: /books24
 28. *Resurrection Mary*- Bobby Fisher
 29.  *Excession*- Iain M. Banks
 30.  *The Nation's Saddest Love Poems*- Sam J. Grudgings (re-read)
+31. [[Doppelganger-by-Naomi-Klein-2023]]
+32. *The Artist's Way* - Julia Cameron
+33. _A Visit From The Goon Squad_ - Jennifer Egan (re-read)
+
 
 

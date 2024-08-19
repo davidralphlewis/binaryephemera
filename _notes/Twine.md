@@ -7,4 +7,4 @@ permalink:
 
 Twine is an open source piece of software used for making non linear interactive fiction. It's built on [[Tiddlywiki]].  
 
-I used to make this [https://www.davidralphlewis.co.uk/reality-adjustments/](weird poetry thing) called *Reality Adjustments.* I've found it quite easy to use.
+I used to make this [[weird poetry thing|https://www.davidralphlewis.co.uk/reality-adjustments/]] called *Reality Adjustments.* I've found it quite easy to use.

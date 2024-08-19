@@ -13,7 +13,7 @@ permalink: /rebeccathantony-workshop
 -   Shock of language
 -   Sustained imagery- use same sequences of images
 -   Recognise yourself in the other. To write is to be seen in your vulnerability. Offer things to the world, not yours anymore
--   Everyone has the same [[writing%20fears]]fears</a> and limitations. All feel it and write anyway
+-   Everyone has the same [[writing fears|writing%20fears]]fears</a> and limitations. All feel it and write anyway
 -   [[Free-Writing]]Free write</a> if from subconscious.
     -   Take lines or images from free writes.
 -   [[Poetic-form]] - space is as much the poem as the words.

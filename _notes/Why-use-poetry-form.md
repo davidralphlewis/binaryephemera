@@ -5,7 +5,7 @@ date: 2022-08-04
 permalink: /why-form
 ---
 
-[[Poetic-Forms]] are often seen as archaic or irrelevant. When you first start attempting them, they seem to have too many obscure rules. But as a form of [[Constrained-Writing]], they can force your writing into new and different directions.
+The use of [[Poetic-Form]] is often seen as archaic or irrelevant. When you first start attempting using the different forms, they seem to have too many obscure rules. But as a form of [[Constrained-Writing]], they can force your writing into new and different directions.
 
 -   [[Terrance-Hayes]] says this of form:
 

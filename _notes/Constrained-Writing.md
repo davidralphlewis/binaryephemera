@@ -12,4 +12,4 @@ Constrained writing is therefore any writing that follows a set of rules.
 
 The  [[Oulipo]] movement in the 60's was a big fan of rules.
 
-[[Poetic-form]]] is basically a set of rules that constrain your writing.
+[[Poetic-form]] is basically a set of rules that constrain your writing.

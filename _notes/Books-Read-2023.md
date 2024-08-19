@@ -30,7 +30,7 @@ See also [[Books-Read-2021]], [[Books-Read-2022]], [[Books-Read-2024]]
 20. *Walking Towards the Noise* - John Bowie 
 21. *Our Share of Night*- Mariana Enriquez
 22. *Our Wives Under the Sea* - Julia Armfield
-23. *Sourcery* - [[Terry-Pratchett|Terry-Pratchett]]
+23. *Sourcery* - [[Terry-Pratchett]]
 24. *The State of The Art*- [[Iain-M-Banks]]
 26. *Empireland* - Sathnam Sanghera
 27. *Health Hireth* - Taran Spalding-Jenkins
@@ -41,7 +41,7 @@ See also [[Books-Read-2021]], [[Books-Read-2022]], [[Books-Read-2024]]
 32. *Tomorrow and Tomorrow and Tomorrow* - Gabrielle Zevin
 33. *Nowhere Men* - Eric Stephenson, Nate Bellegarde & Jordie Bellaire
 34. *To The Lighthouse* - Virginia Woolf
-35. *Wyrd Sisters* - [[Terry-Pratchett|Terry-Pratchett]]
+35. *Wyrd Sisters* - [[Terry-Pratchett]]
 36. *Venemous Lumpsucker* - Ned Beauman
 37. *Wintering* - Katherine May
 38. [[Yellowface-R-F-Kuang]]

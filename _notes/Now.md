@@ -7,19 +7,18 @@ permalink: /now
 
 ## Life
 
-- Long days enjoying the sun
+- Trying to be kind to myself and others 
 
 ## Working on
 
 - Photo a day to get me back into photography.
-- Switching my website to Eleventy from [[Jekyll]]. Looking at importing backlog of posts.
+- Switching my website to Eleventy from [[Jekyll]]. Posts are imported, project pages are built, now I'm styling the pages.
 - Getting read to launch Project Dust
 - Working through project management apprenticeship at work
 
 ## Reading
 
-- *The Artist's Way* - Julia Cameron
-- *Doppelganger*- Naomi Klein
+- *Mirrored Heavens* - Rebecca Roanhorse 
 
 Here's everything I've read this year- [[Books-Read-2024]]
 

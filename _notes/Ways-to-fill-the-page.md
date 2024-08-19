@@ -15,7 +15,7 @@ Here are some ways to spend time in a [[Writers-Notebook]].
 - Weather
 - Change
 - Feelings
-- [[]]
+- [[|Ways-to-fill-the-page]]
 
 ## Copy
 

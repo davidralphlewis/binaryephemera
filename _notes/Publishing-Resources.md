@@ -10,5 +10,5 @@ There's a whole world of small presses and publishing houses out there beyond th
 
 -   Angela T Carr's website <a href="https://angelatcarr.wordpress.com/" >a dreaming skin</a> publishes monthly lists of presses that have submission calls.
 -   <a href="https://poetsdirectory.co.uk/" >The Poet's directory</a> is a fantastic resource, listing publishers, presses and magazines.
--   Neon magazine have <a href[[]]="https://www.neonbooks.org.uk/big-list-poetry-publishers/" >a big list</a> of UK poetry publishers. 
+-   Neon magazine have <a href[[|Publishing-Resources]]="https://www.neonbooks.org.uk/big-list-poetry-publishers/" >a big list</a> of UK poetry publishers. 
 - [[Selcouth Station]] have <a href="https://www.selcouthstation.com/zines-small-presses" >a long list</a> of smaller presses and zines

@@ -31,7 +31,7 @@ ning
 
 ## Editing as a Creative Process. An Experiment ([[Editing-is-writing]])
 
-## [[Poetic-Forms]] As an Editing Tool
+## [[Poetic-Form]] As an Editing Tool
 
 - What is there already? 
 - Play within structure.

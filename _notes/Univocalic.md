@@ -14,3 +14,4 @@ A poem which only uses one vowel. So words need to only have one of *a, e, i, o,
 > calm as a shaman, sharp as a hawk,  
 
 -   Dan Simpson's *<a href="https://dansimpsonpoet.wordpress.com/2017/09/29/dads-black-cab/" >Dad's Black Cab</a>* is a univocalic in A.
+ 
