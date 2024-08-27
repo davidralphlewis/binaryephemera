@@ -37,6 +37,8 @@ permalink: /books24
 31. [[Doppelganger-by-Naomi-Klein-2023]]
 32. *The Artist's Way* - Julia Cameron
 33. _A Visit From The Goon Squad_ - Jennifer Egan (re-read)
+34. *Mirrored Heavens* - Rebecca Roanhorse 
+35. *In Retail*- Jeremy Dixon
 
 
 

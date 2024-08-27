@@ -11,14 +11,14 @@ permalink: /now
 
 ## Working on
 
+- Getting read to launch Project Dust. Pamphlets ordered, just waiting for delivery.
 - Photo a day to get me back into photography.
-- Switching my website to Eleventy from [[Jekyll]]. Posts are imported, project pages are built, now I'm styling the pages.
-- Getting read to launch Project Dust
+- Switching my website to Eleventy from [[Jekyll]]. Posts are imported, project pages are built, now I'm styling the pages. Would like to add notes into the main site but that is proving tricky.
 - Working through project management apprenticeship at work
 
 ## Reading
 
-- *Mirrored Heavens* - Rebecca Roanhorse 
+- 
 
 Here's everything I've read this year- [[Books-Read-2024]]
 
