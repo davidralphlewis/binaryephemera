@@ -18,15 +18,9 @@ permalink: /now
 
 ## Reading
 
-- 
+- *Candy House* - Jennifer Egan
 
 Here's everything I've read this year- [[Books-Read-2024]]
-
-### Previous Years:
-
-- [[Books-Read-2023]]
-- [[Books-Read-2022]]  
-- [[Books-Read-2021]] 
 
 ## Watching
 
@@ -34,11 +28,6 @@ Here's everything I've read this year- [[Books-Read-2024]]
 - *The Bear* - Season 3
 
 Here's all the films I've watched this year: [[Films-Watched-2024]]
-
-### Previous Years:
-
-- [[Films-Watched-2023]]
-- [[Films-Watched-2022]]
 
 ## Playing
 

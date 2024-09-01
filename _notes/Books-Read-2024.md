@@ -4,6 +4,9 @@ layout: note
 date: 2024-01-02
 permalink: /books24
 ---
+
+[[books-read]]
+
 1. [[The-Priory-of-the-Orange-Tree-Samantha-Shannon]]
 2. [[Shy]]- [[Max-Porter]]
 3. [[Babel-R-F-Kuang]]

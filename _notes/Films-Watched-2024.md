@@ -34,3 +34,5 @@ permalink: /films24
 25. The Hit Man (B-)
 26. Jim Henson: Idea Man (B-)
 27. Safety Not Guaranteed (B+)
+28. Mad Max 2: The Road Warrior (A)
+29. Mission Impossible (B+)
