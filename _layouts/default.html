@@ -3,9 +3,11 @@
   {% include head.html %}
   <body>
     <nav>{% include nav.html %}</nav>
-    <div id="writing">
-      <main>{{ content }}</main>
+    <main> 
+      <div id="writing">
+      {{ content }}
       </div>
+    </main>
       <footer>{% include footer.html %}</footer>
 
     {% include link-previews.html wrapperQuerySelector="content" %}
