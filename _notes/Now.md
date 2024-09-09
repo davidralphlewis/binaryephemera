@@ -7,11 +7,11 @@ permalink: /now
 
 ## Life
 
-- Trying to be kind to myself and others 
+- Trying to be kind to myself and others. Focusing on self care. Taking my medicine, metaphorically 
 
 ## Working on
 
-- Getting read to launch Project Dust. Pamphlets ordered, just waiting for delivery.
+- Promoting *Emergence*. Pamphlets ordered, just waiting for delivery.
 - Photo a day to get me back into photography.
 - Switching my website to Eleventy from [[Jekyll]]. Posts are imported, project pages are built, now I'm styling the pages. Would like to add notes into the main site but that is proving tricky.
 - Working through project management apprenticeship at work
@@ -24,8 +24,8 @@ Here's everything I've read this year- [[Books-Read-2024]]
 
 ## Watching
 
-- *The Americans* - Season 1
-- *The Bear* - Season 3
+- *Kaos*- Season 1
+- *The Lord of the Rings: Rings of Power*- Season 3
 
 Here's all the films I've watched this year: [[Films-Watched-2024]]
 

@@ -5,12 +5,12 @@ date: 2022-08-22
 permalink: /books2021
 ---
 
-Here's all the books I read in 2021:
+Here's all the [[books-read]] in 2021:
 
 1.  *Saudade*- Nigel Kent
 2.  *Solutions and Other Problems* - Allie Brosh
 3.  *thicker than water* - Jane Dougherty
-4.  *[[The-Testaments-Margaret-Atwood]]*
+4.  *[[The-Testaments-by-Margaret-Atwood]]*
 5.  *Grandville Force Majeure (Grandville, \#5)* - Bryan Talbot
 6.  *Apple Water: Povel Panni* - Raine Geoghegan
 7.  *Aubade After a French Movie* - Zoe Brigley

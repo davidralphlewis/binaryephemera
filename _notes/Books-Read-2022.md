@@ -5,6 +5,7 @@ feed: hide
 date: 2022-07-29
 permalink: /books2022
 ---
+[[books-read]]
 
 1. *How to Do Nothing*- JennyOdell
 2.  [[Gideon-the-Ninth-Tamsyn-Muir]] 

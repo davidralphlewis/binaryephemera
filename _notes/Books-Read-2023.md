@@ -5,7 +5,7 @@ date: 2023-01-23
 permalink: /books23
 ---
 
-See also [[Books-Read-2021]], [[Books-Read-2022]], [[Books-Read-2024]]
+[[books-read]]
 
 1. [[How-High-We-Go-In-The-Dark-Sequoia-Nagamatsu]]
 2. [[Coward-Tim-Clare]]
