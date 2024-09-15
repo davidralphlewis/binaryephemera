@@ -7,7 +7,7 @@ tags: [films]
 last_modified_at: 2024-01-22 01:19
 ---
  
-[[film]]
+[[film-notes]]
 
 Over the top, grotesque depiction of upper class life. Rich are callous and uncaring and use people like toys. 
 

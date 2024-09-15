@@ -14,4 +14,4 @@ Only by being honest with how you feel can you acknowledge the pain and move on.
 
 
 > Life is full of dragons. The longer they live, the bigger they become, feeding off our misfortunes, resentments, and sense of helplessness. Stare them down. Look directly into their big, terrible eyes. There, you will see your own reflection. Our challenges are mirrors, exposing our vulnerabilities, insecurities, weaknesses, and fears. As hard as it may be, don’t turn away. See them, examine them, meet your fears with curiosity, and you will discover a way forward.
-> [[The-bullet-journal-method]]
+> [[The-bullet-journal-method-by-Ryder-Carroll-2018]]

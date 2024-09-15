@@ -37,3 +37,4 @@ permalink: /films24
 28. Mad Max 2: The Road Warrior (A)
 29. Mission Impossible (B+)
 30. Godzilla Minus Zero (A+) 
+31. The Beach Boys (C)

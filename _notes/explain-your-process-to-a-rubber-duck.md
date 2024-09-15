@@ -11,4 +11,4 @@ Speaking the process out loud helps you identify issues or gaps.
 
 Similar to [[Red-Teaming]], it's a way to explore issues.
 
-It's is mentioned briefly in [[The-bullet-journal-method]] as a way to [[Know-Yourself]] and is similar to [[Journaling]]
+It's is mentioned briefly in [[The-bullet-journal-method-by-Ryder-Carroll-2018]] as a way to [[Know-Yourself]] and is similar to [[Journaling]]

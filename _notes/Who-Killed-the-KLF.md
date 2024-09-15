@@ -6,7 +6,7 @@ permalink:
 tags: []
 ---
 
-[[Film]]
+[[film-notes]]
 
 Documentary exploring the KLF, their legacy and the myths surrounding the house music/ art experiment. Obviously, [[Alan-Moore]] was involved. 
 

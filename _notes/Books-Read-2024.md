@@ -26,7 +26,7 @@ permalink: /books24
 17. Spin- Laurie Eaves
 18. *The Gospel According to Blindboy*- [[Blindboy-Boatclub]]
 19. [[Prophet-Song-by-Paul-Lynch]]
-20. [[The-bullet-journal-method]]- [[Ryder-Caroll]]
+20. [[The-bullet-journal-method-by-Ryder-Carroll-2018]]- [[Ryder-Caroll]]
 21. *Fevered Sun*- Rebecca Roanhorse
 22.  [[Orbital-by-Samantha-Harvey-2023]]
 23. [[The-Memory-Police-by-Yoko-Ogawa-2020]]

@@ -5,7 +5,7 @@ date: 2024-04-29
 permalink:
 ---
 
-[[Film]]
+[[film-notes]]
 
 Perfectly pitched three hander about people staying in a posh school over the winter break. 
 
