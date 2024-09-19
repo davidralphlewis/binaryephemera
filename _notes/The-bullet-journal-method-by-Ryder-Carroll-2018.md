@@ -15,7 +15,7 @@ A book about setting up a [[Bullet-journal]] but also quite philosophical. It al
 - [[Be-Present]]
 - [[the-friction-of-handwriting-is-the-point]]
 - [[Writing-is-a-way-of-externalising-our-thoughts]]
-- [[The goal of bullet journaling is self knowledge]] ([[Know-Yourself]])
+- [[The-goal-of-bullet-journaling-is-self-knowledge]] ([[Know-Yourself]])
 - [[Being-Present-Reveals-More-Detail]]
 - [[Ask-Yourself-Why-More]] ([[Ask-why-five-times]])
 - [[look-for-a-reason-why]]- [[does-this-serve-me]]?
