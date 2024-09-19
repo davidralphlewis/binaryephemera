@@ -9,4 +9,4 @@ permalink: /coffee-cold-tk
 
 -   Slow, gentle stories.
 -   Emotional problems always solved by time travel.
--   Rules set up but never broken. A [[00 Inbox/chekovs-gun]] that is never fired.
+-   Rules set up but never broken. A [[chekovs gun]] that is never fired.

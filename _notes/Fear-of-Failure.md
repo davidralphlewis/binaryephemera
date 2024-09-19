@@ -2,9 +2,8 @@
 title: "Fear of Failure"
 layout: note
 date: 2022-09-02
+tag: stub
 ---
-
-#stub
 
 Too often we are afraid to [[Put-Your-Work-Out-There]] because we are afraid of failure.  We want good outcomes but failure is often seen as a negative one. 
 

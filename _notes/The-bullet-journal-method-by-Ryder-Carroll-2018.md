@@ -7,7 +7,7 @@ permalink:
 
 [[BookNotes]] author: [[Ryder-Caroll]]
 
-A book about setting up a [[Bullet-journal]] but also quite philosophical.
+A book about setting up a [[Bullet-journal]] but also quite philosophical. It also digs into CBT and theory behind why you do what you do.
 
 # Key Ideas 
 
