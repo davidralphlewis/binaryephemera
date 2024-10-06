@@ -41,7 +41,8 @@ permalink: /books24
 32. *The Artist's Way* - Julia Cameron
 33. _A Visit From The Goon Squad_ - Jennifer Egan (re-read)
 34. *Mirrored Heavens* - Rebecca Roanhorse 
-35. *In Retail*- Jeremy Dixon
+35. *In Retail* - Jeremy Dixon
+36. *Candy House* - Jennifer Egan
 
 
 
