@@ -8,7 +8,7 @@ permalink: /now
 ## Life
 
 - Trying to be kind to myself and others. Focusing on self care. Taking my medicine, metaphorically by journaling and meditating more.
-- Two years of marriage! Here's to many more.
+-  Looking forward to a break.
 
 ## Working on
 
