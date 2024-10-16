@@ -17,6 +17,7 @@ Currently there are **528** notes within this garden, so good luck!
 
 - [Writing](/writing)
 - [[Perception Problems]]
+- [[BookNotes]]
 - What I'm Up to [[Now]]
 
 ## New notes
