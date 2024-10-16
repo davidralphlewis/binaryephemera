@@ -7,3 +7,4 @@ permalink:
 
 Nothing stays the same forever. It would be a dull world of that was the case. Instead, expect changes in the world, your life, your personality.
 
+[[Nothing-lasts-forever]]. This too shall pass.

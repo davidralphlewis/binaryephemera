@@ -43,6 +43,8 @@ permalink: /books24
 34. *Mirrored Heavens* - Rebecca Roanhorse 
 35. *In Retail* - Jeremy Dixon
 36. *Candy House* - Jennifer Egan
+37. *John Dies at the End*- David Wong
+38. *Dart*- Alice Oswald
 
 
 

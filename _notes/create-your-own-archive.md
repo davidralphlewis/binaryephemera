@@ -4,7 +4,7 @@ layout: note
 date: 2024-09-16
 permalink:
 ---
-Build material for your future self to create from. [[journals-are-full-of-useful-material]] but so are photos, books and anything you might think of. ([[everything-is-a-source]]). [[The-Spark-File]] is a useful repository of ideas for example.
+Build material for your future self to create from. [[journals-are-full-of-useful-material]] but so are photos, books and anything you might think of. ([[everything-is-a-possible-source]]). [[The-Spark-File]] is a useful repository of ideas for example.
 
 You can then use this archive to create from.
 # References 

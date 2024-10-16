@@ -8,7 +8,7 @@ permalink: /now
 ## Life
 
 - Trying to be kind to myself and others. Focusing on self care. Taking my medicine, metaphorically by journaling and meditating more.
--  Looking forward to a break.
+-  Planning a spontaneous holiday to Bergen.
 
 ## Working on
 
@@ -20,14 +20,12 @@ permalink: /now
 
 ## Reading
 
-- *John Dies at the End*- David Wong
+- *The Lathe of Heaven*- Ursula K. LeGuin
 
 Here's everything I've read this year- [[Books-Read-2024]]
 
 ## Watching
 
-- *Kaos*- Season 1
-- *The Lord of the Rings: Rings of Power*- Season 3
 - *Agatha All Along*- Season 1
 
 Here's all the films I've watched this year: [[Films-Watched-2024]]
@@ -36,5 +34,6 @@ Here's all the films I've watched this year: [[Films-Watched-2024]]
 
 - *The Legend of Zelda: Tears of the Kingdom*
 - *Ori and The Blind Forest*
+- *Fortnite*
 
 *Part of the <a href="https://nownownow.com/about" >Now page</a> movement*

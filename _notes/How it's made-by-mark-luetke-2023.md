@@ -9,7 +9,7 @@ permalink:
 I hugely enjoyed [this article](https://dophs.substack.com/p/how-its-made) which is the rare example of someone using their notes to create something. ([[notes-should-have-an-end-product]])
 
 - [[think-of-your-notes-as-a-river]], go to them for connections and sources, to link and expand your thoughts
-- [[everything-is-a-source]]
+- [[everything-is-a-possible-source]]
 - [[journals-are-full-of-useful-material]] you can harvest
 - each time you make a note you increase the biodiversity of the triver
 - [[your-job-is-to-add-to-the-pile]]
