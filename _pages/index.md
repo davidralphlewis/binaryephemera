@@ -15,9 +15,10 @@ Currently there are **528** notes within this garden, so good luck!
 
 ## Suggested starting places
 
-- [Writing](/writing)
+- [[Writing-Index]]
 - [[Perception Problems]]
 - [[BookNotes]]
+- [[Meta-Notes]]
 - What I'm Up to [[Now]]
 
 ## New notes
