@@ -11,4 +11,4 @@ Raw notes by themselves are not useful. [[notes-should-have-an-end-product]] The
 
 [[you-need-a-system-to-process-raw-notes]] to turn them into actions
 
-This idea is from [[Anna Havron]] but it is also mentioned by [[Ryder-Caroll]].
+This idea is from [[Anna-Havron]] but it is also mentioned by [[Ryder-Caroll]].

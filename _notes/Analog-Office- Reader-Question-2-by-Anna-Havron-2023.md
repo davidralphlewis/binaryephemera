@@ -7,7 +7,7 @@ permalink:
 
 [[source-notes]] on this article: [Analog Office - Reader Question 2: Notes on Paper, Notes in Apps, Here, There, and Everywhere, Should I Just Give Up and Accept the Chaos?](https://analogoffice.net/2023/04/03/reader-question-notes.html)
 
-Author: [[Anna Havron]]
+Author: [[Anna-Havron]]
 
 - [[notes-should-have-an-end-product]]
 - [[notes-are-inputs-for-action]]

@@ -45,6 +45,7 @@ permalink: /books24
 36. *Candy House* - Jennifer Egan
 37. *John Dies at the End*- David Wong
 38. *Dart*- Alice Oswald
+39. *The Lathe of Heaven*- Ursula K. LeGuin
 
 
 

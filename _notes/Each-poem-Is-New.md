@@ -5,7 +5,7 @@ date: 2022-07-29
 permalink: /each-poem-is-new
 ---
 
-Whenever you start [[Writing-Index|writing]] a new poem, it is like you have never written a poem before. Each poem is a new approach.
+Whenever you start writing a new poem, it is like you have never written a poem before. Each poem is a new approach.
 
 > Last poem and the next poem. I try to focus on that. I hope that I’m changing all the time. Constantly asking myself, how can it be different from the last? I like having something to work on. That’s how my head is. I have to do something new. Something different each time.
 > – Terrance Hayes

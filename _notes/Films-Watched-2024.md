@@ -40,3 +40,6 @@ permalink: /films24
 31. [[The-Beach-Boys-2024]] (C)
 32. [[The-Conversation-1974]]  (A+)
 33. Crazy, Stupid, Love. (B-)
+34. Man On The Moon (rewatch) (B) 
+35. Jim and Andy: The Great Beyond (B)
+36. The Outrun (A)

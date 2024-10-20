@@ -11,6 +11,6 @@ Rewrite the raw notes you make in your [[Bullet-journal]] or on scraps of paper 
 
 In other words, turn fleeting thoughts into products. [[notes-should-have-an-end-product]] and this helps you achieve that.
 
-This idea is from [[Anna Havron]].
+This idea is from [[Anna-Havron]].
 
 

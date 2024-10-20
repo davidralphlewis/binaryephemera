@@ -10,4 +10,4 @@ Remember [[Writing-is-Thinking]] and [[Writing-is-a-way-of-externalising-our-tho
 ## References
 
 > And — if nothing else — your journal should be one place where you are completely honest and uncensored. You don’t have to act on ANYTHING you write. Give yourself great freedom to write whatever comes to mind. 
-> - [[Anna Havron]] -[Journaling as a Tool For Action](https://www.annahavron.com/blog/journaling-as-a-tool-for-action)
+> - [[Anna-Havron]] -[Journaling as a Tool For Action](https://www.annahavron.com/blog/journaling-as-a-tool-for-action)
