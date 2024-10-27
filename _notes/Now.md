@@ -7,7 +7,7 @@ permalink: /now
 
 ## Life
 
-- Trying to be kind to myself and others. Focusing on self care. Taking my medicine, metaphorically by journaling and meditating more.
+- Trying to be kind to myself and others. Focusing on self care. Taking my medicine, metaphorically by [[journaling]] and [[meditating]] more.
 
 ## Working on
 

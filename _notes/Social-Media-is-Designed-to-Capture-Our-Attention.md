@@ -9,4 +9,4 @@ date: 2022-10-23
 Remember [[If-Something-is-Free-You-Are-the-Product]] and your [[Attention-is-Everything]].
 
 >  It's because our time and attention are so limited, and therefore valuable, that social media companies are incentivised to grab as much of them as they can, by any means necessary
-> -[[Oliver-Burkeman]] - [[Four-Thousand-Weeks]]
+> -[[Oliver-Burkeman]] - [[Four-Thousand-Weeks-by-Oliver-Burkeman-2021]]

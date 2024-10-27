@@ -14,6 +14,6 @@ This is what [[Meditating]] teaches us, to sit in the moment. You should [[Prac
 
 > The most effective way to sap distraction of its power is just to stop expecting things to be otherwise – to accept that this unpleasantness is simply what it feels like for finite humans to commit ourselves to the kinds of demanding and valuable tasks that force us to confront our limited control over how our lives unfold.
 
-> [[Four-Thousand-Weeks]]- [[Oliver-Burkeman]]
+> [[Four-Thousand-Weeks-by-Oliver-Burkeman-2021]]- [[Oliver-Burkeman]]
 
 (Remember though [[Distraction-is-Inevitable]])

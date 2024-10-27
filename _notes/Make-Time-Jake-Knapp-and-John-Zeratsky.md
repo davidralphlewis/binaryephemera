@@ -5,7 +5,7 @@ date: 2024-08-26
 permalink:
 ---
 
-A productivity guide, like more practical version of [[Four-Thousand-Weeks]]
+A productivity guide, like more practical version of [[Four-Thousand-Weeks-by-Oliver-Burkeman-2021]]
 
 # Key Ideas
 

@@ -11,7 +11,7 @@ Jessica Alba applies this concept not to money but to time, to ensure you priori
 > If you don't save a bit of your **time** for you, now, out of every week, there is no moment in the future when you'll magically be done with everything and have loads of free time.
 > -- [Jessica Alba](https://jessicaabel.com/pay-yourself-first-stop-trying-to-do-everything/)
 
-[[Oliver-Burkeman]] develops this in [[Four-Thousand-Weeks]]:
+[[Oliver-Burkeman]] develops this in [[Four-Thousand-Weeks-by-Oliver-Burkeman-2021]]:
 
 > So if a certain activity really matters to you – a creative project, say, though it could just as easily be nurturing a relationship, or activism in the service of some cause – the only way to be sure it will happen is to do some of it today, no matter how little, and no matter how many other genuinely big rocks may be begging for your attention.
 

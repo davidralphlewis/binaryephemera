@@ -14,7 +14,7 @@ The opposite of being present is being distracted constantly, for example on soc
 Don't beat yourself up too much though, because [[Distraction-is-Inevitable]]. 
 
 > You’re obliged to deal with how your experience is unfolding in this moment, to resign yourself to the reality that this is it.
-> [[Four-Thousand-Weeks]]
+> [[Four-Thousand-Weeks-by-Oliver-Burkeman-2021]]
 
 - [This](https://youtu.be/PH0xLDQrgpQ) is an excellent video about photography, arguing the most important skill you can have is to be present. 
 

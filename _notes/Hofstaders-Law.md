@@ -9,4 +9,4 @@ This is a law from cognitive scientist Douglas Hofstadter that says a task will 
 
 We are bad at estimating how long tasks will take.  
 
-I first came across this in [[Four-Thousand-Weeks]].
+I first came across this in [[Four-Thousand-Weeks-by-Oliver-Burkeman-2021]].

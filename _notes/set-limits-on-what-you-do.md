@@ -11,4 +11,4 @@ Accept [[Any-Decision-Eliminates-Others]] and narrow down your focus. Set limits
 
 For to do lists for example, try keeping it to [[Three-projects-only]].
 
-This is explored in [[Four-Thousand-Weeks]].
+This is explored in [[Four-Thousand-Weeks-by-Oliver-Burkeman-2021]].

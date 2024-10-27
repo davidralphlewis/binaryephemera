@@ -9,7 +9,7 @@ In order to [[Choose-What-is-Important]], we need to be intentional with how we 
 
 First, we can [[Start-with-silence]]. Then we can write down our goals.
 
-This is the main argument of [[The-bullet-journal-method-by-Ryder-Carroll-2018]] and [[Four-Thousand-Weeks]]
+This is the main argument of [[The-bullet-journal-method-by-Ryder-Carroll-2018]] and [[Four-Thousand-Weeks-by-Oliver-Burkeman-2021]]
 
 > Intentionality is the power of the mind to direct itself toward that which it finds meaningful and take action toward that end.
 > [[Ryder-Caroll]]- [[The-bullet-journal-method-by-Ryder-Carroll-2018]]
