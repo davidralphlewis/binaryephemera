@@ -46,6 +46,8 @@ permalink: /books24
 37. *John Dies at the End*- David Wong
 38. *Dart*- Alice Oswald
 39. *The Lathe of Heaven*- Ursula K. LeGuin
+40. *Stillness is the Key* - Ryan Holiday
+41. *Corey Fah Does Social Mobility*- Isabel Waidner
 
 
 
