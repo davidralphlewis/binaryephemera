@@ -5,7 +5,7 @@ date: 2024-10-27
 permalink:
 ---
 
-One thing that has greatly helped my mental health is to go outside, sometimes for a walk ([[Walk-for-wellbeing]]). It's essential to escape the house and dive into nature.
+One thing that has greatly helped my mental health is to go outside, sometimes for a walk ([[Walking-is-helpful-for-your-mental-health]]). It's essential to escape the house and dive into nature.
 
 This was especially apparent during lockdown, when outside time was limited. Suddenly I realised just how necessary it was. 
 

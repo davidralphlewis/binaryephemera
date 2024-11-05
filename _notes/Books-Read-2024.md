@@ -43,11 +43,12 @@ permalink: /books24
 34. *Mirrored Heavens* - Rebecca Roanhorse 
 35. *In Retail* - Jeremy Dixon
 36. *Candy House* - Jennifer Egan
-37. *John Dies at the End*- David Wong
-38. *Dart*- Alice Oswald
+37. *John Dies at the End* - David Wong
+38. *Dart* - Alice Oswald
 39. *The Lathe of Heaven*- Ursula K. LeGuin
-40. *Stillness is the Key* - Ryan Holiday
+40. [[stillness-is-the-key-by-Ryan-Holiday-2019]]
 41. *Corey Fah Does Social Mobility*- Isabel Waidner
+42. *The House On The Borderland*- William Hope Hodgson
 
 
 

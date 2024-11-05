@@ -5,16 +5,12 @@ date: 2024-07-15
 permalink:
 ---
 
-Time travel book reminiscent of cloud atlas.
+[[BookNotes]] author: [[emily-st-john-mandel]]
 
-Clockwork novel, fits together perfectly.
+A time travel novel reminiscent of cloud atlas. It's a clockwork novel, where all the pieces fit together perfectly. The time traveller is human, wanting to mess with the timeline to save people he meets from inevitable death. It's a compassionate, humanistic view of the world that I haven't seen in too much media. 
 
-Simulation theory of the world, eloquently and beautifully elaborated on.
+It explores the simulation theory of the universe in an eloquent and beautiful way, with a glitch that shatters the understand of the world we live in.
 
-Glitch like a computer program.
+It's also a covid novel, exploring the impact of a pandemic on people. 
 
-Panic and fear of pandemic.
 
-Time traveller as human, wanting to mess with the timeline to save people you meet from inevitable death.
-
-Montage effect of short characters

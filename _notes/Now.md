@@ -21,13 +21,14 @@ permalink: /now
 ## Reading
 
 - *Out There Screaming: An Anthology of New Black Horror*- Various writers
-- *The House On The Borderlands*- William Hope Hodgson
+- *Don Quixote*
 
 Here's everything I've read this year- [[Books-Read-2024]]
 
 ## Watching
 
-- *Agatha All Along*- Season 1
+- *Severance* season 1
+- *Silo* season 1
 
 Here's all the films I've watched this year: [[Films-Watched-2024]]
 
