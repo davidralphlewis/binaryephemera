@@ -7,7 +7,7 @@ permalink: /now
 
 ## Life
 
-- Trying to be kind to myself and others. Focusing on self care. Taking my medicine, metaphorically by [[journaling]] and [[meditating]] more.
+- Trying to be kind to myself and others. Focusing on self care. Taking my medicine, metaphorically by [[journaling]] and [[meditating]] more. Winding down the year.
 
 ## Working on
 
@@ -21,7 +21,7 @@ permalink: /now
 ## Reading
 
 - *Out There Screaming: An Anthology of New Black Horror*- Various writers
-- *Don Quixote*
+- *Don Quixote*- Miguel Cervantes
 
 Here's everything I've read this year- [[Books-Read-2024]]
 

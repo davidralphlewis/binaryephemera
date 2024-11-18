@@ -9,7 +9,8 @@ When you are overwhelmed or anxious, the world can seem terrifying and scary. Th
 
 Focus instead on what is in your control. Usually, this means things in your immediate sphere of influence and your emotions. You can work on yourself, you can't stop microplastics in the ocean but you could pick litter in your community. 
 
-[[Be-Present]] What action can you take? 
+[[Be-Present]] What action can you take? [[Focus-on-Process-not-the-end-goal]], so you aren't focusing on the outcome.
 
-The [[Locus-of-control-exercise]] is useful to understand what is and isn't within your control
+The [[Locus-of-control-exercise]] is useful to understand what is and isn't within your control.
+
 
