@@ -7,7 +7,7 @@ permalink:
 
 [[Ways-to-Focus]]
 
-Set a timer and measure how long you can [[focus]] on one thing. When you get distracted ([[Distraction-is-Inevitable]]) stop the timer.
+Set a timer and measure how long you can [[Focus]] on one thing. When you get distracted ([[Distraction-is-Inevitable]]) stop the timer.
 
 Next, try to improve your focus time, even by a minute.
 
