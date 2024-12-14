@@ -5,7 +5,7 @@ date: 2022-10-23
 permalink:
 ---
 
-Attention is the most important resource we have.  It is what we use to define our world, how we [[Be-Present]].  It defines if you can be lied to or how you [[decide what is important to you]] It creates our personal reality and defines our world.
+Attention is the most important resource we have.  It is what we use to define our world, how we [[Be-Present]].  It defines if you can be lied to or how you [[Decide-what-is-important-to-you]] It creates our personal reality and defines our world.
 
 No wonder [[Social-Media-is-Designed-to-Capture-Our-Attention]].
 

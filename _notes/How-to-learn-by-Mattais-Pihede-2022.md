@@ -10,7 +10,7 @@ Notes from <a href="https://www.youtube.com/watch?v=Z2N5a7XZWg8">this video</a> 
     -   Learning is a stress in the brain so you avoid it.
 -   [[Have-a-Break]] to help the processing of information.
 -   Repetition strengthens connections and synapses.
--   [[exercise-benefits]] and social contact help produce neurons.
+-   [[exercise-helps-your-brain]] and social contact help produce neurons.
 -   [[Focused-Mode]]
     -   When initially learning things, pay close attention and work in focused bursts.
 -   [[Diffused-Mode]]

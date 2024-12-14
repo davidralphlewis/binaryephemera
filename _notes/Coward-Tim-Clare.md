@@ -9,7 +9,7 @@ permalink: /coward-tc
 
 Author: [[Tim-Clare]]
 
-An exploration of anxiety, both scientific and personal. Tim Clare suffers from extreme anxiety and panic attacks and attempts different methods in order to cure it. There is a lot of scientific research in this book where it can get a bit lost in the technical detail, but the descriptions of his personal experiments to cure himself are engaging. 
+An exploration of anxiety, both scientific and personal. [[Tim-Clare]] suffers from extreme anxiety and panic attacks and attempts different methods in order to cure it. There is a lot of scientific research in this book where it can get a bit lost in the technical detail, but the descriptions of his personal experiments to cure himself are engaging. 
 
 ## Key Ideas
 

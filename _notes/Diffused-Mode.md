@@ -8,4 +8,4 @@ When learning new things, its important not just to cram and hope it goes in. Th
 
 It's why it's important to [[Have-a-Break]].
 
-[[exercise-benefits]] and being social helps- both help forge new neurons.
+[[exercise-helps-your-brain]] and being social helps- both help forge new neurons.

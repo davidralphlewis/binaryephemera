@@ -11,7 +11,7 @@ Also see [[Poetry-Resources]] and [[Publishing-Resources]].
 
 ## Podcasts
 
--   Tim Clare's podcast *Death of 1000 Cuts* has invaluable advice.
+-  [[Tim-Clare]]'s podcast *Death of 1000 Cuts* has invaluable advice.
 -   *<a href="http://www.nightvalepresents.com/startwiththis" >Start with This</a>* from Welcome to Nightvale covers a large range of topics and has assignments that help kickstart writing.
 
 ## Books

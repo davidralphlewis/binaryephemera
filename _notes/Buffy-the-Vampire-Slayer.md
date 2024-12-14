@@ -8,6 +8,6 @@ date: 2024-04-24
 permalink:
 ---
 
-[[TV-Show]]
+[[TV-Show-Notes]]
 
 Very 90's Tv show
