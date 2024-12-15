@@ -22,7 +22,7 @@ permalink: /books24
 13. *Pyramids* - [[Terry-Pratchett]]
 14. *The Treekeeper's Tale* - Pascal Petit
 15. *The World We Make* - [[N-K-Jemisen]]
-16. [[Demon Copperhead]]- [[Barbara Kingsolver]]
+16. [[Demon-Copperhead-by-Barbara-Kingsolver-2022]]- [[Barbara Kingsolver]]
 17. Spin- Laurie Eaves
 18. *The Gospel According to Blindboy*- [[Blindboy-Boatclub]]
 19. [[Prophet-Song-by-Paul-Lynch]]
@@ -33,13 +33,13 @@ permalink: /books24
 24. *The Rachel Incident* - Caroline O'Donaghue 
 25. [[The-Sea-of-Tranquillity-by-Emily-St-John-Mandel-2022]]
 26.  *Vehicle*- Jen Calleja
-27. *Hamnet* - Maggie O' Farrell
+27. [[Hamnet-Maggie-O-Farrell-2020]]
 28. *Resurrection Mary*- Bobby Fisher
-29.  *Excession*- Iain M. Banks
-30.  *The Nation's Saddest Love Poems*- Sam J. Grudgings (re-read)
+29. [[Excession-Iain-M-Banks-1996]]
+30. *The Nation's Saddest Love Poems*- Sam J. Grudgings (re-read)
 31. [[Doppelganger-by-Naomi-Klein-2023]]
-32. *The Artist's Way* - Julia Cameron
-33. _A Visit From The Goon Squad_ - Jennifer Egan (re-read)
+32. [[the-artists-way-Julia-Cameron-1992]]
+33. [[A-Visit-From-The-Goon-Squad-by-Jennifer-Egan-2010]] (re-read)
 34. *Mirrored Heavens* - Rebecca Roanhorse 
 35. *In Retail* - Jeremy Dixon
 36. *Candy House* - Jennifer Egan

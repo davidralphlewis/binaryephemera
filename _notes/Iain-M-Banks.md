@@ -4,5 +4,4 @@ layout: note
 date: 2024-05-01
 permalink:
 ---
-Scifi [[author]]
-
+Scifi [[author]] of the Culture series
