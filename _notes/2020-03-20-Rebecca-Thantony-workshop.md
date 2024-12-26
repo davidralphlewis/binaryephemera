@@ -5,6 +5,8 @@ date: 2022-09-06
 permalink: /rebeccathantony-workshop
 ---
 
+[[Writing-Workshop]]
+
 -   [[No Right Way to Be Creative]]
 - How obvious or mysterious we are. Accessible vs obscured.
 -   Use [[The-Five-Senses]] for descriptions. A way into a topic

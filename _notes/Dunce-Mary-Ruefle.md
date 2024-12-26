@@ -6,7 +6,7 @@ permalink:
 tags: [BookNotes]
 ---
 
-[[BookNotes]] author: [[Mary Ruefle]]
+[[BookNotes]] author: [[Mary-Ruefle]]
 
 Poetry collection
 

@@ -7,7 +7,7 @@ permalink: /films24
 
 [[films-watched]]
 
-1. [[Saltburn]] (B)
+1. [[Saltburn]] (C+)
 2. [[Late-Night]] (C+)
 3. [[Poor Things]] (A-)
 4. The Creator (B-)
@@ -24,7 +24,7 @@ permalink: /films24
 15. Pride and Prejudice (2005) (B)
 16. Dead Poets Society (A)
 17. Frontline Folklore (B)
-18. Where the Crawdads Sing (C-)
+18. Where the Crawdads Sing (D+)
 19. The Fall Guy (B+)
 20. Emma (2022) (B)
 21. Legend (1985) (C-)
@@ -45,3 +45,7 @@ permalink: /films24
 36. The Outrun (A)
 37. Belle (2021)(B+)
 38. Kneecap (A-)
+39. The Lord of the Rings: War of the Rohirrim (B+)
+40. Elf (A-)
+41. That Christmas (C)
+42. Scrooged (B-)

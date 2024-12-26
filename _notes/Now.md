@@ -29,7 +29,7 @@ Here's everything I've read this year- [[Books-Read-2024]]
 
 ## Watching
 
-- *Silo* season 1
+- *Silo* season 2
 
 Here's all the films I've watched this year: [[Films-Watched-2024]]
 
