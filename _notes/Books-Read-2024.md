@@ -47,7 +47,7 @@ permalink: /books24
 38. *Dart* - Alice Oswald
 39. *The Lathe of Heaven*- Ursula K. LeGuin
 40. [[stillness-is-the-key-by-Ryan-Holiday-2019]]
-41. *Corey Fah Does Social Mobility*- Isabel Waidner
+41. [[Corey-Fah-Does-Social-Mobility-by-Isabel-Waidner-2024]]
 42. *The House On The Borderland*- William Hope Hodgson
 
 

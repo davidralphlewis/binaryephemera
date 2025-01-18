@@ -42,7 +42,7 @@ permalink: /films24
 33. Crazy, Stupid, Love. (B-)
 34. Man On The Moon (rewatch) (B) 
 35. Jim and Andy: The Great Beyond (B)
-36. The Outrun (A)
+36. [[The-Outrun-2024]] (A)
 37. Belle (2021)(B+)
 38. Kneecap (A-)
 39. The Lord of the Rings: War of the Rohirrim (B+)
