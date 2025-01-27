@@ -7,7 +7,7 @@ permalink: /redteaming
 
 In order to overcome our various biases, one person in a meeting should be nominated to play devil's advocate. They should offer the opposite ideas in order to challenge set ways of thinking.
 
--   Similar to writing a [[negative-poem]] of a poem to challenge it.
+Similar to writing a [[negative-poem]] of a poem to challenge it.
 
 > We should all enter every issue with the very real possibility that we might be wrong this time.
 >
