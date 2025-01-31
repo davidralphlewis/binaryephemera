@@ -15,7 +15,7 @@ It's a beautiful, funny but also wise book that made me reassess my relationship
 ## Key Ideas
 
 - [[You-Will-Die]] and [[Our-Lives-Are-Brief]].
-- [[Be-Present]] and [[Slow-Down]]. Instead of rushing through everything, [[Let Tasks Take the Time They Take]]
+- [[Be-Present]] and [[Slow-Down]]. Instead of rushing through everything, [[Let-Tasks-Take-the-Time-They-Take]]
 - [[Choose-What-is-Important]] and eliminate everything else. Remember [[Any-Decision-Eliminates-Others]] so you need to narrow down what to focus on. [[set-limits-on-what-you-do]]. 
 - [[Attention-is-Everything]]. Try to maintain it but remember [[Distraction-is-Inevitable]].
 - [[Sit-With-Discomfort]] to make it easier to bear. Acknowledge what is difficult and [[Acknowledge-Your-Limitations]]

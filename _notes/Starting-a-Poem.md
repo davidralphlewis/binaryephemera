@@ -6,7 +6,7 @@ date: 28-08-2022
 
 ## Starting a poem
 
-Here's some ways I've found to [[Just-Start]]a poem.
+Here's some ways I've found to [[Start-before-you-are-ready]]a poem.
 
 -   Use [[Prompts]].
 -   [[Free-Writing]] and [[Write-to-a-Timer]]

@@ -8,6 +8,6 @@ I have a personal rule, which is when I start something new, I try to do it with
 
 With photography I used my phone camera until I needed more fine control, then I got myself a fancier camera. 
 
-There's a lot of pressure to buy lots of kit for every hobby (because capitalism) so this way I can decided whether I like it or not. It also reduces friction and allows you to [[Just-Start]].
+There's a lot of pressure to buy lots of kit for every hobby (because capitalism) so this way I can decided whether I like it or not. It also reduces friction and allows you to [[Start-before-you-are-ready]].
 
 With writing, see [[Tools-Dont-Matter]]. Avoid [[Tool-Fetishism]]

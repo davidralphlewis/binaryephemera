@@ -44,7 +44,7 @@ permalink: /films24
 35. Jim and Andy: The Great Beyond (B)
 36. [[The-Outrun-2024]] (A)
 37. Belle (2021)(B+)
-38. Kneecap (A-)
+38. [[Kneecap-2024]] (A-)
 39. The Lord of the Rings: War of the Rohirrim (B+)
 40. Elf (A-)
 41. That Christmas (C)

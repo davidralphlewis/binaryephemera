@@ -9,7 +9,7 @@ It's hard sometimes, sitting down with nothing to right about. Or feeling you ha
 
 Writers block is often symptomatic of other problems. You might be anxious or unsettled in your life or have something else going on, other stresses that make it hard to [[Ways-to-Focus|focus]]. Or you might be suffering from [[Imposter-Syndrome]]
 
-Try and remember [[Art-is-Play]] and work to fall back in love with [[Autotelic]] art. [[Focus-on-Process-not-the-end-goal]]. Mess around with some [[Writing-Exercises]]. [[Constrained-Writing]] can be good to challenge yourself, to narrow down your field of view from everything to something more manageable. If all else fails, [[Just-Start]] writing utter rubbish, and maybe [[Embrace-Randomness]].
+Try and remember [[Art-is-Play]] and work to fall back in love with [[Autotelic]] art. [[Focus-on-Process-not-the-end-goal]]. Mess around with some [[Writing-Exercises]]. [[Constrained-Writing]] can be good to challenge yourself, to narrow down your field of view from everything to something more manageable. If all else fails, [[Start-before-you-are-ready]] writing utter rubbish, and maybe [[Embrace-Randomness]].
 
 Or maybe just [[Have-a-Break]]! That's fine too, we don't always have to be producing all the time.
 

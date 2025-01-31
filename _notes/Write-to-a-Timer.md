@@ -4,7 +4,7 @@ layout: note
 date: 2022-08-30
 ---
 
-Setting a timer for 5, 10, 15 minutes is a good [[Ways-to-Focus]] and [[Just-Start]]. It's useful for [[Free-Writing]]
+Setting a timer for 5, 10, 15 minutes is a good [[Ways-to-Focus]] and [[Start-before-you-are-ready]]. It's useful for [[Free-Writing]]
 
 You can use your phone or google "10 minute timer".
 

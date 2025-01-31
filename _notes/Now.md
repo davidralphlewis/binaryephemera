@@ -18,7 +18,6 @@ permalink: /now
 
 ## Reading
 
-- *Don Quixote*- Miguel de Cervantes Savedra, translated by J. M. Cohen
 
 Here's everything I've read this year- [[books-read-2025]]
 
