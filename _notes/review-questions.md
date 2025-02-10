@@ -20,3 +20,8 @@ Look at your [[Personal Framework]]
 - Did I live my values?
 - How can I change?
 - Are my values still accurate?
+
+Look at your goals
+- Are you making progress towards them?
+- What can you do this week to move it forward?
+- 

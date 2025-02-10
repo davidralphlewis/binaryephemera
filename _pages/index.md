@@ -11,7 +11,7 @@ This is the place where I keep useful notes and other miscellaneous snippets. It
 
 My main site and blog is [here](https://www.davidralphlewis.co.uk) if you want something a bit more coherent.
 
-Currently there are **528** notes within this garden, so good luck!
+Currently there are over **600** notes within this garden, so good luck!
 
 ## Suggested starting places
 
