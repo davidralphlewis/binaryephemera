@@ -12,7 +12,7 @@ The truth is [[Art-is-Always-Translation]] and it will never be 'perfect'.  It w
 
 Perfection doesn't exist. It's a myth we use to beat ourselves up about the work we create. 
 
-The [[70-percent-rule]] is a good way of overcoming perfectionism.
+The [[70-percent-rule]] is a good way of overcoming perfectionism. Remember to look at [[Quantity-Not-Quality]] as well.
 
 > Perfection is a distraction—another shiny object taking your attention away from your real priorities.
 > - [[Make-Time-Jake-Knapp-and-John-Zeratsky]]

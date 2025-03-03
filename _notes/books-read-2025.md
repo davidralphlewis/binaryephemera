@@ -11,3 +11,5 @@ permalink: /books25
 2. *Warm Blooded Things* - Shaun Levy
 3. *Don Quixote* - Miguel de Cervantes Savedra, translated by J. M. Cohen
 4. *The Surviving Sky* - Kritika H. Rao
+5. *Neverland: The Perils and Pleasure of Fandom* - Vanessa Kisuule
+6. *The Feynman Challenge: Poems on Science* - James Thornton 
