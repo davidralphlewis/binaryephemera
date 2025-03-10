@@ -25,7 +25,7 @@ Here's everything I've read this year- [[books-read-2025]]
 
 ## Watching
 
-- *The Morning Show* - Season 2
+- *The Morning Show* - Season 3
 - *Severance* - Season 2
 - *Sunny* - Season 1
 
