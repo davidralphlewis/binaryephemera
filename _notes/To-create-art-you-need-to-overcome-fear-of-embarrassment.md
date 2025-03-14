@@ -10,4 +10,6 @@ Creating art is embarrassing. You are taking your innermost thoughts and feeling
 
 Remember [[The-creator-owes-the-audience-nothing]] and [[Perfection-Doesn't-Exist-when-making-art]]
 
-This idea is from [[Blindboy-Boatclub]]
+## References
+
+This idea is from [[Blindboy-Boatclub]] and was emphasised in [[Monday Night Write club]]

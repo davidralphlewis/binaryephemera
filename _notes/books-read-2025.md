@@ -1,3 +1,4 @@
+
 ---
 title: "Books Read 2025"
 layout: note
@@ -13,3 +14,4 @@ permalink: /books25
 4. *The Surviving Sky* - Kritika H. Rao
 5. *Neverland: The Perils and Pleasure of Fandom* - Vanessa Kisuule
 6. *The Feynman Challenge: Poems on Science* - James Thornton 
+7.  *Chain Gang All Stars* - Nana Kwame Adjei-Brenyah

@@ -19,7 +19,7 @@ permalink: /now
 
 ## Reading
 
-- *Chain Gang All Stars* - Nana Kwame Adjei-Brenyah
+-
 
 Here's everything I've read this year- [[books-read-2025]]
 

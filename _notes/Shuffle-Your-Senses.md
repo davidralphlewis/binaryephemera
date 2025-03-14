@@ -6,7 +6,7 @@ permalink:
 tags: [WritingExercise]
 ---
 
-#[[Writing-Exercise]] 
+[[Writing-Exercise]] 
 
 [From Rob Walker](https://robwalker.substack.com/p/shuffle-your-senses)
 
