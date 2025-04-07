@@ -11,3 +11,4 @@ permalink: /films25
 2. Groundhog Day (rewatch) (A)
 3. A Complete Unknown (B+)
 4. Rain Man (B)
+5. The Secret Life of Walter Mitty (B-)

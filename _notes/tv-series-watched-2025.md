@@ -8,3 +8,6 @@ permalink:
 1. [[The-Morning-Show-Season-1]] (A)
 2. *Silo* season 2 (B+)
 3. [[The-Morning-Show-Season-2]](B+)
+4. *Mythic Quest* - Season 1 (B-)
+5. *Sunny* - Season 1 (B)
+6. *Severance* - Season 2 (A+)

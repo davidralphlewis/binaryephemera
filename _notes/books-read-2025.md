@@ -11,7 +11,10 @@ permalink: /books25
 1. *Out There Screaming: An Anthology of New Black Horror* - Various authors, Edited by Jordan Peele
 2. *Warm Blooded Things* - Shaun Levy
 3. *Don Quixote* - Miguel de Cervantes Savedra, translated by J. M. Cohen
-4. *The Surviving Sky* - Kritika H. Rao
+4. [[The-Surviving-Sky-by-Kritika-H-Rao]]
 5. *Neverland: The Perils and Pleasure of Fandom* - Vanessa Kisuule
 6. *The Feynman Challenge: Poems on Science* - James Thornton 
 7.  *Chain Gang All Stars* - Nana Kwame Adjei-Brenyah
+8. *The Other Wind*- [[Ursula-K-LeGuin]]
+9.  *You Dreamed of Empires*- Álvaro Enrique, Translated by Natasha Wimmer
+10. *Persaverance* - Raymond Antrobus

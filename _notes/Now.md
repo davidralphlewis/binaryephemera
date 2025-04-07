@@ -7,29 +7,27 @@ permalink: /now
 
 ## Life
 
-- On the cusp of spring.
+- 'spring is like a perhaps hand'
 - Enjoying [[Monday Night Write club]]
 - 2025 is the [year of enough](https://www.davidralphlewis.co.uk/posts/2025-year-of-enough/)
+- Planning holidays
+- House hunting
 
 ## Working on
 
 - Promoting *Emergence*. Why not [pick up a copy today?](https://www.davidralphlewis.co.uk/posts/announcing-emergence/)
-- Decluttering the house and digital files
 - Working through project management apprenticeship at work. Into the final straight now!
 
 ## Reading
 
--
+- *Keep Going* - Austin Kleon, re-read to make notea
+- *The Wild Places* - Robert MacFarlane
 
 Here's everything I've read this year- [[books-read-2025]]
 
 ## Watching
 
 - *The Morning Show* - Season 3
-- *Severance* - Season 2
-- *Sunny* - Season 1
-
-(Yes I got a trial to Apple TV and am working my way through it all.)
 
 Here's all the films I've watched this year: [[films-watched-2025]] and tv series [[tv-series-watched-2025]]
 
