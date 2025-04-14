@@ -1,3 +1,7 @@
+---
+created: 1979-12-30T23:00
+updated: 2025-04-13T20:49
+---
 
 ---
 title: "Books Read 2025"
@@ -14,7 +18,10 @@ permalink: /books25
 4. [[The-Surviving-Sky-by-Kritika-H-Rao]]
 5. *Neverland: The Perils and Pleasure of Fandom* - Vanessa Kisuule
 6. *The Feynman Challenge: Poems on Science* - James Thornton 
-7.  *Chain Gang All Stars* - Nana Kwame Adjei-Brenyah
+7.  [[Chain-Gang-All-Stars-by-Nana-Kwame-Adjei-Brenyah]]
 8. *The Other Wind*- [[Ursula-K-LeGuin]]
 9.  *You Dreamed of Empires*- Álvaro Enrique, Translated by Natasha Wimmer
 10. *Persaverance* - Raymond Antrobus
+11. *Keep Going* - Austin Kleon (re-read)
+12. *The Wild Places* - Robert MacFarlane
+13. *Nobody's Empire* - Stuart Murdoch

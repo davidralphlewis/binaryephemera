@@ -3,6 +3,8 @@ title: Now
 layout: default
 date: 2024-04-08
 permalink: /now
+created: 1979-12-30T23:00
+updated: 2025-04-13T20:49
 ---
 
 ## Life
@@ -20,8 +22,7 @@ permalink: /now
 
 ## Reading
 
-- *Keep Going* - Austin Kleon, re-read to make notea
-- *The Wild Places* - Robert MacFarlane
+- 
 
 Here's everything I've read this year- [[books-read-2025]]
 

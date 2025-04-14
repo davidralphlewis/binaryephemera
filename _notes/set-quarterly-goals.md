@@ -15,5 +15,5 @@ See also [[Goal-setting-Struthless]]
 
 I believe this is the idea of *The 12 week Year*, although I haven't read it.
 
-[[Ali abdaal]] proposed this idea in a video.
+[[Ali-abdaal]] proposed this idea in [[Ali-Abbdal-6-habits-for-2025]]
 
