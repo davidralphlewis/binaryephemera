@@ -5,7 +5,7 @@ date: 2025-04-08
 permalink:
 ---
 
-[[BookNotes]]] author: [[Nana-Kwame-Adjei-Brenyah]]
+[[BookNotes]] author: [[Nana-Kwame-Adjei-Brenyah]]
 
 A *Hunger Games* style future where prisoners fight to the detah. Not subtle.
 Linked back to the modern day with footnotes like [[Babel-R-F-Kuang]]

@@ -3,17 +3,13 @@ title: Now
 layout: default
 date: 2024-04-08
 permalink: /now
-created: 1979-12-30T23:00
-updated: 2025-04-13T20:49
 ---
 
 ## Life
 
-- 'spring is like a perhaps hand'
-- Enjoying [[Monday Night Write club]]
 - 2025 is the [year of enough](https://www.davidralphlewis.co.uk/posts/2025-year-of-enough/)
-- Planning holidays
-- House hunting
+- Decluttering books
+- Planning a move. Lots of paperwork.
 
 ## Working on
 
@@ -22,13 +18,12 @@ updated: 2025-04-13T20:49
 
 ## Reading
 
-- 
+- *Sir Gawain and The Green Knight* - Simon Armitage
+- *The Sunken Land Begins to Rise Again* - M. John Harrison
 
 Here's everything I've read this year- [[books-read-2025]]
 
 ## Watching
-
-- *The Morning Show* - Season 3
 
 Here's all the films I've watched this year: [[films-watched-2025]] and tv series [[tv-series-watched-2025]]
 
