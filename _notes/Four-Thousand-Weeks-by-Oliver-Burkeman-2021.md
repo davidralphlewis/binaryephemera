@@ -24,7 +24,6 @@ It's a beautiful, funny but also wise book that made me reassess my relationship
 - [[Productivity-Makes-You-More-Rushed]]
 - Things will always take longer than you plan.([[Hofstaders-Law]])
 - [[Worry-is-an-attempt-to-control-the-future]]
-- [[[There Will Always Be a Gap Between Dreams and Reality]]]
 
 ## Criticisms
 

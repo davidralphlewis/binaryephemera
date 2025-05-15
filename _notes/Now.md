@@ -19,7 +19,7 @@ permalink: /now
 ## Reading
 
 - *Sir Gawain and The Green Knight* - Simon Armitage
-- *The Sunken Land Begins to Rise Again* - M. John Harrison
+- *This Book is Full of Spiders* - David Wong
 
 Here's everything I've read this year- [[books-read-2025]]
 

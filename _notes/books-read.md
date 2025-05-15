@@ -11,4 +11,4 @@ All the books I've read broken down by year. See also [[films-watched]]
 - [[Books-Read-2022]]
 - [[Books-Read-2023]]
 - [[Books-Read-2024]]
-
+- [[books-read-2025]]
