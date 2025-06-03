@@ -19,7 +19,7 @@ permalink: /now
 ## Reading
 
 - *Sir Gawain and The Green Knight* - Simon Armitage
-- *This Book is Full of Spiders* - David Wong
+- *Pachinko* - Min Jin Lee
 
 Here's everything I've read this year- [[books-read-2025]]
 
@@ -29,7 +29,6 @@ Here's all the films I've watched this year: [[films-watched-2025]] and tv serie
 
 ## Playing
 
-- *The Legend of Zelda: Tears of the Kingdom* - in the endgame now!
 - *No Man's Sky* - pretty good to relax to.
 - *Fortnite*
 

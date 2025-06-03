@@ -23,3 +23,4 @@ permalink: /books25
 14. *She Who Became The Sun* - Shelley Parker-Chan
 15. *Collision: Stories From the Science of CERN* - Various Authors, Edited by Prof. Rob Appleby & Connie Potter
 16. *The Sunken Land Begins to Rise Again* - M. John Harrison
+17.  *This Book is Full of Spiders* - David Wong

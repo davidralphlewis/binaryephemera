@@ -26,7 +26,7 @@ A short book full of wise, useful advice about how to keep a creative practise g
 - [[slow-down-to-pay-attention]]
 - [[Re-read old diaries to pay attention and know yourself]].
 - [[Art thrives on uncertainty]]
-- [[Take inspiration from old stuff]].
+- [[Take-inspiration-from-old-stuff]].
 - [[Tidying-is-exploratory]]
 - [[Walking-connects-you-with-the-world-as-it-is]]
 - [[Creativity is cyclical]]. 
