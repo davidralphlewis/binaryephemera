@@ -15,9 +15,9 @@ A short book full of wise, useful advice about how to keep a creative practise g
 - [[All-we-can-control-is-the-daily-work]]. 
 - [[There-is-no-one-perfect-routine]]
 - [[Routine sets you free]]
-- [[Lists help to clear out your head]].
+- [[Lists-help-to-clear-out-your-head]].
 - [[Slow-Down]] and [[seek-silence-to-connect-with-your-inherent-curiosity]]
-- [[Bliss can be a space or a time]]
+- [[Bliss-can-be-a-space-or-a-time]]
 - [[Focus on the verb]]
 - [[Don't rush to monetise your art]]
 - [[Ignore numbers on social media]]. 
