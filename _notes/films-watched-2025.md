@@ -22,3 +22,4 @@ permalink: /films25
 13. 24 Hour Party People (rewatch) (A+)
 14. The Ballad of Wallis Island (A+)
 15. See How They Run (B+)
+16. Jurassic World: Rebirth (C)

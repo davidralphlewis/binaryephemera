@@ -18,8 +18,7 @@ permalink: /now
 
 ## Reading
 
-- *Sir Gawain and The Green Knight* - Simon Armitage
-- *Pachinko* - Min Jin Lee
+- *The Hundred Thousands Kingdoms* - N.K. Jemisen
 
 Here's everything I've read this year- [[books-read-2025]]
 
