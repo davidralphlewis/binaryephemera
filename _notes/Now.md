@@ -18,7 +18,7 @@ permalink: /now
 
 ## Reading
 
-- *The Hundred Thousands Kingdoms* - N.K. Jemisen
+- *The Hundred Thousand Kingdoms* - N.K. Jemisen
 
 Here's everything I've read this year- [[books-read-2025]]
 
