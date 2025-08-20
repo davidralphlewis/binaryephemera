@@ -8,17 +8,17 @@ permalink: /now
 ## Life
 
 - 2025 is the [year of enough](https://www.davidralphlewis.co.uk/posts/2025-year-of-enough/)
-- Decluttering books
-- Planning a move. Lots of paperwork.
+- Planning a move. Lots of paperwork and checks.
+- Lots of gigs.
 
 ## Working on
 
 - Promoting *Emergence*. Why not [pick up a copy today?](https://www.davidralphlewis.co.uk/posts/announcing-emergence/)
-- Working through project management apprenticeship at work. Onto the assessment.
+- Working through project management apprenticeship at work. Prepping for the final assessment.
 
 ## Reading
 
-- 
+- *Homecoming*
 
 Here's everything I've read this year- [[books-read-2025]]
 
