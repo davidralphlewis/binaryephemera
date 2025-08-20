@@ -14,11 +14,11 @@ permalink: /now
 ## Working on
 
 - Promoting *Emergence*. Why not [pick up a copy today?](https://www.davidralphlewis.co.uk/posts/announcing-emergence/)
-- Working through project management apprenticeship at work. Into the final straight now!
+- Working through project management apprenticeship at work. Onto the assessment.
 
 ## Reading
 
-- *The Hundred Thousand Kingdoms* - N.K. Jemisen
+- 
 
 Here's everything I've read this year- [[books-read-2025]]
 

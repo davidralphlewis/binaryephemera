@@ -17,3 +17,4 @@ permalink:
 10. *The Completely Made Up Adventures of Dick Turpin* - Season 1 (B-)
 11. *Everyone Else Burns* - Series 2 (B+)
 12. *Andor* - Series 2 (A+)
+13. *Mythic Quest* - Season 3 (B)
