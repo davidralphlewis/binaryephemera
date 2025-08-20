@@ -28,3 +28,6 @@ permalink: /books25
 19. *Pachinko* - Min Jin Lee
 20. *Little Eyes* - Samanta Schweblin translated by Megan McDowell
 21. *Penance* - Eliza Clark
+22.  *The Hundred Thousand Kingdoms* - N.K. Jemisen
+23. *Snow Crash* - Neal Stevenson
+24. *Dreams of Dusty Roads* - Tijan M. Sallah
