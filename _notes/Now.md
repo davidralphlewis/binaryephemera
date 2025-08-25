@@ -5,11 +5,13 @@ date: 2024-04-08
 permalink: /now
 ---
 
+*Updated on 25/08/2025*
+
 ## Life
 
 - 2025 is the [year of enough](https://www.davidralphlewis.co.uk/posts/2025-year-of-enough/)
 - Planning a move. Lots of paperwork and checks.
-- Lots of gigs.
+- Off to the lakes for a wedding!
 
 ## Working on
 
@@ -18,7 +20,7 @@ permalink: /now
 
 ## Reading
 
-- *Homecoming*
+- *The Scarlet Letter* - Nathanial Hawthorne.
 
 Here's everything I've read this year- [[books-read-2025]]
 
@@ -29,6 +31,7 @@ Here's all the films I've watched this year: [[films-watched-2025]] and tv serie
 ## Playing
 
 - *No Man's Sky* - pretty good to relax to.
-- *Fortnite*
+- *Bioshock: Infinite*
+- *Inside*
 
 *Part of the <a href="https://nownownow.com/about" >Now page</a> movement*
