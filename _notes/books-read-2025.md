@@ -23,12 +23,12 @@ permalink: /books25
 14. [[she-who-became-the sun-shelley-parker-chan-2023]]
 15. [[Collision-Stories-From-the-Science-of-CERN- Various-Authors-2023]], Edited by Prof. Rob Appleby & Connie Potter
 16. [[The-Sunken-Land-Begins-to-Rise-Again-M-John-Harrison-2020]]
-17.  *This Book is Full of Spiders* - David Wong
+17. *This Book is Full of Spiders* - David Wong
 18. *Sir Gawain and The Green Knight* - Simon Armitage
 19. *Pachinko* - Min Jin Lee
 20. *Little Eyes* - Samanta Schweblin translated by Megan McDowell
 21. *Penance* - Eliza Clark
 22. *The Hundred Thousand Kingdoms* - N. K. Jemisen 
-23. *Snow Crash* - Neal Stevenson
+23. [[Snow-Crash-Neal-Stephenson-1992]]
 24. *Dreams of Dusty Roads* - Tijan M. Sallah
-25. *The Scarlet Letter* - Nathanial Hawthorne.
+25. *The Scarlet Letter* - Nathaniel Hawthorne.

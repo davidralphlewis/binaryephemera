@@ -1,0 +1,5 @@
+Realised I never sent backstory over: The youngest of 7, Glurkop was raised by his mother, the town blacksmith. His dad vanished when he was young under mysterious circumstances. 
+
+Tall and lanky compared to his squat sisters and brothers, he was picked on by his family and by kids in school. As a teenager, he started acting up, getting in fights and tricking people out of money. He entertained people with music and card tricks but soon found his magical ability allowed him to trick people more easily. Performances led to more elaborate magic, and more elaborate tricks. 
+
+The city priest complained about his behaviour, so he was kicked out of his house. His mum and sisters refused to acknowledge him from that point onwards, always crossing the street to avoid him, so he wandered the streets robbing who he can. He started getting together a boat with coin, planning to leave but always staying. In taverns he made big speeches about wanting to leave, but somehow never did. When the demogorgon hit, he got into his boar and ran away as fast as possible, without fully realising what he was doing.

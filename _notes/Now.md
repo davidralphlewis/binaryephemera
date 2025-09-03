@@ -11,7 +11,7 @@ permalink: /now
 
 ## Life
 
-- 2025 is the [year of enough](https://www.davidralphlewis.co.uk/posts/2025-year-of-enough/)
+- [[2025]] is the [year of enough](https://www.davidralphlewis.co.uk/posts/2025-year-of-enough/)
 - Planning a move. Lots of paperwork and checks. Hopefully will happen soon.
 
 ## Working on
