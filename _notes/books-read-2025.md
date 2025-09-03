@@ -30,3 +30,5 @@ permalink: /books25
 21. *Penance* - Eliza Clark
 22. *The Hundred Thousand Kingdoms* - N. K. Jemisen 
 23. *Snow Crash* - Neal Stevenson
+24. *Dreams of Dusty Roads* - Tijan M. Sallah
+25. *The Scarlet Letter* - Nathanial Hawthorne.

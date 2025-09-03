@@ -16,7 +16,7 @@ permalink: /films25
 7. Almost Famous (B+)
 8. Metallica: Some Kind of Monster (B+)
 9. [[Conclave-2024|Conclave]] (A)
-10. Mean Girls (2004) (B)
+10. [[Mean-Girls-2004]] (2004) (B)
 11. Holy Cow (B+)
 12. Cheryl (B)
 13. 24 Hour Party People (rewatch) (A+)
@@ -24,3 +24,4 @@ permalink: /films25
 15. See How They Run (B+)
 16. Jurassic World: Rebirth (C)
 17. Anchorman (rewatch) (B-)
+18. The Naked Gun: From the Files of Police Squad (1988) (B)

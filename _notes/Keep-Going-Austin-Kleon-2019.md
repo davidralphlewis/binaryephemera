@@ -14,7 +14,7 @@ A short book full of wise, useful advice about how to keep a creative practise g
 - [[The-Artist-Does-Not-Control-Reception]]
 - [[All-we-can-control-is-the-daily-work]]. 
 - [[There-is-no-one-perfect-routine]]
-- [[Routine sets you free]]
+- [[routine-frees-you-to-focus-on-what-is-important]]
 - [[Lists-help-to-clear-out-your-head]].
 - [[Slow-Down]] and [[seek-silence-to-connect-with-your-inherent-curiosity]]
 - [[Bliss-can-be-a-space-or-a-time]]
