@@ -7,7 +7,7 @@ permalink: /now
 
 # Now
 
-*Updated on 03/09/2025*
+*Updated on 16/09/2025*
 
 ## Life
 
@@ -21,7 +21,8 @@ permalink: /now
 
 ## Reading
 
-- *How Long 'til Black Future Month?* - N. K. Jemisen
+- *Slaughterhouse 5*- [[Kurt-Vonnegut]](re-read)
+* *Food for the Dead* - Charlotte Shevchenko Knight
 
 Here's everything I've read this year- [[books-read-2025]]
 
