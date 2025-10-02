@@ -26,3 +26,6 @@ permalink: /films25
 17. Jurassic World: Rebirth (C)
 18. Anchorman (rewatch) (B-)
 19. The Naked Gun: From the Files of Police Squad (1988) (B)
+20. Rogue One: A Star Wars Story (rewatch)(A-)
+21. David Byrne: American Utopia (A)
+22. Mindhorn (rewatch) (B+)

@@ -14,4 +14,4 @@ Collection of essays from Amercia's best short story writer, dealing with the ba
 ## Key Ideas
 
 - [[Humour-is-a-Weapon]].
-- Link to [[Kurt-Vonnegut]] with overwhelming empathy for other human beings and their foibles (there's an introduction to *Slaughterhouse 5* in here that makes the link explicit.)
+- Link to [[Kurt-Vonnegut]] with overwhelming empathy for other human beings and their foibles (there's an introduction to *[[Slaughterhouse-Five-Kurt-Vonnegut-1970|Slaughterhouse 5]]* in here that makes the link explicit.)

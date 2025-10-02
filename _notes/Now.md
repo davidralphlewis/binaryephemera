@@ -7,7 +7,7 @@ permalink: /now
 
 # Now
 
-*Updated on 16/09/2025*
+*Updated on 02/10/2025*
 
 ## Life
 
@@ -17,12 +17,11 @@ permalink: /now
 ## Working on
 
 - Promoting *Emergence*. Why not [pick up a copy today?](https://www.davidralphlewis.co.uk/posts/announcing-emergence/)
-- Working through project management apprenticeship at work. Prepping for the final assessment, which is very soon.
+- Working through project management apprenticeship at work. Prepping for the final assessment, which is **very** soon.
 
 ## Reading
 
-- *Slaughterhouse 5*- [[Kurt-Vonnegut]](re-read)
-* *Food for the Dead* - Charlotte Shevchenko Knight
+- *The Fellowship of The Ring*- J. R. R. Tolkien
 
 Here's everything I've read this year- [[books-read-2025]]
 
