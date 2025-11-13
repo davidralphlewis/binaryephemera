@@ -29,3 +29,6 @@ permalink: /films25
 20. Rogue One: A Star Wars Story (rewatch)(A-)
 21. David Byrne: American Utopia (A)
 22. Mindhorn (rewatch) (B+)
+23. Jaws (rewatch) (A+)
+24. Listers: A Glimpse into Extreme Birdwatching (B+)
+25. The Big Year (B-)

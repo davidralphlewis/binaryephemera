@@ -33,7 +33,7 @@ permalink: /books25
 24. *Dreams of Dusty Roads* - Tijan M. Sallah
 25. [[the-scarlet-letter-nathaniel-hawthorne-1850]]
 26. [[how-long-til-black-future-month-n-k-jemisen-2018]]
-27. *Food for the Dead* - Charlotte Shevchenko Knight
-28. *Slaughterhouse 5*- [[Kurt-Vonnegut]](re-read)
+27. *[[food-for-the-dead-by-charlotte-shevchenko-knight2025]]
+28. [[Slaughterhouse-Five-Kurt-Vonnegut-1970]]
 29. *The Peace of Wild Things* - Wendell Berry
 

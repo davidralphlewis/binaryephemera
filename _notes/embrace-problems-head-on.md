@@ -1,4 +1,7 @@
 ---
+
+---
+
 title: embrace-problems-head-on
 layout: note
 date: 2024-09-02

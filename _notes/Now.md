@@ -7,21 +7,21 @@ permalink: /now
 
 # Now
 
-*Updated on 02/10/2025*
+*Updated on 13/11/2025*
 
 ## Life
 
 - [[2025]] is the [year of enough](https://www.davidralphlewis.co.uk/posts/2025-year-of-enough/)
-- Planning a move. Lots of paperwork and checks. Hopefully will happen soon.
+- Moved house! Where is everything?
+- Finished Project Management apprenticeship. Got a distinction!
 
 ## Working on
 
 - Promoting *Emergence*. Why not [pick up a copy today?](https://www.davidralphlewis.co.uk/posts/announcing-emergence/)
-- Working through project management apprenticeship at work. Prepping for the final assessment, which is **very** soon.
 
 ## Reading
 
-- *The Fellowship of The Ring*- J. R. R. Tolkien
+- *The Two Towers*- J. R. R. Tolkien
 
 Here's everything I've read this year- [[books-read-2025]]
 
@@ -35,7 +35,7 @@ Here's all the films I've watched this year: [[films-watched-2025]] and tv serie
 
 ## Playing
 
-- *No Man's Sky* - pretty good to relax to.
+- *No Man's Sky* - Infinite worlds, infinite playtime.
 - *Bioshock: Infinite*
 - *Inside*
 

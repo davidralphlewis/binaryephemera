@@ -15,6 +15,7 @@ I appreciated some of the central findings of this book, like how to implement b
  * [[Small-Changes-Add-Up]]
  * [[Lower-the-Barrier-To-Entry]]
  * [[Set-Your-Environment-Up-for-Success]]
+ * [[Stack-habits-together]]
 
 
 ## Criticisms
