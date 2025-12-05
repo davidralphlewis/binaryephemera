@@ -36,4 +36,6 @@ permalink: /books25
 27. *[[food-for-the-dead-by-charlotte-shevchenko-knight2025]]
 28. [[Slaughterhouse-Five-Kurt-Vonnegut-1970]]
 29. *The Peace of Wild Things* - Wendell Berry
+30. *The Satsuma Complex* - Bob Mortimer (audiobook)
+31. Digital Minimalism - Cal Newport (audiobook)
 

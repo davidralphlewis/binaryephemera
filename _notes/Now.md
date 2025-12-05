@@ -7,21 +7,23 @@ permalink: /now
 
 # Now
 
-*Updated on 13/11/2025*
+*Updated on 05/12/2025*
 
 ## Life
 
 - [[2025]] is the [year of enough](https://www.davidralphlewis.co.uk/posts/2025-year-of-enough/)
 - Moved house! Where is everything?
-- Finished Project Management apprenticeship. Got a distinction!
+- Doing a digital declutter to stop staring at rubbish.
 
 ## Working on
 
-- Promoting *Emergence*. Why not [pick up a copy today?](https://www.davidralphlewis.co.uk/posts/announcing-emergence/)
+- Writing a new zine / pamphlet about driving and death.
+- Remembering how to write silly little poems.
 
 ## Reading
 
-- *The Two Towers*- J. R. R. Tolkien
+- *The Return of the King*- J. R. R. Tolkien
+- *The Process of Poetry* - edited by Rosanna McGlone
 
 Here's everything I've read this year- [[books-read-2025]]
 
@@ -31,12 +33,10 @@ Here's everything I've read this year- [[books-read-2025]]
 - *Bob's Burgers* - Series 1
 - *Malcolm in the Middle* - Series 1
 
-Here's all the films I've watched this year: [[films-watched-2025]] and tv series [[tv-series-watched-2025]]e
+Here's all the films I've watched this year: [[films-watched-2025]] and tv series [[tv-series-watched-2025]]
 
 ## Playing
 
-- *No Man's Sky* - Infinite worlds, infinite playtime.
-- *Bioshock: Infinite*
-- *Inside*
+- Nothing at the moment due to digital declutter.
 
 *Part of the <a href="https://nownownow.com/about" >Now page</a> movement*

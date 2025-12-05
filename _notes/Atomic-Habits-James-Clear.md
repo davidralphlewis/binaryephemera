@@ -21,4 +21,6 @@ I appreciated some of the central findings of this book, like how to implement b
 ## Criticisms
  
 -  [[Self-Help-Ignores-Systemic-Solutions]]
-- No examination of why someone may find it harder to implement habits. Assumes you are healthy, neurotypical and have nothing else going on in your life. 
+- No examination of why someone may find it harder to implement habits. Assumes you are healthy, neurotypical and have nothing else going on in your life. [[self-help-ignores-privilege]].
+- [[if-books-could-kill-podcast-atomic-habits]]
+- [[My problem with atomic habits the wallflower digest]]
