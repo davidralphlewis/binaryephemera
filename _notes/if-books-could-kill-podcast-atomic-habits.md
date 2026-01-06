@@ -9,6 +9,6 @@ permalink:
 - James Clear's asvice is good and occasionally useful, but he ignores systemic problems - [[Self-Help-Ignores-Systemic-Solutions]]
 - Problems are often complex and therefore solutions need to be varied.
 - Its a Blog post expanded into book. You can summarise the useful parts quite easily and it doesn't justify being a book.
-- [[Question what makes them an expert]]
+- [[What makes them an expert]]
 - [[Check the sources]]
 

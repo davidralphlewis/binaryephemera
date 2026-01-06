@@ -11,7 +11,7 @@ Inventive, crazy fantasy about cities in the sky made of plants that can be mani
 
 Good to see fantasy drawing from other traditions instead of just Western Europe.
 
-About different states of consciousness and beings living forever jn human form
+About different states of consciousness and beings living forever in human form.
 
 Dynamic between central married couple who are fighting. Interesting dynamic not really explored in fiction.
 

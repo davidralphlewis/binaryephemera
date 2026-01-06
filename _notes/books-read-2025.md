@@ -34,8 +34,13 @@ permalink: /books25
 25. [[the-scarlet-letter-nathaniel-hawthorne-1850]]
 26. [[how-long-til-black-future-month-n-k-jemisen-2018]]
 27. *[[food-for-the-dead-by-charlotte-shevchenko-knight2025]]
-28. [[Slaughterhouse-Five-Kurt-Vonnegut-1970]]
-29. *The Peace of Wild Things* - Wendell Berry
+28. [[Slaughterhouse-Five-Kurt-Vonnegut-1970]] (re-read)
+29. *The Peace of Wild Things* - Wendell Berry (re-read)
 30. *The Satsuma Complex* - Bob Mortimer (audiobook)
-31. Digital Minimalism - Cal Newport (audiobook)
+31. [[Digital-Minimalism-Cal-Newport-2019]] (audiobook)
+32. *The Lord of the Rings*- J. R. R. Tolkien (re-read)
+33. *The Process of Poetry* - edited by Rosanna McGlone
+34. *The Ministry of Time* - Kaliane Bradley
+35.  *The Book of Dust: The Rose Field* - Philip Pullman
+36. *What It Is* - Lynda Barry
 
