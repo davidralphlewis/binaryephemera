@@ -9,5 +9,5 @@ permalink:
 [[source-notes]] on [this article](https://www.hamiltonnolan.com/p/the-underlying-problem) by [[Hamilton Nolan]]
 
 [[Billionaires-should-not-exist]]
-[[The continual existence of billionaires is a problem for society]]. 
-[[Money is power]].
+[[the-continual-existence-of-billionaires-is-a-problem-for-society]]. 
+[[money-is-power]].

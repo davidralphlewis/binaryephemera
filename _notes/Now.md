@@ -11,8 +11,9 @@ permalink: /now
 
 ## Life
 
-- Starting 2026. Reflecting on the year past and the year to come.
-- No resolutions, only directions of travel.
+- Starting 2026.
+- Getting over winter lurgy, getting back to the gym 
+- No resolutions, only directions of travel. This year is the year of changes, after a lot of waiting. 
 
 ## Working on
 
@@ -21,7 +22,9 @@ permalink: /now
 
 ## Reading
 
-- 
+- *Folklore Rising* - Ben Edge
+- *The Long Take* - Robin Robertson
+- *Never Whistle in the Dark*- Various Authors
 
 Here's everything I've read this year- [[books-read-2026]]
 
@@ -36,6 +39,6 @@ Here's all the films I've watched this year: [[films-watched-2026]]
 
 ## Playing
 
-- *Disco Elysium*
+- *Disco Elysium*. So good, a noir with deeply complex characters and situations, all told in dialogue. 
 
 *Part of the <a href="https://nownownow.com/about" >Now page</a> movement*

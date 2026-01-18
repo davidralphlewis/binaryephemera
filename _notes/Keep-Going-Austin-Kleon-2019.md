@@ -11,6 +11,10 @@ A short book full of wise, useful advice about how to keep a creative practise g
 
 ## Key Ideas
 
+[[The-Artist-Does-Not-Control-Reception]]
+
+## Key Ideas
+
 - [[The-Artist-Does-Not-Control-Reception]]
 - [[All-we-can-control-is-the-daily-work]]. 
 - [[There-is-no-one-perfect-routine]]
@@ -19,12 +23,12 @@ A short book full of wise, useful advice about how to keep a creative practise g
 - [[Slow-Down]] and [[seek-silence-to-connect-with-your-inherent-curiosity]]
 - [[Bliss-can-be-a-space-or-a-time]]
 - [[Focus on the verb]]
-- [[Don't rush to monetise your art]]
-- [[Ignore numbers on social media]]. 
+- [[dont-rush-to-monetise-your-art]]
+- [[ignore-numbers-on-social-media]]. 
 - [[Art-is-a-gift]]
 - [[Art can be found in the mundane]]
 - [[slow-down-to-pay-attention]]
-- [[Re-read old diaries to pay attention and know yourself]].
+- [[reread-old-diaries-to-pay-attention-and-know-yourself]].
 - [[Art thrives on uncertainty]]
 - [[Take-inspiration-from-old-stuff]].
 - [[Tidying-is-exploratory]]

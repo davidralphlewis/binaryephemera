@@ -9,5 +9,5 @@ A theory from [[Craig-Mod]] that you shouldn't aim for happiness.  Instead you s
 Fullness is squeezing the most out of a day, walking a lot and writing for example. Its doing deep work with your full concentration.
 
 > What the heck is “happiness” if not a fleeting moment of peace and satisfaction; certainly not an “end state” goal in and of itself. Aim for the concrete! Fullness is easy to measure: How tired are you? How many words did you write today? How many people did you yell _hello_ to?
-> [[Full Days and the Long Walk - Craig mod]]
+> [[full-days-and-the-long-walk-craig-mod-2025]]
 

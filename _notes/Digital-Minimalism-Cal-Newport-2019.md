@@ -33,7 +33,7 @@ Does this technology support my values? Does it do it deeply? How can I maximise
 ## On solitude and reflection 
 
 [[solitude-allows-us-to-hear-our-own-thoughts]]
-[[Solitude is a break from other minds]].
+[[solitude-is-a-break-from-other-minds]].
 [[modern-technology-has-eliminated-solitude]]
 Also need connection - need a balance
 

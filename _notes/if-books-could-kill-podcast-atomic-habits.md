@@ -10,5 +10,5 @@ permalink:
 - Problems are often complex and therefore solutions need to be varied.
 - Its a Blog post expanded into book. You can summarise the useful parts quite easily and it doesn't justify being a book.
 - [[What makes them an expert]]
-- [[Check the sources]]
+- [[check-the-sources-quoted]]
 
