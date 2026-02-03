@@ -23,7 +23,7 @@ permalink: /films24
 14. [[Phantom-Thread]] (A)
 15. Pride and Prejudice (2005) (B)
 16. Dead Poets Society (A)
-17. Frontline Folklore (B)
+17. [[Frontline-Folklore-2023]] (B)
 18. Where the Crawdads Sing (D+)
 19. The Fall Guy (B+)
 20. Emma (2022) (B)

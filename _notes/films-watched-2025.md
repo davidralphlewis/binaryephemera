@@ -33,7 +33,7 @@ permalink: /films25
 24. Listers: A Glimpse into Extreme Birdwatching (B+)
 25. The Big Year (C+)
 26. Song of the Sea (A)
-27. Shakespeare in Love (rewatch) (A)
+27. [[shakespeare-in-love-1998]] (rewatch) (A)
 28. Eternal Sunshine of the Spotless Mind (rewatch) (A)
 29. Raiders of the Lost Ark (B-)
 30. Idiocracy (D-)

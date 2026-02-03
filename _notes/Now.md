@@ -7,24 +7,20 @@ permalink: /now
 
 # Now
 
-*Updated on 02/01/2026*
+*Updated on 02/02/2026*
 
 ## Life
 
-- Starting 2026.
-- Getting over winter lurgy, getting back to the gym 
-- No resolutions, only directions of travel. This year is the year of changes, after a lot of waiting. 
+- Lots of work focus.
 
 ## Working on
 
 - Writing a new zine / pamphlet about driving and death.
-- Remembering how to write silly little poems.
+- Remembering how to write silly little poems, usually on my lunchbreak
 
 ## Reading
 
-- *Folklore Rising* - Ben Edge
 - *The Long Take* - Robin Robertson
-- *Never Whistle in the Dark*- Various Authors
 
 Here's everything I've read this year- [[books-read-2026]]
 

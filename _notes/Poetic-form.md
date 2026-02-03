@@ -9,6 +9,7 @@ Tag: [MOC]
 - [[Why-use-poetry-form]]
 - [[Ways-of-Approaching-Form]]
 - [[Rewrite-the-same-poem-in-different-forms]]
+- [[Restrictions-Make-You-More-Creative]]
 
 # Forms
 
@@ -23,10 +24,12 @@ Tag: [MOC]
 - [[Ekphrastic-Writing]]
 - [[Cinquain]]
 - [[Tanka]]
--  [[haiku]]
-- [[Burning-Haibun]]
 - [[Prose-Poem]]
+- [[Renga]]
+- [[Prisoners-Constraint]]
+- [[Lipogram]]
 
 # Related 
 
 [[Constrained-Writing]]
+See also [[Editing-A-Poem]]

@@ -22,7 +22,7 @@ A short book full of wise, useful advice about how to keep a creative practise g
 - [[Lists-help-to-clear-out-your-head]].
 - [[Slow-Down]] and [[seek-silence-to-connect-with-your-inherent-curiosity]]
 - [[Bliss-can-be-a-space-or-a-time]]
-- [[Focus on the verb]]
+- [[focus-on-the-verb]]
 - [[dont-rush-to-monetise-your-art]]
 - [[ignore-numbers-on-social-media]]. 
 - [[Art-is-a-gift]]
