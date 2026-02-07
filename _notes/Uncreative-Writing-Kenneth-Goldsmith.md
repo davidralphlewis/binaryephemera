@@ -14,7 +14,7 @@ Interesting, if fairly academic read, about reacting to the excess of text that 
 
 * [[There-is-too-much-text]]
 * [[Copying-is-creative]]
-* [[Détournement]]
+* [[Detournement]]
 * [[It-is-Impossible-to-Capture-Everything]]
 
 ## Critcisms

@@ -15,7 +15,7 @@ Also remember [[all-art-is-subjective]], [[Each-poem-Is-New]]. [[Focus-on-Proces
 -   What is the imagery doing? Is it coherent? Is it mostly [[Concrete-or-abstract]]? Are you following [[Show-Dont-Tell]]? Should you?
 -   Does the form reflect the content? Look at another [[Poetic-form]] to find one that might work. Can you build in rhyme or is the rhyme inappropriate?
 -   Look at line breaks. What are they doing? Are they intentional?
--   Remove clichés (or deliberately [[Twist-a-Cliché]])
+-   Remove clichés (or deliberately [[Twist-a-Cliche]])
 -   Remove joints of poem and common words.
 -   Keep a [[The-Spark-File]]
 -   [[Cut-the-Last-Lines]]

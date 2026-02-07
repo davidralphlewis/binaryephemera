@@ -15,7 +15,7 @@ permalink: /books25
 6. *The Feynman Challenge: Poems on Science* - James Thornton 
 7.  [[Chain-Gang-All-Stars-by-Nana-Kwame-Adjei-Brenyah]]
 8. *The Other Wind*- [[Ursula-K-LeGuin]]
-9.  [[You-Dreamed-Of-Empires-Álvaro-Enrique-Translated-by-Natasha Wimmer-2024]]
+9.  [[You-Dreamed-Of-Empires-Alvaro-Enrique-Translated-by-Natasha Wimmer-2024]]
 10. *The Persaverance* - Raymond Antrobus
 11. [[Keep-Going-Austin-Kleon-2019]] (re-read)
 12. [[the-wild-places-robert macfarlane-2007]]

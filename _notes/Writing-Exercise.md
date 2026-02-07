@@ -9,4 +9,4 @@ Here's some writing exercises to start getting the juices flowing. A bit more in
 -   [[The-Five-Senses]]
 -   [[Oulipo]] constraints.
 -   [[Relay-Poem-Exercise]]
--   [[Twist-a-Cliché]]
+-   [[Twist-a-Cliche]]
