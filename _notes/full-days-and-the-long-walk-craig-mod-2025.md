@@ -3,7 +3,7 @@ title: "Full Days and the Long Walk - Craig mod"
 layout: note
 date: 2026-01-11
 permalink:
----# 
+---
 
 [[source-notes]] on [this article](https://craigmod.com/ridgeline/217/) by [[Craig-Mod]]
 

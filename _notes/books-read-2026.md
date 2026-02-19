@@ -11,3 +11,7 @@ permalink: /books26
 3. [[Late-Light-by-Michael-Malay-2023]]
 4. *Folklore Rising* - Ben Edge
 5. *Never Whistle in the Dark*- Various Authors
+6. *The Long Take* - Robin Robertson
+7. *Make (Sneaky) Art* - Nishant Jain
+8. *The Broken Kingdoms* - N. K. Jemisen
+9. *Train Dreams* - Denis Johnson

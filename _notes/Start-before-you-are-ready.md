@@ -10,4 +10,7 @@ It's also a great way to start learning something- blunder into a subject you kn
 
 This way you allow your subconscious to take over, which can be scary. It also avoids the fear and you can [[Lower-the-Barrier-To-Entry]]. The aim is to avoid [[Paralysis-by-analysis]]
 
+>  If there is a single lesson I can give you now, let it be this: do things without knowing what they will become, without expectations, and without over-planning. Just get into them. Life is more fun when it is led by curiosity.
+>  - [[Make-Sneaky-Art-Nishant- Jain quotes]]
+
 

@@ -7,11 +7,11 @@ permalink: /now
 
 # Now
 
-*Updated on 02/02/2026*
+*Updated on 07/02/2026*
 
 ## Life
 
-- Lots of work focus.
+- Lots of work focus. Hoping for some additional responsibility soon.
 
 ## Working on
 
@@ -20,15 +20,15 @@ permalink: /now
 
 ## Reading
 
-- *The Long Take* - Robin Robertson
+- 
 
 Here's everything I've read this year- [[books-read-2026]]
 
 ## Watching
 
 - *The X Files* - Series 1
-- *Bob's Burgers* - Series 1
-- *Malcolm in the Middle* - Series 1
+- *Bob's Burgers* - Series 3
+- *Lost* - Series 3
 - *The West Wing* - Series 1
 
 Here's all the films I've watched this year: [[films-watched-2026]]
