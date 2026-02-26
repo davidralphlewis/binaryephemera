@@ -41,6 +41,6 @@ permalink: /books25
 32. *The Lord of the Rings*- J. R. R. Tolkien (re-read)
 33. *The Process of Poetry* - edited by Rosanna McGlone
 34. *The Ministry of Time* - Kaliane Bradley
-35.  *The Book of Dust: The Rose Field* - Philip Pullman
+35. [[the-rose-field-philip-pullman-2025]]
 36. *What It Is* - Lynda Barry
 
