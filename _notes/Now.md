@@ -7,7 +7,7 @@ permalink: /now
 
 # Now
 
-*Updated on 26/02/2026*
+*Updated on 05/03/2026*
 
 ## Life
 
@@ -21,7 +21,8 @@ permalink: /now
 ## Reading
 
 - *The Odyssey* - Homer, Translated by Emily Wilson
-- *The Anthropocene Reviewed* 
+- *The Anthropocene Reviewed* - John Green
+- *The Haunting of Hill House* - Shirley Jackson
 
 Here's everything I've read this year- [[books-read-2026]]
 
