@@ -11,7 +11,7 @@ permalink: /now
 
 ## Life
 
-- Lots of work focus. Hoping for some additional responsibility soon.
+- Lots of work focus. I got a promotion which is great! But now I am learning how to lead.
 
 ## Working on
 
@@ -21,8 +21,8 @@ permalink: /now
 ## Reading
 
 - *The Odyssey* - Homer, Translated by Emily Wilson
-- *The Anthropocene Reviewed* - John Green
-- *The Haunting of Hill House* - Shirley Jackson
+- *Meditations for Mortals* -[[Oliver-Burkeman]]
+- *Go Tell it on the Mountain* - James Baldwin
 
 Here's everything I've read this year- [[books-read-2026]]
 
@@ -30,8 +30,8 @@ Here's everything I've read this year- [[books-read-2026]]
 
 - *The X Files* - Series 1
 - *Bob's Burgers* - Series 3
-- *Lost* - Series 3
-- *The West Wing* - Series 1
+- *Lost* - Series 4
+- *The West Wing* - Series 2
 
 Here's all the films I've watched this year: [[films-watched-2026]]
 

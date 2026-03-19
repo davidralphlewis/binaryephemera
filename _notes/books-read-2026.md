@@ -13,5 +13,8 @@ permalink: /books26
 5. *Never Whistle in the Dark*- Various Authors
 6. *The Long Take* - Robin Robertson
 7. *Make (Sneaky) Art* - Nishant Jain
-8. *The Broken Kingdoms* - N. K. Jemisen
-9. *Train Dreams* - Denis Johnson
+8. [[The-Broken-Kingdoms-N-K-Jemisen-2010]]
+9. [[Train-Dreams-Denis-Johnson-2012]]
+10. *The Haunting of Hill House* - Shirley Jackson
+11. *The Anthropocene Reviewed* - John Green
+12. *Tokyo These Days -1*- Taiyo Matsumoto
