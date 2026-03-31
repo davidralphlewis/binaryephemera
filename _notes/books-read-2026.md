@@ -8,7 +8,7 @@ permalink: /books26
 
 1. [[Barrowbeck-by-Andrew-Michael-Hurley-2024]]
 2. [[The-Air-Year-by-Caroline-Bird-2020]] (re-read)
-3. [[Late-Light-by-Michael-Malay-2023]]
+3. [[02 Ongoing/notes-site/Late-Light-by-Michael-Malay-2023]]
 4. *Folklore Rising* - Ben Edge
 5. *Never Whistle in the Dark*- Various Authors
 6. *The Long Take* - Robin Robertson

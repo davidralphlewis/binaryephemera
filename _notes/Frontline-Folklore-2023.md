@@ -7,7 +7,7 @@ permalink:
 [[film-notes]] on [this film]([https://vimeo.com/897444792](https://vimeo.com/897444792))  
 Watched 2024  
   
-Film by [[Ben Edge]] where he travels round the country, filming folklore traditions. Most are ancient but then a lot have been revivied. If a tradition is revived in the 19670's it's now a new tradition  
+Film by [[Ben-Edge]] where he travels round the country, filming folklore traditions. Most are ancient but then a lot have been revivied. If a tradition is revived in the 19670's it's now a new tradition  
   
 Blackface has (possibly) different origins but the context has changed now, and the racist connotations are unavoidable, regardless of internet. Traditions need to reflect the times.  
   

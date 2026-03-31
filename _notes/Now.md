@@ -7,17 +7,17 @@ permalink: /now
 
 # Now
 
-*Updated on 05/03/2026*
+*Updated on 23/03/2026*
 
 ## Life
 
 - Lots of work focus. I got a promotion which is great! But now I am learning how to lead.
+- Rediscovering the allotment life
 
 ## Working on
 
 - Writing a new zine / pamphlet about driving and death.
-- Remembering how to write silly little poems, usually on my lunchbreak
-
+- Remembering how to write silly little poems, usually on my lunchbreak.
 ## Reading
 
 - *The Odyssey* - Homer, Translated by Emily Wilson
@@ -28,7 +28,7 @@ Here's everything I've read this year- [[books-read-2026]]
 
 ## Watching
 
-- *The X Files* - Series 1
+- *The X Files* - Series 2
 - *Bob's Burgers* - Series 3
 - *Lost* - Series 4
 - *The West Wing* - Series 2
