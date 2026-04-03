@@ -22,7 +22,7 @@ permalink: /now
 
 - *The Odyssey* - Homer, Translated by Emily Wilson
 - *Meditations for Mortals* -[[Oliver-Burkeman]]
-- *Go Tell it on the Mountain* - James Baldwin
+-
 
 Here's everything I've read this year- [[books-read-2026]]
 
