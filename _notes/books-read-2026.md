@@ -19,3 +19,6 @@ permalink: /books26
 11. [[The-Anthropocence-Reviewed-John-Green-2021]]
 12. [[Tokyo-these-Days-1-Taiyo-Matsumoto-2023]]
 13. *Go Tell it on the Mountain* - James Baldwin
+14. *Palestine* - Joe Sacco
+15. *The Odyssey* - Homer, Translated by Emily Wilson
+16. *Sharks in the River* - [[Ada Limon]]

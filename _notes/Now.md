@@ -7,22 +7,21 @@ permalink: /now
 
 # Now
 
-*Updated on 23/03/2026*
+*Updated on 16/04/2026*
 
 ## Life
 
 - Lots of work focus. I got a promotion which is great! But now I am learning how to lead.
-- Rediscovering the allotment life
+- Digging beds in the allotment, ignoring the weeds.
 
 ## Working on
 
 - Writing a new zine / pamphlet about driving and death.
 - Remembering how to write silly little poems, usually on my lunchbreak.
+- Drawing terrible sketches, much to my surprise.
 ## Reading
 
-- *The Odyssey* - Homer, Translated by Emily Wilson
 - *Meditations for Mortals* -[[Oliver-Burkeman]]
--
 
 Here's everything I've read this year- [[books-read-2026]]
 
@@ -37,6 +36,6 @@ Here's all the films I've watched this year: [[films-watched-2026]]
 
 ## Playing
 
-- *Disco Elysium*. So good, a noir with deeply complex characters and situations, all told in dialogue. 
+- *Baldurs Gate III* - Rich, complex and full of choice, this game is closest to tabletop [[Dungeons-and-Dragons]] I've found. 
 
 *Part of the <a href="https://nownownow.com/about" >Now page</a> movement*
