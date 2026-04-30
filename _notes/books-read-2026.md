@@ -22,3 +22,4 @@ permalink: /books26
 14. *Palestine* - Joe Sacco
 15. *The Odyssey* - Homer, Translated by Emily Wilson
 16. *Sharks in the River* - [[Ada Limon]]
+17. *Meditations for Mortals* -[[Oliver-Burkeman]]

@@ -14,7 +14,7 @@ permalink: /gtd
 5.  Keep a someday/maybe list
 6.  Run a [[Weekly-Review]] regularly.
 
-(I haven't actually read it but have digested numerous summaries.) 
+~~(I haven't actually read it but have digested numerous summaries.)~~ - Rectifying that now, will revise these notes.
 
 This is fine by itself. Writing every task down in a [[brain-dump]] helps clear your mind, and is a good example of the [[Extended-Mind]] theory. Checking on them regularly is also a good idea. I do both all the time.
 

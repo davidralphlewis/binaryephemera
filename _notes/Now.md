@@ -7,12 +7,12 @@ permalink: /now
 
 # Now
 
-*Updated on 16/04/2026*
+*Updated on 27/04/2026*
 
 ## Life
 
 - Lots of work focus. I got a promotion which is great! But now I am learning how to lead.
-- Digging beds in the allotment, ignoring the weeds.
+- Digging beds in the allotment, ignoring the (many) weeds.
 
 ## Working on
 
@@ -21,7 +21,8 @@ permalink: /now
 - Drawing terrible sketches, much to my surprise.
 ## Reading
 
-- *Meditations for Mortals* -[[Oliver-Burkeman]]
+- *The Mountain Under the Sea* - Ray Naylor
+- *[[Getting-Things-Done]]* (2015) - David Allen
 
 Here's everything I've read this year- [[books-read-2026]]
 
@@ -29,7 +30,7 @@ Here's everything I've read this year- [[books-read-2026]]
 
 - *The X Files* - Series 2
 - *Bob's Burgers* - Series 3
-- *Lost* - Series 4
+- *Lost* - Series 5
 - *The West Wing* - Series 2
 
 Here's all the films I've watched this year: [[films-watched-2026]]
@@ -37,5 +38,7 @@ Here's all the films I've watched this year: [[films-watched-2026]]
 ## Playing
 
 - *Baldurs Gate III* - Rich, complex and full of choice, this game is closest to tabletop [[Dungeons-and-Dragons]] I've found. 
+- Learning to play *Magic: The Gathering*
+- Ongoing [[Dungeons-and-Dragons]] campaign - we are trying to steal a dragon egg, unsuccessfully.
 
 *Part of the <a href="https://nownownow.com/about" >Now page</a> movement*

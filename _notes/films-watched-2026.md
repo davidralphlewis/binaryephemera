@@ -11,4 +11,6 @@ permalink: /films26
 2. Lord of the Rings: The Fellowship of the Ring (extended edition) (Rewatch) (A+)
 3. Muse: Simulation Theory (C+)
 4. Beast (2017) (B+)
-5. Footloose (1983) (B)
+5. Indiana Jones and the Temple of Doom (B-)
+6. Footloose (1983) (B)
+7. Underland (A)
