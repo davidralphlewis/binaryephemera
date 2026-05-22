@@ -4,7 +4,7 @@ layout: note
 date: 2025-06-03
 permalink:
 ---
-[[source-notes]] on [this article](https://lithub.com/craig-mod-on-the-creative-power-of-walking/) by [[Craig-Mod]]
+[[source-notes]] on [this article](https://lithub.com/craig-mod-on-the-creative-power-of-walking/) by [[02 Ongoing/notes-site/Craig-Mod]]
 
 - [[Be-Bored]] - [[Boredom-is-fuel-for-creativity]]
 - [[Walking-allows-you-to-be-bored]]

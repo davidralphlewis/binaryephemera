@@ -11,7 +11,7 @@ Here in no particular order are the tools I use. (Remember the [[Tools-Dont-Matt
 
 -   My main site is built with Eleventy and written in [[Obsidian]] using markdown. The site is hand coded, with [Sakura CSS](https://github.com/oxalorg/sakura) used as a starting point.
 -   The notes subdomain is written in [[Obsidian]], then built with Jekyll using <a href=“https://digital-garden-jekyll-template.netlify.app/”>this digital garden template</a>.
--   Both sites are hosted as separate repositories on GitHub pages and built using Netlify.
+-   Both sites are hosted as separate repositories on GitHub pages and built using Cloudflare.
 
 ## Writing
 

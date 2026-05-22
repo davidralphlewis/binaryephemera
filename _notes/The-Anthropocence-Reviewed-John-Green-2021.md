@@ -10,3 +10,6 @@ Author: [[John-Green]]
 
 I know mostly know [[John-Green]] from his young adult novels (and YouTube), so ***The Anthropocene Reviewed***  is a departure for him. Its a memoir based around short essays where he rates things out of five, including chapters on Super Mario Kart, the internet, and our capacity for wonder. Throughout he leaves a memoir of sorts, dropping details and stories about his life, as well as more philosophical writing. It has beautiful writing throughout and is interesting and reflective. 
 
+- Small reviews of many unconnected things  building up a personal memoir
+- Writes beautifully about art and being connected. Is passionate and profound. Prefer it to non fiction
+- How strange it is to be alive

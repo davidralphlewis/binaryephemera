@@ -4,7 +4,7 @@ layout: note
 date: 2025-12-13
 permalink:
 ---
-A theory from [[Craig-Mod]] that you shouldn't aim for happiness.  Instead you should aim for fullness and happiness is then a by product.
+A theory from [[02 Ongoing/notes-site/Craig-Mod]] that you shouldn't aim for happiness.  Instead you should aim for fullness and happiness is then a by product.
 
 Fullness is squeezing the most out of a day, walking a lot and writing for example. Its doing deep work with your full concentration.
 

@@ -5,7 +5,7 @@ date: 2026-01-11
 permalink:
 ---
 
-[[source-notes]] on [this article](https://craigmod.com/ridgeline/217/) by [[Craig-Mod]]
+[[source-notes]] on [this article](https://craigmod.com/ridgeline/217/) by [[02 Ongoing/notes-site/Craig-Mod]]
 
 - Fill your days with deep work and [[aim-for-fullness-to-be-happy]]
 - Social media stops deep work. It kills the muse and makes everything the same importance
