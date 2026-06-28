@@ -19,11 +19,14 @@ permalink: /books26
 11. [[The-Anthropocence-Reviewed-John-Green-2021]]
 12. [[Tokyo-these-Days-1-Taiyo-Matsumoto-2023]]
 13. [[go-tell-it-on-the-mountain-james-baldwin-1952]]
-14. *Palestine* - Joe Sacco
+14. [[Palestine-Joe-Sacco-2001]]
 15. *The Odyssey* - Homer, Translated by Emily Wilson
 16. *Sharks in the River* - [[Ada Limon]]
 17. *Meditations for Mortals* -[[Oliver-Burkeman]]
-18. [[Getting-Things-Done]]- David Allen
+18. [[Getting-Things-Done-David-Allen-2016]]- David Allen
 19. *Its Lonely at the centre of the earth*- Zoe Thorogood
 20. *The Mountain Under the Sea* - Ray Naylor
-21. *Wuthering Heights* - Charlotte Bronte
+21. *Wuthering Heights* - Emily Brontë
+22. *The Hearing Trumpet* - Leonora Carrington
+23. *The Kingdom of Gods* - N.K. Jemisen 
+24. *Saltwash* - Andrew Michael Hurley

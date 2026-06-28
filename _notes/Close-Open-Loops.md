@@ -11,4 +11,4 @@ Gestalt psychology argues there are open loops from childhood, needs that we nev
 
 As a writer, you constantly have lots of ideas. Sometimes for your wellbeing you just need to try them, even for ten minutes so you can close the loop on it.
 
-This is the whole point of [[Getting-Things-Done]].
+This is the whole point of [[Getting-Things-Done-David-Allen-2016]].

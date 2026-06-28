@@ -14,3 +14,6 @@ permalink: /films26
 5. Indiana Jones and the Temple of Doom (B-)
 6. Footloose (1983) (B)
 7. Underland (A)
+8. Rose of Nevada (A-)
+9. Enys Men (A)
+10. The Vast of Night (A)
