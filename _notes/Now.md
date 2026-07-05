@@ -7,12 +7,12 @@ permalink: /now
 
 # Now
 
-*Updated on 22/06/2026*
+*Updated on 02/06/2026*
 
 ## Life
 
 - Trying to turn our summerhouse into a garden office.
-- Avoiding the heat as much as possible
+- Fighting ants (Fants.)
 ## Working on
 
 - Writing a new zine / pamphlet about driving and death.
@@ -20,7 +20,8 @@ permalink: /now
 - Drawing terrible sketches, much to my surprise.
 ## Reading
 
-- *Adventures in Neurodiversity* - Robin Ince
+- *Normally Weird and Weirdly Normal: Adventures in Neurodiversity* - Robin Ince
+- *Ulysses* - James Joyce (re-read)
 
 Here's everything I've read this year- [[books-read-2026]]
 

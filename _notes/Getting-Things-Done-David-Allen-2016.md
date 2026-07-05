@@ -6,17 +6,17 @@ permalink: /gtd
 ---
 [[BookNotes]] author: [[David Allen]]
 
-*Getting Things Done* is a book by David Allen that has achieved a certain level of cult status among [[productivity]] gurus. It's easy to explain but hard to implement.
+*Getting Things Done* is a book by [[David Allen]] that has achieved a certain level of cult status among [[productivity]] gurus. It's easy to explain but hard to implement.
 
 The basic steps are
 
 1. [[make-it-easy-to-capture-quick-notes]]
-2. [[Gather everything in an inbox]]
-3. Process your inbox regularly. 
+2. [[gather-everything-in-an-inbox]]
+3. [[process-your-inbox-down-to-zero-regularly]]
 4. [[define-the-next-action]]
-5. [[follow the two minute rule]]
+5. [[follow-the-two-minute-rule]]
 6. [[Create projects if a task has two or more steps]]
-7. [[Keep a someday/maybe list]]
+7. [[Keep a someday maybe list]]
 8. Run a [[Weekly-Review]].
 
 This is fine by itself. Writing every task down in a [[brain-dump]] helps clear your mind, and is a good example of the [[Extended-Mind]] theory. Checking on them regularly is also a good idea. I do both all the time.
