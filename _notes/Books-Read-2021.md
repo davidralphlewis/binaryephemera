@@ -51,7 +51,7 @@ Here's all the [[books-read]] in 2021:
 42. *A Portable Paradise*- Roger Robinson
 43. *Reckless Paper Birds* - John McCullough
 44. *Low*- Chrissy Williams
-45. *Where Rockets Burn Through- Contemporary Science Fiction Poetry From the UK*- editor Russell Jones
+45. *Where Rockets Burn Through- Contemporary [[Sci-fi|Science Fiction]] Poetry From the UK*- editor Russell Jones
 46. *[[Circe-Madeline-Miller]]
 47. *[[Wanderlust-Rebecca-Solnit]]
 48. *On Earth We Are Briefly Gorgeous*- Ocean Vuong

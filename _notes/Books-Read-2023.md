@@ -45,4 +45,4 @@ permalink: /books23
 36. *Venemous Lumpsucker* - Ned Beauman
 37. *Wintering* - Katherine May
 38. [[Yellowface-R-F-Kuang]]
-39. *You Have No Normal Country to Return To* - Tom Sastry
+39. *You Have No Normal Country to Return To* - [[Tom Sastry]]
