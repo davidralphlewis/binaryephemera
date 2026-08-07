@@ -7,23 +7,25 @@ permalink: /now
 
 # Now
 
-*Updated on 12/06/2026*
+*Updated on 04/08/2026*
 
 ## Life
 
 - Trying to turn our summerhouse into a garden office.
-- Fighting ants (Fants.)
-- Sweltering in the heat.
-- We got a new cat! Getting her settled in.g
+- Replacing cottage doors with something more practical.
+- We got a new cat! Getting Betsy settled in.
+
 ## Working on
 
 - Writing a new zine / pamphlet about driving and death.
 - Remembering how to write silly little poems, usually on my lunchbreak.
 - Drawing terrible sketches, much to my surprise.
+
 ## Reading
 
 - *Ulysses* - James Joyce (re-read)
-- *The Maniac* - Benjamin Labatut
+- *The Lottery and Other Stories*- [[Shirley Jackson]]
+
 
 Here's everything I've read this year- [[books-read-2026]]
 
@@ -31,7 +33,7 @@ Here's everything I've read this year- [[books-read-2026]]
 
 - *The X Files* - Series 2
 - *Bob's Burgers* - Series 3
-- *Lost* - Series 5
+- *Lost* - Series 6
 - *The West Wing* - Series 2
 
 Here's all the films I've watched this year: [[films-watched-2026]]

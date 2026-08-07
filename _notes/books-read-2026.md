@@ -10,7 +10,7 @@ permalink: /books26
 2. [[The-Air-Year-by-Caroline-Bird-2020]] (re-read)
 3. [[Late-Light-by-Michael-Malay-2023]]
 4. [[Folklore-Rising-Ben-Edge-2024]]
-5. [[Never whistle in the dark]]
+5. [[Never-Whistle-at-Night-Various-Authors-2023]]
 6. [[The-Long-Take-Robin-Robertson-2018]]
 7. [[Make-Sneaky-Art-Nishant-Jain-2025]]
 8. [[The-Broken-Kingdoms-N-K-Jemisen-2010]]
@@ -21,7 +21,7 @@ permalink: /books26
 13. [[go-tell-it-on-the-mountain-james-baldwin-1952]]
 14. [[Palestine-Joe-Sacco-2001]]
 15. [[The-Odyssey-Homer-Emily-Wilson-2017]]
-16. *Sharks in the River* - [[Ada Limon]]
+16. [[sharks-in-the-rivers-ada-limon-2010]]
 17. [[meditations-for-mortals-oliver-burkeman-2024]]
 18. [[Getting-Things-Done-David-Allen-2016]]
 19. [[its-lonely-at-the-centre-of-the-earth-zoe-throughgood-2022]]
@@ -29,6 +29,8 @@ permalink: /books26
 21. *Wuthering Heights* - Emily Brontë
 22. *The Hearing Trumpet* - Leonora Carrington
 23. *The Kingdom of Gods* - N.K. Jemisen 
-24. *Saltwash* - Andrew Michael Hurley
+24. [[Saltwash - Andrew Michael Hurley]]
 25. *Normally Weird and Weirdly Normal: Adventures in Neurodiversity* - Robin Ince
-26. *Territory of Light*
+26. *Territory of Light* by Yuko Tsushima translated by Geraldine Harcourt
+27. *Everything is Tuberculosis* - John Green
+28. *The MANIAC* - Benjámin Labatut

@@ -19,7 +19,7 @@ Here's some questions for self reflection when [[Journaling]] or doing a [[Weekl
 -   <a href="https://www.youtube.com/watch?v=H8ih1_EkVOo" >[[Struthless]]- Hard questions</a> (his channel is very good for these sorts of reflective questions)
 
 >     - How is the worst thing that happened to you the best thing that has ever happened to you?
->     - What would it look like if this was easy?
+>     - [[What if it was easy]]?
 >     - Will it make the boat go faster?
 >     - What would the ideal me do?
 >     - How is this my fault/ responsibility?
