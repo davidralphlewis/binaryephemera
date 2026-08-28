@@ -10,4 +10,4 @@ When writing a story, you dont have to have all the answers. You can write somet
 
 Its a way of [[Writing-From-the-Subconscious]]
 
-> A writer sometimes writes a message for herself, to be read when she begins to under­stand it. [[Ursula-K-LeGuin]] Via [[Robin-Sloan]][[https://omnivore.app/me/https-www-robinsloan-com-moonbound-challenge-to-herself-18f058efd46#98bb3904-6dcd-44b2-91d8-9aea9fbbf151]]  ^98bb3904
+> A writer sometimes writes a message for herself, to be read when she begins to under­stand it. [[Ursula-K-LeGuin]] Via [Robin-Sloan][https-www-robinsloan-com-moonbound-challenge-to-herself-18f058efd46#98bb3904-6dcd-44b2-91d8-9aea9fbbf151]  ^98bb3904

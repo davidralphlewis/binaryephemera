@@ -15,7 +15,7 @@ Questions to help with your [[Weekly-Review]] or [[Monthly-Review]]
 - What do I want to keep doing?
 - Is it still important?
 
-Look at your [[Personal Framework]]
+Look at your [[My Personal Framework]]
 
 - Did I live my values?
 - How can I change?

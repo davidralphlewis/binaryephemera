@@ -26,11 +26,12 @@ permalink: /books26
 18. [[Getting-Things-Done-David-Allen-2016]]
 19. [[its-lonely-at-the-centre-of-the-earth-zoe-throughgood-2022]]
 20. [[The-Mountain-in-the-Sea-Raymond-Nayler-2022]]
-21. *Wuthering Heights* - Emily Brontë
-22. *The Hearing Trumpet* - Leonora Carrington
-23. *The Kingdom of Gods* - N.K. Jemisen 
+21. [[wuthering-heights-emily-bronte-1847]]
+22. [[the-hearing-trumpet-leonora-carrington-1974]]
+23. [[the-kingdom-of-the-gods-n-k-jemisen2011]]
 24. [[Saltwash - Andrew Michael Hurley]]
 25. *Normally Weird and Weirdly Normal: Adventures in Neurodiversity* - Robin Ince
 26. *Territory of Light* by Yuko Tsushima translated by Geraldine Harcourt
 27. *Everything is Tuberculosis* - John Green
 28. *The MANIAC* - Benjámin Labatut
+29. *Starve Acre* - Andrew Michael Hurley

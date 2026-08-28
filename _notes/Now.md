@@ -7,17 +7,16 @@ permalink: /now
 
 # Now
 
-*Updated on 04/08/2026*
+*Updated on 28/08/2026*
 
 ## Life
 
-- Trying to turn our summerhouse into a garden office.
 - Replacing cottage doors with something more practical.
-- We got a new cat! Getting Betsy settled in.
+- Enjoying the rain that finally hit.
 
 ## Working on
 
-- Writing a new zine / pamphlet about driving and death.
+- Writing a new [[Zine]] / pamphlet about driving and death.
 - Remembering how to write silly little poems, usually on my lunchbreak.
 - Drawing terrible sketches, much to my surprise.
 
@@ -25,7 +24,9 @@ permalink: /now
 
 - *Ulysses* - James Joyce (re-read)
 - *The Lottery and Other Stories*- [[Shirley Jackson]]
-
+- *Tao Tse Ching* - Lao Tzu, translated by [[Ursula-K-LeGuin]]
+- *Assassins Apprentice* - Robin Hobb
+- *Luminous* - Sylvia Park
 
 Here's everything I've read this year- [[books-read-2026]]
 

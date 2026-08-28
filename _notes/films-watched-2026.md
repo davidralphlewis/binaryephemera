@@ -15,7 +15,7 @@ permalink: /films26
 6. Footloose (1983) (B)
 7. Underland (A)
 8. Rose of Nevada (A-)
-9. [[Enys Men]] (A)
+9. [[enys-men-2022]] (A)
 10. The Vast of Night (A)
 11. Disclosure Day (C+)
 12. The Golden Spurtle (B)

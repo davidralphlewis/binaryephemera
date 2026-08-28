@@ -9,7 +9,7 @@ Attention is the most important resource we have.  It is what we use to define o
 
 No wonder [[Social-Media-is-Designed-to-Capture-Our-Attention]].
 
-- Jay Springett has a zine called *Your Attention is Sovereign.*
+- Jay Springett has a [[Zine]] called *Your Attention is Sovereign.*
  
 > Attention, on the other hand, just is life: your experience of being alive consists of nothing other than the sum of everything to which you pay attention.
 > -- [[Four-Thousand-Weeks-by-Oliver-Burkeman-2021]]
