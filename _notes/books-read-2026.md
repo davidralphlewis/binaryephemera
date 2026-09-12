@@ -35,3 +35,5 @@ permalink: /books26
 27. *Everything is Tuberculosis* - John Green
 28. *The MANIAC* - Benjámin Labatut
 29. *Starve Acre* - Andrew Michael Hurley
+30. [[Luminous-Silvia-Park-2026]]L
+31. *Tao Tse Ching* - Lao Tzu, translated by [[Ursula-K-LeGuin]]

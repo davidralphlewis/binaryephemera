@@ -20,3 +20,7 @@ permalink: /films26
 11. Disclosure Day (C+)
 12. The Golden Spurtle (B)
 13. Hunt for the Wilderpeople (rewatch) (A+)
+14. Project Hail Mary (B+)
+15. The Odyssey (B)
+16. Speed (B-)
+17. Iron Maiden: Burning Ambition (B)

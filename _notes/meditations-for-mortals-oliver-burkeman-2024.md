@@ -17,7 +17,7 @@ Series of daily thoughts around being limited beings, following on from [[Four-T
 - [[you-have-to-do-the-thing-instead-of-learning-about-it]], Do it consistently. [[do-it-with-no-hope-of-doing-it-again]]. Always just have now and the choices you make with it.
 - That said, [[aim-to-do-things-daily-ish]]. Regular, but you're not a failure if you don't.
 - You can do anything, but you have to accept the consequences. Eg don't tidy up, but accept the house will be messy.
-- [[Keep a done list]].
+- [[keep-a-done-list]].
 - [[lists-and-to-read-piles-are-rivers]] or a menu, not an obligation.
 -  [[It is impossible to pay attention to everything]]
 - [[the-future-is-unknowable]]. Accept that and don't worry.
