@@ -18,13 +18,13 @@ Series of daily thoughts around being limited beings, following on from [[Four-T
 - That said, [[aim-to-do-things-daily-ish]]. Regular, but you're not a failure if you don't.
 - You can do anything, but you have to accept the consequences. Eg don't tidy up, but accept the house will be messy.
 - [[keep-a-done-list]].
-- [[lists-and-to-read-piles-are-rivers]] or a menu, not an obligation.
--  [[It is impossible to pay attention to everything]]
+- [[think-of-lists-and-to-read-piles-are-rivers]] or a menu, not an obligation.
+-  [[it-is-impossible-to-pay-attention-to-everything]]
 - [[the-future-is-unknowable]]. Accept that and don't worry.
 - Make a decisioin and follow it when uncertain. [[doing-is-often-better-than-thinking]].
 - What does done look like? If you're writing a book it might be writing a chapter, not writing the whole thing. [[Break-big-tasks-into-tiny-steps]]([[Getting-Things-Done-David-Allen-2016]] in a chapter)
 - [[Face what you fear]]
-- [[What if it was easy]]?
+- [[what-if-it-was-easy]]?
 - Other people can have their problems - it doesn't affect you.
 - Problems lead to good stories.
 - [[Life cant be hoarded]]. Once again: **Life can't be hoarded**

@@ -42,5 +42,5 @@ permalink: /books25
 33. *The Process of Poetry* - edited by Rosanna McGlone
 34. *The Ministry of Time* - Kaliane Bradley
 35. [[the-rose-field-philip-pullman-2025]]
-36. *What It Is* - Lynda Barry
+36. *What It Is* - [[Lynda Barry]]
 

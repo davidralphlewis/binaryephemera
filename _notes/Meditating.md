@@ -1,8 +1,11 @@
 ---
-title: "Meditating"
+title: Meditating
 layout: note
 date: 2022-08-28
 permalink:
+aliases:
+  - Meditate
+  - Meditation
 ---
 
 I've been mediating for a while, since I was 26 (On and off throughout the years.) I am rubbish at it.
@@ -15,6 +18,6 @@ It's useful, but it shouldn't be used as a replacement for actual mental health 
 
 ## Techniques 
 
-- [[body scan meditation]]
+- [[body-scan-meditation]]
 - [[double-breath-breathing]]
 - [[double-inhale-breathing]]
