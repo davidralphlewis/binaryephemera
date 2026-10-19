@@ -6,4 +6,4 @@ permalink:
 ---
 
 
-[[Author]]
+[[author]]

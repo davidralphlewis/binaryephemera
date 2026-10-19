@@ -10,7 +10,7 @@ permalink: /books26
 2. [[The-Air-Year-by-Caroline-Bird-2020]] (re-read)
 3. [[Late-Light-by-Michael-Malay-2023]]
 4. [[Folklore-Rising-Ben-Edge-2024]]
-5. [[Never-Whistle-at-Night-Various-Authors-2023]]
+5. [[02 Notes/notes-site/Never-Whistle-at-Night-Various-Authors-2023]]
 6. [[The-Long-Take-Robin-Robertson-2018]]
 7. [[Make-Sneaky-Art-Nishant-Jain-2025]]
 8. [[The-Broken-Kingdoms-N-K-Jemisen-2010]]
@@ -29,14 +29,19 @@ permalink: /books26
 21. [[wuthering-heights-emily-bronte-1847]]
 22. [[the-hearing-trumpet-leonora-carrington-1974]]
 23. [[the-kingdom-of-the-gods-n-k-jemisen2011]]
-24. [[Saltwash - Andrew Michael Hurley]]
-25. *Normally Weird and Weirdly Normal: Adventures in Neurodiversity* - Robin Ince
-26. *Territory of Light* by Yuko Tsushima translated by Geraldine Harcourt
-27. *Everything is Tuberculosis* - John Green
-28. *The MANIAC* - Benjámin Labatut
-29. *Starve Acre* - Andrew Michael Hurley
+24. [[Saltwash-Andrew-Michael-Hurley-2025]]
+25.  Normally Weird and Weirdly Normal: My Adventures in Neurodiversity - Robin Ince
+26. [[territory-of-light-yuko-tshushima-translated-by-geraldine-harcourt-1979]]
+27. *Everything is Tuberculosis* - John Gren
+28. [[The-MANIAC-Benjamin-Labatut-2023]]
+29. [[starve-acre-andrew-michael-hurley-2019]]
 30. [[Luminous-Silvia-Park-2026]]
 31. *Tao Tse Ching* - Lao Tzu, translated by [[Ursula-K-LeGuin]]
 32. *Assassin's Apprentice*- Robin Hobb
 33. *The Revalation Tapes* - Stefan Mohammed
-34. *Helm* - Sarah Hall
+34. [[Helm-Susan-Hall-2025]]
+35. *The Lottery and Other Stories*- [[Shirley Jackson]]
+36. *Exhalation* - Ted Chiang
+37. *A Guest in the House* - E. M. Carroll
+38. *Piranesi*  - Susanna Clarke
+39. *The Loney* - Andrew Michael Hurley

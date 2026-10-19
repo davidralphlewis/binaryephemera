@@ -1,5 +1,5 @@
 ---
-title: "The Artist Does Not Control Reception"
+title: The Artist Does Not Control Reception
 layout: note
 date: 2022-11-21
 permalink:

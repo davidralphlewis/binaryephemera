@@ -15,11 +15,11 @@ Here's all the [[books-read]] in 2021:
 6.  *Apple Water: Povel Panni* - Raine Geoghegan
 7.  *Aubade After a French Movie* - Zoe Brigley
 8.  *Brave Faces & Other Smiles* - Beth Calverley
-9.  *Lanny* - Max Porter
+9.  *[[Lanny-Max-Porter]]
 10. *The Last Wish (The Witcher, \#0.5)* - Andrzej Sapkowski
 11. *[[Purple-Hibiscus-by-Chimamanda-Ngozi-Adichie-2003]]
 12. *[[The-Order-of-Time-Carlo-Rovelli]]* 
-13. *The Lithium Codex* - Oz Hardwickp0
+13. *The Lithium Codex* - Oz Hardwick
 14. *Night Sky with Exit Wounds* - Ocean Vuong
 15. *The Underside of Things* - Jenna Plewes
 16. *The Monteforte Bride* - Patricia M. Osborne
