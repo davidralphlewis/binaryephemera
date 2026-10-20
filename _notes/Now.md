@@ -39,6 +39,6 @@ Here's all the films I've watched this year: [[films-watched-2026]]
 - *Baldurs Gate III* - Rich, complex and full of choice, this game is closest to tabletop [[Dungeons-and-Dragons]] I've found. 
 - *Cassette Boy* - Fun Gameboy-esque perspective game.
 - Learning to play *Magic: The Gathering*, getting slightly obsessed with the endless combinations.
-- Ongoing [[Dungeons-and-Dragons]] campaign - we escaped the Underdark city that was about to be overtaken by demons.
+- Ongoing [[Dungeons-and-Dragons]] campaign - we escaped the Underdark city that was about to be overtaken by demons. Now 
 
 *Part of the <a href="https://nownownow.com/about" >Now page</a> movement*
