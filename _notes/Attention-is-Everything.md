@@ -18,4 +18,4 @@ No wonder [[Social-Media-is-Designed-to-Capture-Our-Attention]].
 rocks, are going crazy with happiness. Imagination is better  
 than a sharp instrument. To pay attention, this is our endless  
 and proper work.
-> *Yes! No!*- Mary Oliver
+> *Yes! No!*- [[Mary Oliver]]

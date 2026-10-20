@@ -21,7 +21,7 @@ permalink: /now
 - Making a card deck.
 ## Reading
 
-- *Ulysses* - James Joyce (re-read)
+- [[Ulysses-James-Joyce-1922]] (re-read)
 
 
 Here's everything I've read this year- [[books-read-2026]]

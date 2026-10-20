@@ -16,4 +16,4 @@ Be respectful of the editor's time. Follow the submissions guideline for each ma
 
 Be aware magazines get a lot of submissions and more likely than not you need to be comfortable in [[Getting-Rejections]]
 
-<a href="https://belljarblog.wordpress.com/2015/01/08/submitting-to-journals-the-jo-bell-method/" >Jo Bell's spreadsheet</a> method is a very useful framework for submissions. I've followed it for the last few years and its really made a difference to my attitude of how I submit poems and stories.
+<a href="https://belljarblog.wordpress.com/2015/01/08/submitting-to-journals-the-jo-bell-method/" >[[Jo Bell]]'s spreadsheet</a> method is a very useful framework for submissions. I've followed it for the last few years and its really made a difference to my attitude of how I submit poems and stories.

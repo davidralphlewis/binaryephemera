@@ -6,7 +6,7 @@ date: 2022-08-16
 
 I've kept a journal/ diary throughout my life, but more consistently since I was 25. I find it invaluable as a tool to reflect on each day as it passes and figure out how I'm feeling.
 
-Recently, I've been using [[Lynda Barry]]'s [[observation-journal]] method, suggested by Kathleen Jennings.
+Recently, I've been using [[Lynda-Barry]]'s [[observation-journal]] method, suggested by Kathleen Jennings.
 
 I've also added in questions I found from [[Struthless]]:
 

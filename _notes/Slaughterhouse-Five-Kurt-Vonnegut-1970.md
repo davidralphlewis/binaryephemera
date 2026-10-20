@@ -11,7 +11,7 @@ aliases:
 
 [[BookNotes]]
 
-Author: [[Kurt-Vonnegut]]
+Author: [[Kurt-Vonnegut-Jr|Kurt-Vonnegut-Jr]]
 
 [[food-for-the-dead-by-charlotte-shevchenko-knight2025]] led me back onto this. It had been a few years as I last read this in my twenties. Now in my late thirties I found it full of despair at the hopelessness and pointlessness of war and slaughter. The Tralfamadorians feel like a way of coping with the indescribable horror of war. *So it goes* feels despairing, not ironic, but a grim statement of fact. 
 

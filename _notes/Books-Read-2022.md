@@ -10,7 +10,7 @@ permalink: /books2022
 1. *How to Do Nothing*- JennyOdell
 2.  [[Gideon-the-Ninth-Tamsyn-Muir]] 
 3.  *[[Humour-Stanley-Donwood]]*
-4.  *The Bible II* - Sam J. Grudgings
+4.  *The Bible II* - [[Sam J Grudgings|Sam J. Grudgings]]
 5.  *Drive Your Plow Over the Bones of the Dead*-Olga Tokarczuk
 6.  *52 ways of looking at a poem*- Ruth Padel
 7.  *[[Entangled-Life-Merlin-Sheldrake]]*
@@ -35,16 +35,16 @@ permalink: /books2022
 26. *Violent Cases*- [[Neil-Gaiman]] & [[Dave McKean]]
 27. *Earthworks*- Stuart Carswell
 28. *The Sandman: Seasons of Mists*- [[Neil-Gaiman]] (re-read) 
-29. *Paper Girls: Volume 1*- Brian K. Vaughan, Cliff Chiang, Matt Wilson (re-read) 
-30. *Paper Girls: Volume 2*- Brian K. Vaughan, Cliff Chiang, Matt Wilson (re-read) 
-31. *Paper Girls: Volume 3* - Brian K. Vaughan, Cliff Chiang, Matt Wilson (re-read) 
-32. *Paper Girls: Volume 4* - Brian K. Vaughan, Cliff Chiang, Matt Wilson (re-read) 
-33. *Paper Girls: Volume 5* - Brian K. Vaughan, Cliff Chiang, Matt Wilson 
-34. *Paper Girls: Volume 6*- Brian K. Vaughan, Cliff Chiang, Matt Wilson
+29. *Paper Girls: Volume 1*- [[Brian K. Vaughan]], Cliff Chiang, Matt Wilson (re-read) 
+30. *Paper Girls: Volume 2*- [[Brian K. Vaughan]], Cliff Chiang, Matt Wilson (re-read) 
+31. *Paper Girls: Volume 3* - [[Brian K. Vaughan]], Cliff Chiang, Matt Wilson (re-read) 
+32. *Paper Girls: Volume 4* - [[Brian K. Vaughan]], Cliff Chiang, Matt Wilson (re-read) 
+33. *Paper Girls: Volume 5* - [[Brian K. Vaughan]], Cliff Chiang, Matt Wilson 
+34. *Paper Girls: Volume 6*- [[Brian K. Vaughan]], Cliff Chiang, Matt Wilson
 35. *[[This-One-Sky-Day-Leone-Ross]]*
 36. *War of the Foxes*- Richard Siken
 37. *Tales of Earthsea* - [[Ursula-K-LeGuin]]
-38. *Use of Weapons*- Iain M. Banks
+38. *Use of Weapons*- [[Iain-Banks|Iain M. Banks]]
 39. [[Four-Thousand-Weeks-by-Oliver-Burkeman-2021]]- [[Oliver-Burkeman]]
 40. [[The Teleportation Accident- Ned Beauman]]
 41. [[Lud-in-the-Mist-Hope-Mirrlees]]

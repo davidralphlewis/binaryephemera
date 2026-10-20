@@ -10,7 +10,7 @@ permalink: /books26
 2. [[The-Air-Year-by-Caroline-Bird-2020]] (re-read)
 3. [[Late-Light-by-Michael-Malay-2023]]
 4. [[Folklore-Rising-Ben-Edge-2024]]
-5. [[02 Notes/notes-site/Never-Whistle-at-Night-Various-Authors-2023]]
+5. [[02 Notes/Public Notes/Never-Whistle-at-Night-Various-Authors-2023]]
 6. [[The-Long-Take-Robin-Robertson-2018]]
 7. [[Make-Sneaky-Art-Nishant-Jain-2025]]
 8. [[The-Broken-Kingdoms-N-K-Jemisen-2010]]
@@ -41,7 +41,7 @@ permalink: /books26
 33. *The Revalation Tapes* - Stefan Mohammed
 34. [[Helm-Susan-Hall-2025]]
 35. *The Lottery and Other Stories*- [[Shirley Jackson]]
-36. *Exhalation* - Ted Chiang
+36. *Exhalation* - [[Ted Chiang]]
 37. *A Guest in the House* - E. M. Carroll
 38. *Piranesi*  - Susanna Clarke
 39. *The Loney* - Andrew Michael Hurley

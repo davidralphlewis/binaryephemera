@@ -9,4 +9,4 @@ Humour is a powerful tool. Although it can seem irrelevant, it is often impactfu
 
 It can be used to mock those who think themselves above everyone else, like fascists. Look at Nigel Farage being covered in a milkshake for example, or Charlie Chaplin's *The Great Dictator.*
 
-Some of the best writers, like [[Kurt-Vonnegut]], use humour to undermine the pomposity of humanity. Humour becomes a weapon of satire.
+Some of the best writers, like [[Kurt-Vonnegut-Jr|Kurt-Vonnegut-Jr]], use humour to undermine the pomposity of humanity. Humour becomes a weapon of satire.

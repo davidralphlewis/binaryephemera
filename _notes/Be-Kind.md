@@ -8,7 +8,7 @@ permalink:
 The golden rule. You have to be as kind as you can to others. All of us are on this planet together, and you never know what people are going through. Chose to be kind and look after one another. 
 
 > “Hello babies. Welcome to Earth. It's hot in the summer and cold in the winter. It's round and wet and crowded. On the outside, babies, you've got a hundred years here. There's only one rule that I know of, babies-"God damn it, you've got to be kind.”  
-> ― [[Kurt-Vonnegut]], *God Bless You, Mr. Rosewater*
+> ― [[Kurt-Vonnegut-Jr|Kurt-Vonnegut]], *God Bless You, Mr. Rosewater*
 
 > "Therefore all things whatsoever ye would that men should do to you, do ye even so to them: for this is the law and the prophets."
 > ― Matthew 7:12, King James Bible.

@@ -7,7 +7,7 @@ permalink: /squirrel1
 
 #[[BookNotes]] 
 
-Fun, whimsical comic with a stack of jokes on every page. I've long been a fan of Ryan North's Dinosaur Comics, and this brings the same level of jokes and smart thinking to the Marvel universe. It's a palette cleanser of a book. 
+Fun, whimsical comic with a stack of jokes on every page. I've long been a fan of [[Ryan North]]'s Dinosaur Comics, and this brings the same level of jokes and smart thinking to the Marvel universe. It's a palette cleanser of a book. 
 
 ## [[5-things-to-steal]] 
 

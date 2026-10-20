@@ -36,7 +36,7 @@ permalink: /books24
 27. [[Hamnet-Maggie-O-Farrell-2020]]
 28. *Resurrection Mary*- Bobby Fisher
 29. [[Excession-Iain-M-Banks-1996]]
-30. *The Nation's Saddest Love Poems*- Sam J. Grudgings (re-read)
+30. *The Nation's Saddest Love Poems*- [[Sam J Grudgings|Sam J. Grudgings]] (re-read)
 31. [[Doppelganger-by-Naomi-Klein-2023]]
 32. [[the-artists-way-Julia-Cameron-1992]]
 33. [[A-Visit-From-The-Goon-Squad-by-Jennifer-Egan-2010]] (re-read)

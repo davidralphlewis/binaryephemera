@@ -25,7 +25,7 @@ permalink: /books23
 15. *On Mutability*- Jo Shapcott
 16. *The Stone Sky*-  [[N-K-Jemisen]] (Book 3 of [[The-Broken-Earth-Trilogy]])
 17. *Steal Like an Artist*- Austin Kleon
-18. *M Train*- Patti Smith
+18. *M Train*- [[Patti Smith]]
 19. *Faulty Manufacturing* - Josie Alford
 20. *Walking Towards the Noise* - John Bowie 
 21. *Our Share of Night*- Mariana Enriquez
@@ -37,7 +37,7 @@ permalink: /books23
 28. *Black Sun* - Rebecca Roanhorse
 29. *Full Metal Alchemist 1* -Hiromu Arakawa
 30. *Don't Touch My Hair*- Emma Dabiri
-31. *The Nation's Saddest Love Poems*- Sam J. Grudgings
+31. *The Nation's Saddest Love Poems*- [[Sam J Grudgings|Sam J. Grudgings]]
 32. *Tomorrow and Tomorrow and Tomorrow* - Gabrielle Zevin
 33. *Nowhere Men* - Eric Stephenson, Nate Bellegarde & Jordie Bellaire
 34. *To The Lighthouse* - Virginia Woolf

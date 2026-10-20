@@ -11,12 +11,12 @@ permalink: /books25
 2. *Warm Blooded Things* - Shaun Levy
 3. *Don Quixote* - Miguel de Cervantes Savedra, translated by J. M. Cohen
 4. [[The-Surviving-Sky-by-Kritika-H-Rao]]
-5. *Neverland: The Perils and Pleasure of Fandom* - Vanessa Kisuule
+5. *Neverland: The Perils and Pleasure of Fandom* - [[Vanessa Kisuule]]
 6. *The Feynman Challenge: Poems on Science* - James Thornton 
 7.  [[Chain-Gang-All-Stars-by-Nana-Kwame-Adjei-Brenyah]]
 8. *The Other Wind*- [[Ursula-K-LeGuin]]
 9.  [[You-Dreamed-Of-Empires-alvaro-Enrique-Translated-by-Natasha Wimmer-2024]]
-10. *The Persaverance* - Raymond Antrobus
+10. *The Persaverance* - [[Raymond Antrobus]]
 11. [[Keep-Going-Austin-Kleon-2019]] (re-read)
 12. [[the-wild-places-robert macfarlane-2007]]
 13. [[Nobodys-Empire-Stuart-Murdoch-2024]]
@@ -35,12 +35,12 @@ permalink: /books25
 26. [[how-long-til-black-future-month-n-k-jemisen-2018]]
 27. *[[food-for-the-dead-by-charlotte-shevchenko-knight2025]]
 28. [[Slaughterhouse-Five-Kurt-Vonnegut-1970]] (re-read)
-29. *The Peace of Wild Things* - Wendell Berry (re-read)
+29. *The Peace of Wild Things* - [[Wendell Berry]] (re-read)
 30. *The Satsuma Complex* - Bob Mortimer (audiobook)
 31. [[Digital-Minimalism-Cal-Newport-2019]] (audiobook)
 32. *The Lord of the Rings*- J. R. R. Tolkien (re-read)
 33. *The Process of Poetry* - edited by Rosanna McGlone
 34. *The Ministry of Time* - Kaliane Bradley
 35. [[the-rose-field-philip-pullman-2025]]
-36. *What It Is* - [[Lynda Barry]]
+36. *What It Is* - [[Lynda-Barry]]
 

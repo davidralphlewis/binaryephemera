@@ -6,4 +6,4 @@ date: 2022-08-15
 
 If you are [[Sending-Your-Work-Out]] regularly, there's a good chance it may be rejected. That’s just part of the deal.
 
--   Sam J. Grudgings has a <a href="https://www.youtube.com/watch?v=iRjVWzbL66o" >very good video</a> on being rejected. It sucks, but it's also an opportunity to improve.
+-   [[Sam J Grudgings|Sam J. Grudgings]] has a <a href="https://www.youtube.com/watch?v=iRjVWzbL66o" >very good video</a> on being rejected. It sucks, but it's also an opportunity to improve.
