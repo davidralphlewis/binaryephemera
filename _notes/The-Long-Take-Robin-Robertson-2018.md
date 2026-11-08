@@ -17,4 +17,4 @@ Strange, hallucinatory novel length poem about the USA after World War Two and a
 - Was centring society around the car worth it?
 - Main character is built on violence that will not stay hidden. 
 - Builds to a crescendo, language becomes more abstract and intense. 
-- Similar to Ulysses, but over years instead of a day. 
+- Similar to [[Ulysses-James-Joyce-1922]], but over years instead of a day. 

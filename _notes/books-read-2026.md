@@ -45,3 +45,6 @@ permalink: /books26
 37. *A Guest in the House* - E. M. Carroll
 38. *Piranesi*  - Susanna Clarke
 39. *The Loney* - Andrew Michael Hurley
+40. *Fever Dream* -[[Samantha Schweblin]] translated by Megan McDowell
+41. *The Black Cloud* - Fred Hoyle
+42. *Glass Town* - Isabel Greenberg

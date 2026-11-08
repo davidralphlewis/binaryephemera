@@ -7,21 +7,22 @@ permalink: /now
 
 # Now
 
-*Updated on 14/10/2026
+*Updated on 08/11/2026*
 
 ## Life
 
-- Enjoying the rain and gloom.
-- Holidays in Peak District and Hastings.
-
+- Enjoying the rain and gloom, sliding into winter.
+- Looking ahead to exciting trips next year.
 ## Working on
 
-- Writing a new [[Zine]] / pamphlet about driving and death. In final editing stages (maybe?).
+- Writing a new [[Zine]] / pamphlet about driving and death. In final editing stages - now put together into a google doc and formatted.
 - Remembering how to write silly little poems, usually on my lunchbreak.
-- Making a card deck.
+- Making a card deck for poetry editing
 ## Reading
 
 - [[Ulysses-James-Joyce-1922]] (re-read)
+- *In Ascension* - Martin MacInnes
+- *Devil's Day* - Andrew Michael Hurley
 
 
 Here's everything I've read this year- [[books-read-2026]]
@@ -29,6 +30,7 @@ Here's everything I've read this year- [[books-read-2026]]
 ## Watching
 
 - *The X Files* - Series 2
+- *The Last Man on Earth* - Series 2
 - *Bob's Burgers* - Series 4
 - *The West Wing* - Series 4
 

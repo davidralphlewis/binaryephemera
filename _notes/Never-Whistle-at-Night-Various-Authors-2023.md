@@ -1,3 +1,10 @@
+---
+title: "Never-Whistle-at-Night-Various-Authors-2023"
+layout: note
+date: 2026-10-21
+permalink:
+---
+
 [[BookNotes]] 
 
 Edited by [[Shane Hawk]], with a story by [[Rebecca Roanhorse]]
