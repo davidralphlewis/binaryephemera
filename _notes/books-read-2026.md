@@ -32,7 +32,7 @@ permalink: /books26
 24. [[Saltwash-Andrew-Michael-Hurley-2025]]
 25.  Normally Weird and Weirdly Normal: My Adventures in Neurodiversity - Robin Ince
 26. [[territory-of-light-yuko-tshushima-translated-by-geraldine-harcourt-1979]]
-27. *Everything is Tuberculosis* - John Gren
+27. *Everything is Tuberculosis* - John Green
 28. [[The-MANIAC-Benjamin-Labatut-2023]]
 29. [[starve-acre-andrew-michael-hurley-2019]]
 30. [[Luminous-Silvia-Park-2026]]
@@ -48,3 +48,4 @@ permalink: /books26
 40. *Fever Dream* -[[Samantha Schweblin]] translated by Megan McDowell
 41. *The Black Cloud* - Fred Hoyle
 42. *Glass Town* - Isabel Greenberg
+43. *Devil's Day* - Andrew Michael Hurley

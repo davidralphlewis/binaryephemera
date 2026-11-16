@@ -27,4 +27,4 @@ Series of daily thoughts around being limited beings, following on from [[Four-T
 - [[what-if-it-was-easy]]?
 - Other people can have their problems - it doesn't affect you.
 - Problems lead to good stories.
-- [[Life cant be hoarded]]. Once again: **Life can't be hoarded**
+- [[life-cant-be-hoarded]]. Once again: **Life can't be hoarded**

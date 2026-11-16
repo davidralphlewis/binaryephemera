@@ -7,11 +7,11 @@ permalink: /now
 
 # Now
 
-*Updated on 08/11/2026*
+*Updated on 16/11/2026*
 
 ## Life
 
-- Enjoying the rain and gloom, sliding into winter.
+- All getting quite chilly.
 - Looking ahead to exciting trips next year.
 ## Working on
 
@@ -21,9 +21,7 @@ permalink: /now
 ## Reading
 
 - [[Ulysses-James-Joyce-1922]] (re-read)
-- *In Ascension* - Martin MacInnes
-- *Devil's Day* - Andrew Michael Hurley
-
+- *In Ascension* - Martin MacInniss
 
 Here's everything I've read this year- [[books-read-2026]]
 
@@ -39,8 +37,7 @@ Here's all the films I've watched this year: [[films-watched-2026]]
 ## Playing
 
 - *Baldurs Gate III* - Rich, complex and full of choice, this game is closest to tabletop [[Dungeons-and-Dragons]] I've found. 
-- *Cassette Boy* - Fun Gameboy-esque perspective game.
 - Learning to play *Magic: The Gathering*, getting slightly obsessed with the endless combinations.
-- Ongoing [[Dungeons-and-Dragons]] campaign - we escaped the Underdark city that was about to be overtaken by demons. Now 
+- Ongoing [[Dungeons-and-Dragons]] campaign - All going well except we realised our warlock is being controlled by an incredibly powerful necromancer, which I'm sure is fine.
 
 *Part of the <a href="https://nownownow.com/about" >Now page</a> movement*
